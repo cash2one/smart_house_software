@@ -1,0 +1,328 @@
+============================================================
+Time  2014/06/27 10:41:18 471 
+============================================================
+[2014/06/27 10:41:18 471] isr        28   isr loaded!  
+[2014/06/27 10:41:18 471] isr        45   standard  
+[2014/06/27 10:41:18 477] isr_1conn  1631 SYS_MSG_LOAD  
+[2014/06/27 10:41:18 477] isr_1conn  1111 onesoc  
+[2014/06/27 10:41:18 477] isr_1conn  1112 ISR_MSG_SSB  
+[2014/06/27 10:41:18 477] isr_1conn  1122 isr  cisr1PdHHBHMFuOkW8P4HHwF15unuB5HVW  268436457  1400652215  
+[2014/06/27 10:41:18 477] isr_1conn  1159 not login!  
+[2014/06/27 10:41:18 477] isr_1conn  1330 speex  
+[2014/06/27 10:41:18 477] isr_1conn  1388 once bytes  390  
+[2014/06/27 10:41:18 477] isr_1conn  1414 vad enabled!  2000  10000  
+[2014/06/27 10:41:18 477] transport  609  net type:  standard  
+[2014/06/27 10:41:18 477] transport  610  net operator:  def  
+[2014/06/27 10:41:18 477] transport  611  use proxy:  false  
+[2014/06/27 10:41:18 477] transport  795  ns_i =  nil  
+[2014/06/27 10:41:18 477] transport  796  transport_obj.name =  iat  
+[2014/06/27 10:41:18 478] isr_1conn  1448 ISR_MSG_AUW  6400  1  
+[2014/06/27 10:41:18 482] isr_1conn  780  [aud] speech start  
+[2014/06/27 10:41:18 484] transport  144  [dns] [0] response 59.107.24.7  
+[2014/06/27 10:41:18 484] transport  152  iplist not avail  
+[2014/06/27 10:41:18 484] transport  863  [soc] connect   59.107.24.7  80  
+[2014/06/27 10:41:18 628] isr_1conn  1448 ISR_MSG_AUW  6400  2  
+[2014/06/27 10:41:18 777] isr_1conn  189  netperf:  91  
+[2014/06/27 10:41:18 778] isr_1conn  1448 ISR_MSG_AUW  6400  2  
+[2014/06/27 10:41:18 928] isr_1conn  1448 ISR_MSG_AUW  6400  2  
+[2014/06/27 10:41:19 077] isr_1conn  189  netperf:  81  
+[2014/06/27 10:41:19 078] isr_1conn  1448 ISR_MSG_AUW  6400  2  
+[2014/06/27 10:41:19 229] isr_1conn  1448 ISR_MSG_AUW  6400  2  
+[2014/06/27 10:41:19 378] isr_1conn  189  netperf:  71  
+[2014/06/27 10:41:19 379] isr_1conn  1448 ISR_MSG_AUW  6400  2  
+[2014/06/27 10:41:19 529] isr_1conn  1448 ISR_MSG_AUW  6400  2  
+[2014/06/27 10:41:19 678] isr_1conn  189  netperf:  62  
+[2014/06/27 10:41:19 679] isr_1conn  1448 ISR_MSG_AUW  6400  2  
+[2014/06/27 10:41:19 830] isr_1conn  1448 ISR_MSG_AUW  6400  2  
+[2014/06/27 10:41:19 978] isr_1conn  189  netperf:  52  
+[2014/06/27 10:41:19 980] isr_1conn  1448 ISR_MSG_AUW  6400  2  
+[2014/06/27 10:41:20 130] isr_1conn  1448 ISR_MSG_AUW  6400  2  
+[2014/06/27 10:41:20 278] isr_1conn  189  netperf:  42  
+[2014/06/27 10:41:20 280] isr_1conn  1448 ISR_MSG_AUW  6400  2  
+[2014/06/27 10:41:20 431] isr_1conn  1448 ISR_MSG_AUW  6400  2  
+[2014/06/27 10:41:20 579] isr_1conn  189  netperf:  32  
+[2014/06/27 10:41:20 609] isr_1conn  1448 ISR_MSG_AUW  6400  2  
+[2014/06/27 10:41:20 731] isr_1conn  1448 ISR_MSG_AUW  6400  2  
+[2014/06/27 10:41:20 881] isr_1conn  1448 ISR_MSG_AUW  6400  2  
+[2014/06/27 10:41:20 909] isr_1conn  189  netperf:  23  
+[2014/06/27 10:41:21 031] isr_1conn  1448 ISR_MSG_AUW  6400  2  
+[2014/06/27 10:41:21 181] isr_1conn  1448 ISR_MSG_AUW  6400  2  
+[2014/06/27 10:41:21 210] isr_1conn  189  netperf:  13  
+[2014/06/27 10:41:21 332] isr_1conn  1448 ISR_MSG_AUW  6400  2  
+[2014/06/27 10:41:21 482] isr_1conn  1448 ISR_MSG_AUW  6400  2  
+[2014/06/27 10:41:21 510] isr_1conn  189  netperf:  14  
+[2014/06/27 10:41:21 632] isr_1conn  1448 ISR_MSG_AUW  6400  2  
+[2014/06/27 10:41:21 782] isr_1conn  1448 ISR_MSG_AUW  6400  2  
+[2014/06/27 10:41:21 810] isr_1conn  189  netperf:  14  
+[2014/06/27 10:41:21 932] isr_1conn  1448 ISR_MSG_AUW  6400  2  
+[2014/06/27 10:41:22 083] isr_1conn  1448 ISR_MSG_AUW  6400  2  
+[2014/06/27 10:41:22 084] isr_1conn  786  [aud] speech end  
+[2014/06/27 10:41:22 110] isr_1conn  189  netperf:  14  
+[2014/06/27 10:41:22 233] isr_1conn  1448 ISR_MSG_AUW  6400  2  
+[2014/06/27 10:41:22 233] isr_1conn  1448 ISR_MSG_AUW  0  4  
+[2014/06/27 10:41:22 233] isr_1conn  1544 ISR_MSG_GRSLT  
+[2014/06/27 10:41:22 233] isr_1conn  1562 0  2  nil  
+[2014/06/27 10:41:22 384] isr_1conn  1544 ISR_MSG_GRSLT  
+[2014/06/27 10:41:22 384] isr_1conn  1562 0  2  nil  
+[2014/06/27 10:41:22 411] isr_1conn  189  netperf:  15  
+[2014/06/27 10:41:22 534] isr_1conn  1544 ISR_MSG_GRSLT  
+[2014/06/27 10:41:22 534] isr_1conn  1562 0  2  nil  
+[2014/06/27 10:41:22 684] isr_1conn  1544 ISR_MSG_GRSLT  
+[2014/06/27 10:41:22 685] isr_1conn  1562 0  2  nil  
+[2014/06/27 10:41:22 712] isr_1conn  189  netperf:  15  
+[2014/06/27 10:41:22 835] isr_1conn  1544 ISR_MSG_GRSLT  
+[2014/06/27 10:41:22 835] isr_1conn  1562 0  2  nil  
+[2014/06/27 10:41:22 985] isr_1conn  1544 ISR_MSG_GRSLT  
+[2014/06/27 10:41:22 986] isr_1conn  1562 0  2  nil  
+[2014/06/27 10:41:23 013] isr_1conn  189  netperf:  16  
+[2014/06/27 10:41:23 136] isr_1conn  1544 ISR_MSG_GRSLT  
+[2014/06/27 10:41:23 136] isr_1conn  1562 0  2  nil  
+[2014/06/27 10:41:23 286] isr_1conn  1544 ISR_MSG_GRSLT  
+[2014/06/27 10:41:23 287] isr_1conn  1562 0  2  nil  
+[2014/06/27 10:41:23 314] isr_1conn  189  netperf:  17  
+[2014/06/27 10:41:23 437] isr_1conn  1544 ISR_MSG_GRSLT  
+[2014/06/27 10:41:23 437] isr_1conn  1562 0  2  nil  
+[2014/06/27 10:41:23 587] isr_1conn  1544 ISR_MSG_GRSLT  
+[2014/06/27 10:41:23 588] isr_1conn  1562 0  2  nil  
+[2014/06/27 10:41:23 614] isr_1conn  189  netperf:  17  
+[2014/06/27 10:41:23 738] isr_1conn  1544 ISR_MSG_GRSLT  
+[2014/06/27 10:41:23 738] isr_1conn  1562 0  2  nil  
+[2014/06/27 10:41:23 888] isr_1conn  1544 ISR_MSG_GRSLT  
+[2014/06/27 10:41:23 889] isr_1conn  1562 0  2  nil  
+[2014/06/27 10:41:23 915] isr_1conn  189  netperf:  18  
+[2014/06/27 10:41:24 039] isr_1conn  1544 ISR_MSG_GRSLT  
+[2014/06/27 10:41:24 039] isr_1conn  1562 0  2  nil  
+[2014/06/27 10:41:24 189] isr_1conn  1544 ISR_MSG_GRSLT  
+[2014/06/27 10:41:24 190] isr_1conn  1562 0  2  nil  
+[2014/06/27 10:41:24 216] isr_1conn  189  netperf:  19  
+[2014/06/27 10:41:24 340] isr_1conn  1544 ISR_MSG_GRSLT  
+[2014/06/27 10:41:24 340] isr_1conn  1562 0  2  nil  
+[2014/06/27 10:41:24 490] isr_1conn  1544 ISR_MSG_GRSLT  
+[2014/06/27 10:41:24 491] isr_1conn  1562 0  2  nil  
+[2014/06/27 10:41:24 516] isr_1conn  189  netperf:  19  
+[2014/06/27 10:41:24 641] isr_1conn  1544 ISR_MSG_GRSLT  
+[2014/06/27 10:41:24 641] isr_1conn  1562 0  2  nil  
+[2014/06/27 10:41:24 792] isr_1conn  1544 ISR_MSG_GRSLT  
+[2014/06/27 10:41:24 792] isr_1conn  1562 0  2  nil  
+[2014/06/27 10:41:24 817] isr_1conn  189  netperf:  10  
+[2014/06/27 10:41:24 942] isr_1conn  1544 ISR_MSG_GRSLT  
+[2014/06/27 10:41:24 942] isr_1conn  1562 0  2  nil  
+[2014/06/27 10:41:25 092] isr_1conn  1544 ISR_MSG_GRSLT  
+[2014/06/27 10:41:25 093] isr_1conn  1562 0  2  nil  
+[2014/06/27 10:41:25 118] isr_1conn  189  netperf:  11  
+[2014/06/27 10:41:25 243] isr_1conn  1544 ISR_MSG_GRSLT  
+[2014/06/27 10:41:25 243] isr_1conn  1562 0  2  nil  
+[2014/06/27 10:41:25 393] isr_1conn  1544 ISR_MSG_GRSLT  
+[2014/06/27 10:41:25 394] isr_1conn  1562 0  2  nil  
+[2014/06/27 10:41:25 419] isr_1conn  189  netperf:  12  
+[2014/06/27 10:41:25 544] isr_1conn  1544 ISR_MSG_GRSLT  
+[2014/06/27 10:41:25 544] isr_1conn  1562 0  2  nil  
+[2014/06/27 10:41:25 694] isr_1conn  1544 ISR_MSG_GRSLT  
+[2014/06/27 10:41:25 695] isr_1conn  1562 0  2  nil  
+[2014/06/27 10:41:25 720] isr_1conn  189  netperf:  13  
+[2014/06/27 10:41:25 851] isr_1conn  1544 ISR_MSG_GRSLT  
+[2014/06/27 10:41:25 851] isr_1conn  1562 0  2  nil  
+[2014/06/27 10:41:25 001] isr_1conn  1544 ISR_MSG_GRSLT  
+[2014/06/27 10:41:25 001] isr_1conn  1562 0  2  nil  
+[2014/06/27 10:41:26 019] isr_1conn  189  netperf:  13  
+[2014/06/27 10:41:26 151] isr_1conn  1544 ISR_MSG_GRSLT  
+[2014/06/27 10:41:26 152] isr_1conn  1562 0  2  nil  
+[2014/06/27 10:41:26 302] isr_1conn  1544 ISR_MSG_GRSLT  
+[2014/06/27 10:41:26 302] isr_1conn  1562 0  2  nil  
+[2014/06/27 10:41:26 319] isr_1conn  189  netperf:  13  
+[2014/06/27 10:41:26 452] isr_1conn  1544 ISR_MSG_GRSLT  
+[2014/06/27 10:41:26 452] isr_1conn  1562 0  2  nil  
+[2014/06/27 10:41:26 603] isr_1conn  1544 ISR_MSG_GRSLT  
+[2014/06/27 10:41:26 603] isr_1conn  1562 0  2  nil  
+[2014/06/27 10:41:26 619] isr_1conn  189  netperf:  13  
+[2014/06/27 10:41:26 753] isr_1conn  1544 ISR_MSG_GRSLT  
+[2014/06/27 10:41:26 753] isr_1conn  1562 0  2  nil  
+[2014/06/27 10:41:26 903] isr_1conn  1544 ISR_MSG_GRSLT  
+[2014/06/27 10:41:26 904] isr_1conn  1562 0  2  nil  
+[2014/06/27 10:41:26 920] isr_1conn  189  netperf:  13  
+[2014/06/27 10:41:27 054] isr_1conn  1544 ISR_MSG_GRSLT  
+[2014/06/27 10:41:27 054] isr_1conn  1562 0  2  nil  
+[2014/06/27 10:41:27 204] isr_1conn  1544 ISR_MSG_GRSLT  
+[2014/06/27 10:41:27 204] isr_1conn  1562 0  2  nil  
+[2014/06/27 10:41:27 221] isr_1conn  189  netperf:  14  
+[2014/06/27 10:41:27 355] isr_1conn  1544 ISR_MSG_GRSLT  
+[2014/06/27 10:41:27 355] isr_1conn  1562 0  2  nil  
+[2014/06/27 10:41:27 505] isr_1conn  1544 ISR_MSG_GRSLT  
+[2014/06/27 10:41:27 505] isr_1conn  1562 0  2  nil  
+[2014/06/27 10:41:27 522] isr_1conn  189  netperf:  15  
+[2014/06/27 10:41:27 656] isr_1conn  1544 ISR_MSG_GRSLT  
+[2014/06/27 10:41:27 656] isr_1conn  1562 0  2  nil  
+[2014/06/27 10:41:27 806] isr_1conn  1544 ISR_MSG_GRSLT  
+[2014/06/27 10:41:27 806] isr_1conn  1562 0  2  nil  
+[2014/06/27 10:41:27 822] isr_1conn  189  netperf:  15  
+[2014/06/27 10:41:27 957] isr_1conn  1544 ISR_MSG_GRSLT  
+[2014/06/27 10:41:27 957] isr_1conn  1562 0  2  nil  
+[2014/06/27 10:41:28 107] isr_1conn  1544 ISR_MSG_GRSLT  
+[2014/06/27 10:41:28 107] isr_1conn  1562 0  2  nil  
+[2014/06/27 10:41:28 121] isr_1conn  189  netperf:  15  
+[2014/06/27 10:41:28 257] isr_1conn  1544 ISR_MSG_GRSLT  
+[2014/06/27 10:41:28 258] isr_1conn  1562 0  2  nil  
+[2014/06/27 10:41:28 408] isr_1conn  1544 ISR_MSG_GRSLT  
+[2014/06/27 10:41:28 408] isr_1conn  1562 0  2  nil  
+[2014/06/27 10:41:28 421] isr_1conn  189  netperf:  15  
+[2014/06/27 10:41:28 558] isr_1conn  1544 ISR_MSG_GRSLT  
+[2014/06/27 10:41:28 558] isr_1conn  1562 0  2  nil  
+[2014/06/27 10:41:28 709] isr_1conn  1544 ISR_MSG_GRSLT  
+[2014/06/27 10:41:28 709] isr_1conn  1562 0  2  nil  
+[2014/06/27 10:41:28 721] isr_1conn  189  netperf:  15  
+[2014/06/27 10:41:28 859] isr_1conn  1544 ISR_MSG_GRSLT  
+[2014/06/27 10:41:28 859] isr_1conn  1562 0  2  nil  
+[2014/06/27 10:41:29 010] isr_1conn  1544 ISR_MSG_GRSLT  
+[2014/06/27 10:41:29 010] isr_1conn  1562 0  2  nil  
+[2014/06/27 10:41:29 021] isr_1conn  189  netperf:  15  
+[2014/06/27 10:41:29 160] isr_1conn  1544 ISR_MSG_GRSLT  
+[2014/06/27 10:41:29 160] isr_1conn  1562 0  2  nil  
+[2014/06/27 10:41:29 311] isr_1conn  1544 ISR_MSG_GRSLT  
+[2014/06/27 10:41:29 311] isr_1conn  1562 0  2  nil  
+[2014/06/27 10:41:29 322] isr_1conn  189  netperf:  16  
+[2014/06/27 10:41:29 461] isr_1conn  1544 ISR_MSG_GRSLT  
+[2014/06/27 10:41:29 461] isr_1conn  1562 0  2  nil  
+[2014/06/27 10:41:29 611] isr_1conn  1544 ISR_MSG_GRSLT  
+[2014/06/27 10:41:29 612] isr_1conn  1562 0  2  nil  
+[2014/06/27 10:41:29 623] isr_1conn  189  netperf:  17  
+[2014/06/27 10:41:29 762] isr_1conn  1544 ISR_MSG_GRSLT  
+[2014/06/27 10:41:29 762] isr_1conn  1562 0  2  nil  
+[2014/06/27 10:41:29 912] isr_1conn  1544 ISR_MSG_GRSLT  
+[2014/06/27 10:41:29 912] isr_1conn  1562 0  2  nil  
+[2014/06/27 10:41:29 924] isr_1conn  189  netperf:  17  
+[2014/06/27 10:41:30 063] isr_1conn  1544 ISR_MSG_GRSLT  
+[2014/06/27 10:41:30 063] isr_1conn  1562 0  2  nil  
+[2014/06/27 10:41:30 213] isr_1conn  1544 ISR_MSG_GRSLT  
+[2014/06/27 10:41:30 213] isr_1conn  1562 0  2  nil  
+[2014/06/27 10:41:30 224] isr_1conn  189  netperf:  17  
+[2014/06/27 10:41:30 364] isr_1conn  1544 ISR_MSG_GRSLT  
+[2014/06/27 10:41:30 364] isr_1conn  1562 0  2  nil  
+[2014/06/27 10:41:30 514] isr_1conn  1544 ISR_MSG_GRSLT  
+[2014/06/27 10:41:30 514] isr_1conn  1562 0  2  nil  
+[2014/06/27 10:41:30 523] isr_1conn  189  netperf:  17  
+[2014/06/27 10:41:30 665] isr_1conn  1544 ISR_MSG_GRSLT  
+[2014/06/27 10:41:30 665] isr_1conn  1562 0  2  nil  
+[2014/06/27 10:41:30 815] isr_1conn  1544 ISR_MSG_GRSLT  
+[2014/06/27 10:41:30 823] isr_1conn  1562 0  2  nil  
+[2014/06/27 10:41:30 823] isr_1conn  189  netperf:  17  
+[2014/06/27 10:41:30 974] isr_1conn  1544 ISR_MSG_GRSLT  
+[2014/06/27 10:41:30 974] isr_1conn  1562 0  2  nil  
+[2014/06/27 10:41:31 123] isr_1conn  189  netperf:  17  
+[2014/06/27 10:41:31 124] isr_1conn  1544 ISR_MSG_GRSLT  
+[2014/06/27 10:41:31 124] isr_1conn  1562 0  2  nil  
+[2014/06/27 10:41:31 275] isr_1conn  1544 ISR_MSG_GRSLT  
+[2014/06/27 10:41:31 275] isr_1conn  1562 0  2  nil  
+[2014/06/27 10:41:31 423] isr_1conn  189  netperf:  17  
+[2014/06/27 10:41:31 425] isr_1conn  1544 ISR_MSG_GRSLT  
+[2014/06/27 10:41:31 425] isr_1conn  1562 0  2  nil  
+[2014/06/27 10:41:31 576] isr_1conn  1544 ISR_MSG_GRSLT  
+[2014/06/27 10:41:31 576] isr_1conn  1562 0  2  nil  
+[2014/06/27 10:41:31 724] isr_1conn  189  netperf:  18  
+[2014/06/27 10:41:31 726] isr_1conn  1544 ISR_MSG_GRSLT  
+[2014/06/27 10:41:31 726] isr_1conn  1562 0  2  nil  
+[2014/06/27 10:41:31 877] isr_1conn  1544 ISR_MSG_GRSLT  
+[2014/06/27 10:41:31 877] isr_1conn  1562 0  2  nil  
+[2014/06/27 10:41:32 025] isr_1conn  189  netperf:  19  
+[2014/06/27 10:41:32 027] isr_1conn  1544 ISR_MSG_GRSLT  
+[2014/06/27 10:41:32 027] isr_1conn  1562 0  2  nil  
+[2014/06/27 10:41:32 177] isr_1conn  1544 ISR_MSG_GRSLT  
+[2014/06/27 10:41:32 178] isr_1conn  1562 0  2  nil  
+[2014/06/27 10:41:32 326] isr_1conn  189  netperf:  19  
+[2014/06/27 10:41:32 328] isr_1conn  1544 ISR_MSG_GRSLT  
+[2014/06/27 10:41:32 328] isr_1conn  1562 0  2  nil  
+[2014/06/27 10:41:32 479] isr_1conn  1544 ISR_MSG_GRSLT  
+[2014/06/27 10:41:32 479] isr_1conn  1562 0  2  nil  
+[2014/06/27 10:41:32 627] isr_1conn  189  netperf:  11  
+[2014/06/27 10:41:32 629] isr_1conn  1544 ISR_MSG_GRSLT  
+[2014/06/27 10:41:32 629] isr_1conn  1562 0  2  nil  
+[2014/06/27 10:41:32 724] transport  339  [soc] [0] connected  
+[2014/06/27 10:41:32 725] isr_1conn  822  send ssb request  
+[2014/06/27 10:41:32 725] isr_1conn  894  [session] send 1th audio  
+[2014/06/27 10:41:32 725] isr_1conn  896  totalsz =   9399  
+[2014/06/27 10:41:32 725] isr_1conn  899  start netperf_fs_timer  
+[2014/06/27 10:41:32 725] isr_1conn  906  [session] send last audio!  
+[2014/06/27 10:41:32 725] isr_1conn  919  send rslt request  
+[2014/06/27 10:41:32 725] transport  901  build http request.  
+[2014/06/27 10:41:32 726] transport  992  POST /index.htm HTTP/1.1
+Host: dev.voicecloud.cn
+Content-Type: multipart/mixed;boundary=--
+Content-Length: 472
+User-Agent: iFLYCloud
+Cache-Control: no-cache
+Accept: */*
+
+----
+CL:180
+CT:text/plain
+
+ver=MSSP+0%2E9&sub=iat&cmd=ssb&ssm=1&auf=audio%2FL16%3Brate%3D16000&cver=5%2E0%2E4%2E1048&net%5Ftype=standard&csid=cisr1PdHHBHMFuOkW8P4HHwF15unuB5HVW&key=0c4G4KJ85svIx64rKmgK9iyw==
+----
+CL:56
+CT:text/appinfo
+CE:gzip,encrypt/0.2
+
+Ùf‚GÀB[∂òÅx  
+[2014/06/27 10:41:32 726] transport  901  build http request.  
+[2014/06/27 10:41:32 726] transport  992  POST /index.htm HTTP/1.1
+Host: dev.voicecloud.cn
+Content-Type: multipart/mixed;boundary=--
+Content-Length: 9642
+User-Agent: iFLYCloud
+Cache-Control: no-cache
+Accept: */*
+
+----
+CL:129
+CT:text/plain
+
+ver=MSSP+0%2E9&sub=iat&cmd=auw&aus=5&cver=5%2E0%2E4%2E1048&csid=cisr1PdHHBHMFuOkW8P4HHwF15unuB5HVW&key=0cv/3v4xt9ZKt64rKmgK9iyw==
+----
+CL:9408
+CT:audio/L16;rate=16000
+CE:speex,encrypt/0.2
+
+Bï"|’J     £
+     ı¨  »1v+÷ÉEÜ ¬Bl⁄E∞c·$H‡I¬Æ¯ÿz∑√Õ÷…¯ˇRÓ,¢»∂„√[Ÿ‰ûí›◊ËëRz qÙ	
+™ûÅÿ üLh˝^LF∏„6cﬂg∑ú	AÇ` õ÷XõZîÙ](ÃŒ rCù1‡ÓÑO‡ùÒ—Ö(éﬂíl⁄≤Ÿ%ﬂí\)è¸$†*ß*Züu 0(√™ÙÖÒﬂÆ!7Bd¯ÖmZr„JÃ∑ÏäÊàúœøû (‡Ö§»-âc⁄±≥lûBÙ%GÜ8Ä÷V£ØÛl  
+[2014/06/27 10:41:32 728] transport  901  build http request.  
+[2014/06/27 10:41:32 728] transport  992  POST /index.htm HTTP/1.1
+Host: dev.voicecloud.cn
+Content-Type: text/plain
+Content-Length: 123
+User-Agent: iFLYCloud
+Cache-Control: no-cache
+Accept: */*
+
+ver=MSSP+0%2E9&sub=iat&cmd=grs&cver=5%2E0%2E4%2E1048&csid=cisr1PdHHBHMFuOkW8P4HHwF15unuB5HVW&key=0c0W7NPiyn31B64rKmgK9iyw==  
+[2014/06/27 10:41:32 745] transport  361  [soc] [0] send ok  650  
+[2014/06/27 10:41:32 745] transport  361  [soc] [0] send ok  9821  
+[2014/06/27 10:41:32 745] transport  361  [soc] [0] send ok  284  
+[2014/06/27 10:41:32 779] isr_1conn  1544 ISR_MSG_GRSLT  
+[2014/06/27 10:41:32 779] isr_1conn  1562 0  2  nil  
+[2014/06/27 10:41:32 930] isr_1conn  1544 ISR_MSG_GRSLT  
+[2014/06/27 10:41:32 930] isr_1conn  1562 0  2  nil  
+[2014/06/27 10:41:33 080] isr_1conn  1544 ISR_MSG_GRSLT  
+[2014/06/27 10:41:33 080] isr_1conn  1562 0  2  nil  
+[2014/06/27 10:41:33 231] isr_1conn  1544 ISR_MSG_GRSLT  
+[2014/06/27 10:41:33 231] isr_1conn  1562 0  2  nil  
+[2014/06/27 10:41:33 381] isr_1conn  1544 ISR_MSG_GRSLT  
+[2014/06/27 10:41:33 381] isr_1conn  1562 0  2  nil  
+[2014/06/27 10:41:33 526] isr_1conn  223  send_ok_num, timer_num, send_average =   0  2  0  
+[2014/06/27 10:41:33 526] isr_1conn  226  netperf =   30  
+[2014/06/27 10:41:33 526] isr_1conn  227  start netperf_other_timer  
+[2014/06/27 10:41:33 532] isr_1conn  1544 ISR_MSG_GRSLT  
+[2014/06/27 10:41:33 532] isr_1conn  1562 0  2  nil  
+[2014/06/27 10:41:33 686] isr_1conn  1544 ISR_MSG_GRSLT  
+[2014/06/27 10:41:33 686] isr_1conn  1562 0  2  nil  
+[2014/06/27 10:41:33 837] isr_1conn  1544 ISR_MSG_GRSLT  
+[2014/06/27 10:41:33 837] isr_1conn  1562 0  2  nil  
+[2014/06/27 10:41:33 927] isr_1conn  209  send_ok_num, timer_num, send_average =   0  3  0  
+[2014/06/27 10:41:33 927] isr_1conn  212  netperf =   30  
+[2014/06/27 10:41:33 987] isr_1conn  1544 ISR_MSG_GRSLT  
+[2014/06/27 10:41:33 987] isr_1conn  1562 0  2  nil  
+[2014/06/27 10:41:34 137] isr_1conn  1544 ISR_MSG_GRSLT  
+[2014/06/27 10:41:34 137] isr_1conn  1562 0  2  nil  
+[2014/06/27 10:41:34 288] isr_1conn  1544 ISR_MSG_GRSLT  
+[2014/06/27 10:41:34 288] isr_1conn  1562 0  2  nil  
+[2014/06/27 10:41:34 327] isr_1conn  209  send_ok_num, timer_num, send_average =   0  4  0  
+[2014/06/27 10:41:34 327] isr_1conn  212  netperf =   30  

@@ -1,0 +1,1 @@
+/usr/bin/c++    -g -std=c++0x -O3 -DNDEBUG    CMakeFiles/qrobot_demo.dir/qrobot_demo.cpp.o  -o ../../bin/qrobot_demo -rdynamic -L/home/wilson/chen/qrobot/lib -lasound -lpython2.7 -lmsc -ldl -lpthread -lrt -lzmq -lqcontroller -Wl,-rpath,/home/wilson/chen/qrobot/lib 

@@ -1,0 +1,12 @@
+set (ModuleSrc qrobot_demo.cpp)
+set (MainTarget qrobot_demo)
+link_libraries(asound)
+link_libraries(python2.7)
+link_libraries(msc)
+link_libraries(dl)
+link_libraries(pthread)
+link_libraries(rt)
+add_executable(${MainTarget} ${ModuleSrc})
+TARGET_LINK_LIBRARIES (${MainTarget} qcontroller)
+SET_TARGET_PROPERTIES(${MainTarget}  PROPERTIES    
+    RUNTIME_OUTPUT_DIRECTORY "${PROJECT_SOURCE_DIR}/bin")

@@ -1,0 +1,42 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+Py_func_for_string	qrobot_demo.cpp	/^char * Py_func_for_string(string filename, string methodname){$/;"	f
+SR_DWORD	qrobot_demo.cpp	/^typedef int SR_DWORD;$/;"	t	file:
+SR_WORD	qrobot_demo.cpp	/^typedef short int SR_WORD ;$/;"	t	file:
+avg_bytes_per_sec	qrobot_demo.cpp	/^	SR_DWORD        avg_bytes_per_sec;      \/\/ = 每秒字节数 : dwSamplesPerSec * wBitsPerSample \/ 8$/;"	m	struct:wave_pcm_hdr	file:
+bits_per_sample	qrobot_demo.cpp	/^	SR_WORD         bits_per_sample;         \/\/ = 量化比特数: 8 | 16$/;"	m	struct:wave_pcm_hdr	file:
+block_align	qrobot_demo.cpp	/^	SR_WORD         block_align;            \/\/ = 每采样点字节数 : wBitsPerSample \/ 8$/;"	m	struct:wave_pcm_hdr	file:
+bright	qrobot_demo.cpp	/^int bright;  \/\/bright$/;"	v
+channels	qrobot_demo.cpp	/^	SR_WORD         channels;                       \/\/ = 通道数 : 1$/;"	m	struct:wave_pcm_hdr	file:
+data	qrobot_demo.cpp	/^	char            data[4];                        \/\/ = "data";$/;"	m	struct:wave_pcm_hdr	file:
+data_size	qrobot_demo.cpp	/^	SR_DWORD        data_size;                \/\/ = 纯数据长度 : FileSize - 44 $/;"	m	struct:wave_pcm_hdr	file:
+default_pcmwavhdr	qrobot_demo.cpp	/^struct wave_pcm_hdr default_pcmwavhdr = $/;"	v	typeref:struct:wave_pcm_hdr
+dwFmtSize	qrobot_demo.cpp	/^	SR_DWORD        dwFmtSize;                      \/\/ = 下一个结构体的大小 : 16$/;"	m	struct:wave_pcm_hdr	file:
+fmt	qrobot_demo.cpp	/^	char            fmt[4];                         \/\/ = "fmt "$/;"	m	struct:wave_pcm_hdr	file:
+format_tag	qrobot_demo.cpp	/^	SR_WORD         format_tag;              \/\/ = PCM : 1$/;"	m	struct:wave_pcm_hdr	file:
+iat	qrobot_demo.cpp	/^int iat()$/;"	f
+jsonFunc	simpleJson.py	/^def jsonFunc():$/;"	f
+main	qrobot_demo.cpp	/^int main(){$/;"	f
+main	simpleJson.py	/^def main():$/;"	f
+off	qrobot_demo.cpp	/^bool off = true;$/;"	v
+playback	qrobot_demo.cpp	/^void playback(char* filename)$/;"	f
+record	qrobot_demo.cpp	/^void record(char* filename)$/;"	f
+riff	qrobot_demo.cpp	/^	char            riff[4];                        \/\/ = "RIFF"$/;"	m	struct:wave_pcm_hdr	file:
+run_iat	qrobot_demo.cpp	/^void run_iat(const char* src_wav_filename ,  const char* param)$/;"	f
+samples_per_sec	qrobot_demo.cpp	/^	SR_DWORD        samples_per_sec;        \/\/ = 采样率 : 8000 | 6000 | 11025 | 16000$/;"	m	struct:wave_pcm_hdr	file:
+selfCon	qrobot_demo.cpp	/^void selfCon(int mode)$/;"	f
+self_control	qrobot_demo.cpp	/^bool self_control = true;  $/;"	v
+sensor_bright	qrobot_demo.cpp	/^void sensor_bright( void* responder)$/;"	f
+sensor_temp	qrobot_demo.cpp	/^void sensor_temp (void* responder)$/;"	f
+setModeOff	qrobot_demo.cpp	/^bool setModeOff()$/;"	f
+setModeOn	qrobot_demo.cpp	/^bool setModeOn(int mode)$/;"	f
+size_8	qrobot_demo.cpp	/^	SR_DWORD        size_8;                         \/\/ = FileSize - 8$/;"	m	struct:wave_pcm_hdr	file:
+temp	qrobot_demo.cpp	/^int temp;  \/\/temperature$/;"	v
+text_to_speech	qrobot_demo.cpp	/^int text_to_speech(const char* src_text ,const char* des_path ,const char* params)$/;"	f
+tts	qrobot_demo.cpp	/^int tts(char * input, int index){$/;"	f
+wave	qrobot_demo.cpp	/^	char            wave[4];                        \/\/ = "WAVE"$/;"	m	struct:wave_pcm_hdr	file:
+wave_pcm_hdr	qrobot_demo.cpp	/^struct wave_pcm_hdr$/;"	s	file:

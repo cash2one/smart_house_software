@@ -1,0 +1,1141 @@
+============================================================
+Time  2014/06/19 11:15:42 225 
+============================================================
+[2014/06/19 11:15:42 225] legacyuup  279  SYS_MSG_LOAD  
+[2014/06/19 11:15:42 225] legacyuup  194  UUP_MSG_START  
+[2014/06/19 11:15:42 225] legacyuup  196  legacyuup  legacyuup  268436457  1400652240  
+[2014/06/19 11:15:42 226] transport  609  net type:  standard  
+[2014/06/19 11:15:42 226] transport  610  net operator:  def  
+[2014/06/19 11:15:42 226] transport  611  use proxy:  false  
+[2014/06/19 11:15:42 226] legacyuup  254  not login!  
+[2014/06/19 11:15:42 359] legacyuup  268  UUP_MSG_LGI_RESULT  
+[2014/06/19 11:15:42 359] legacyuup  148  [session] send uup request  
+[2014/06/19 11:15:42 360] transport  753  using cached ip:  117.121.56.3  
+[2014/06/19 11:15:42 360] transport  795  ns_i =  nil  
+[2014/06/19 11:15:42 360] transport  796  transport_obj.name =  asr  
+[2014/06/19 11:15:42 360] transport  863  [soc] connect   117.121.56.3  80  
+[2014/06/19 11:15:42 421] transport  339  [soc] [0] connected  
+[2014/06/19 11:15:42 421] transport  901  build http request.  
+[2014/06/19 11:15:42 422] transport  992  POST /index.htm HTTP/1.1
+Host: dev.voicecloud.cn
+Content-Type: multipart/mixed;boundary=--
+Content-Length: 1416
+User-Agent: iFLYCloud
+Cache-Control: no-cache
+Accept: */*
+
+----
+CL:167
+CT:text/plain
+
+ver=MSSP+0%2E9&sub=asr&cmd=uup&cver=5%2E0%2E4%2E1048&key=0f5fyMhy2ouJeBxRDzpKI^R/HLgPXlMEZ6QzX67XFjTBk^HBywnTxKrT4cHLCdPEqtGKPpAtPXnhP0RvrfCN6qvRmhs5T9hkCh9Eb63wjeqr0=
+----
+CL:752
+CT:binary/userdata+userword
+CE:gzip,encrypt/0.2
+
+bõìÄÔy &,Ø5e…%jßGc.ƒ≠f>UYgclë¥˝æ•HF*Ã7≈ë±öÑ¥ﬂﬂﬁﬁäi;√«–ıñ≠”(&]Á…πÃ£≈⁄<
+`Ür	ä/Ófí‰H£ò∆“2.{/;èi¡ò⁄˚»o‰Yí›D¢ñÜîùô˙%ó÷Lª-±∫ôg«Üc‚÷∫«ﬂ…ô–⁄Õ⁄Ω»Éõ∆n¨AπŒ0‹$¯ˇ`f⁄säÅ…≥rÄ‹UïÆ%è`ÿ;±éÌ‡ÑøÊÿ6íl∏  
+[2014/06/19 11:15:42 422] transport  361  [soc] [0] send ok  1595  
+[2014/06/19 11:15:43 844] transport  370  [soc] [0] readable  
+[2014/06/19 11:15:43 844] transport  1243 HTTP/1.1 200 OK
+Content-Type: text/plain
+Content-Length: 194
+X-Req-Date: 2014/06/19 11:15:09 136
+Cache-Control: no-cache
+CL: 194
+X-Res-Date: 2014/06/19 11:15:10 483
+
+ver=MSSP+0%2E9&ret=0&cver=5%2E0%2E4%2E1048&eid=f20a2ffe9ea98cfbccc35dda1693641d&key=0fXg6Rb3CLzF1ZKIc1AYQFSyoYYhxQeORVBpxS08pQF9c^HBywnTxKrT4cHLCdPEqtGKPpAtPXnhP0RvrfCN6qvRmhs5T9hkCh9Eb63wjeqr0=  
+[2014/06/19 11:15:43 844] transport  1008 a_complete_httpmessage  200  
+[2014/06/19 11:15:43 844] transport  1113 port updated  80  
+[2014/06/19 11:15:43 844] transport  1115 switch  80  
+[2014/06/19 11:15:43 844] legacyuup  50   [trans] [id = uuplegacyuup] readable  
+[2014/06/19 11:15:43 844] transport  881  [soc] disconnect   
+[2014/06/19 11:15:43 844] legacyuup  58   uup ok!  
+============================================================
+Time  2014/06/19 11:17:44 016 
+============================================================
+[2014/06/19 11:17:44 016] legacyuup  279  SYS_MSG_LOAD  
+[2014/06/19 11:17:44 016] legacyuup  194  UUP_MSG_START  
+[2014/06/19 11:17:44 016] legacyuup  196  legacyuup  legacyuup  268436457  1400652240  
+[2014/06/19 11:17:44 016] transport  609  net type:  standard  
+[2014/06/19 11:17:44 016] transport  610  net operator:  def  
+[2014/06/19 11:17:44 016] transport  611  use proxy:  false  
+[2014/06/19 11:17:44 016] legacyuup  254  not login!  
+[2014/06/19 11:17:44 101] legacyuup  268  UUP_MSG_LGI_RESULT  
+[2014/06/19 11:17:44 101] legacyuup  148  [session] send uup request  
+[2014/06/19 11:17:44 101] transport  753  using cached ip:  59.107.24.7  
+[2014/06/19 11:17:44 101] transport  795  ns_i =  nil  
+[2014/06/19 11:17:44 101] transport  796  transport_obj.name =  asr  
+[2014/06/19 11:17:44 102] transport  863  [soc] connect   59.107.24.7  80  
+[2014/06/19 11:17:44 164] transport  339  [soc] [0] connected  
+[2014/06/19 11:17:44 164] transport  901  build http request.  
+[2014/06/19 11:17:44 165] transport  992  POST /index.htm HTTP/1.1
+Host: dev.voicecloud.cn
+Content-Type: multipart/mixed;boundary=--
+Content-Length: 1408
+User-Agent: iFLYCloud
+Cache-Control: no-cache
+Accept: */*
+
+----
+CL:167
+CT:text/plain
+
+ver=MSSP+0%2E9&sub=asr&cmd=uup&cver=5%2E0%2E4%2E1048&key=0fKTTMfObpTuPJ3phXypK/fYFv^Rr7N6NIB6EStFpk60Y^HBywnTxKrT4cHLCdPEqtcaDTTtakSj30RvrfCN6qvRmhs5T9hkCh9Eb63wjeqr0=
+----
+CL:752
+CT:binary/userdata+userword
+CE:gzip,encrypt/0.2
+
+Oè”¬c9⁄ &,Ø5e…%jßGc.ƒ≠f>UYgclë¥˝æ•HF*Ã7≈ë±öÑ¥ﬂﬂﬁﬁäi;√«–ıñ≠”(&]Á…πÃ£≈⁄6Õ)päÓfí‰H£ò∆“2.{/;èi¡ò⁄˚»o‰Yí›D¢ñÜîùô˙%ó÷Lª-±∫ôg«Üc‚÷∫«ﬂ…ô–⁄Õ⁄Ω»Éõ∆n¨AxeãrØ4z¯ˇ`f⁄säÅ…≥rÄ‹UïÆ%è`ÿ;±éÌ‡ÑøÊÿ6íl∏  
+[2014/06/19 11:17:44 166] transport  361  [soc] [0] send ok  1587  
+[2014/06/19 11:17:44 200] transport  370  [soc] [0] readable  
+[2014/06/19 11:17:44 200] transport  1243 HTTP/1.1 200 OK
+Content-Type: text/plain
+Content-Length: 194
+X-Req-Date: 2014/06/19 11:17:10 848
+Cache-Control: no-cache
+CL: 194
+X-Res-Date: 2014/06/19 11:17:10 853
+
+ver=MSSP+0%2E9&ret=0&cver=5%2E0%2E4%2E1048&eid=429c6bfb857e5740f0e2b2b619de44a6&key=0fIUn8OToOiJKFP22RlmQ1aGBrMHzWnrQcUJnr91DjnzU^HBywnTxKrT4cHLCdPEqtcaDTTtakSj30RvrfCN6qvRmhs5T9hkCh9Eb63wjeqr0=  
+[2014/06/19 11:17:44 200] transport  1008 a_complete_httpmessage  200  
+[2014/06/19 11:17:44 200] transport  1113 port updated  80  
+[2014/06/19 11:17:44 200] transport  1115 switch  80  
+[2014/06/19 11:17:44 200] legacyuup  50   [trans] [id = uuplegacyuup] readable  
+[2014/06/19 11:17:44 200] transport  881  [soc] disconnect   
+[2014/06/19 11:17:44 200] legacyuup  58   uup ok!  
+============================================================
+Time  2014/06/19 11:19:59 244 
+============================================================
+[2014/06/19 11:19:59 244] legacyuup  279  SYS_MSG_LOAD  
+[2014/06/19 11:19:59 244] legacyuup  194  UUP_MSG_START  
+[2014/06/19 11:19:59 244] legacyuup  196  legacyuup  legacyuup  268436457  1400652240  
+[2014/06/19 11:19:59 244] transport  609  net type:  standard  
+[2014/06/19 11:19:59 244] transport  610  net operator:  def  
+[2014/06/19 11:19:59 244] transport  611  use proxy:  false  
+[2014/06/19 11:19:59 244] legacyuup  254  not login!  
+[2014/06/19 11:19:59 620] legacyuup  268  UUP_MSG_LGI_RESULT  
+[2014/06/19 11:19:59 620] legacyuup  148  [session] send uup request  
+[2014/06/19 11:19:59 620] transport  753  using cached ip:  117.121.56.3  
+[2014/06/19 11:19:59 620] transport  795  ns_i =  nil  
+[2014/06/19 11:19:59 620] transport  796  transport_obj.name =  asr  
+[2014/06/19 11:19:59 620] transport  863  [soc] connect   117.121.56.3  80  
+[2014/06/19 11:19:59 711] transport  339  [soc] [0] connected  
+[2014/06/19 11:19:59 711] transport  901  build http request.  
+[2014/06/19 11:19:59 712] transport  992  POST /index.htm HTTP/1.1
+Host: dev.voicecloud.cn
+Content-Type: multipart/mixed;boundary=--
+Content-Length: 1416
+User-Agent: iFLYCloud
+Cache-Control: no-cache
+Accept: */*
+
+----
+CL:167
+CT:text/plain
+
+ver=MSSP+0%2E9&sub=asr&cmd=uup&cver=5%2E0%2E4%2E1048&key=0fyzrQx9y8H8vBHUDuNSeK8oQgiJkecrtuUyJG5KMDAOU^HBywnTxKrT4cHLCdPEqtaHSqPHSYKfb0RvrfCN6qvRmhs5T9hkCh9Eb63wjeqr0=
+----
+CL:752
+CT:binary/userdata+userword
+CE:gzip,encrypt/0.2
+
+£§v’Fw–. &,Ø5e…%jßGc.ƒ≠f>UYgclë¥˝æ•HF*Ã7≈ë±öÑ¥ﬂﬂﬁﬁäi;√«–ıñ≠”(&]Á…πÃ£≈⁄Íµ7≠¡µÍÓfí‰H£ò∆“2.{/;èi¡ò⁄˚»o‰Yí›D¢ñÜîùô˙%ó÷Lª-±∫ôg«Üc‚÷∫«ﬂ…ô–⁄Õ⁄Ω»Éõ∆n¨A;íÕ£>¯ˇ`f⁄säÅ…≥rÄ‹UïÆ%è`ÿ;±éÌ‡ÑøÊÿ6íl∏  
+[2014/06/19 11:19:59 713] transport  361  [soc] [0] send ok  1595  
+[2014/06/19 11:19:59 930] transport  370  [soc] [0] readable  
+[2014/06/19 11:19:59 930] transport  1243 HTTP/1.1 200 OK
+Content-Type: text/plain
+Content-Length: 194
+X-Req-Date: 2014/06/19 11:19:26 411
+Cache-Control: no-cache
+CL: 194
+X-Res-Date: 2014/06/19 11:19:26 553
+
+ver=MSSP+0%2E9&ret=0&cver=5%2E0%2E4%2E1048&eid=573fd5e4205fc55e57cd5c26f6533d4f&key=0fDKziuK/QZJUrduMSOlL4abr6WosWXEreiX^TkSrIZMw^HBywnTxKrT4cHLCdPEqtaHSqPHSYKfb0RvrfCN6qvRmhs5T9hkCh9Eb63wjeqr0=  
+[2014/06/19 11:19:59 930] transport  1008 a_complete_httpmessage  200  
+[2014/06/19 11:19:59 930] transport  1113 port updated  80  
+[2014/06/19 11:19:59 930] transport  1115 switch  80  
+[2014/06/19 11:19:59 930] legacyuup  50   [trans] [id = uuplegacyuup] readable  
+[2014/06/19 11:19:59 930] transport  881  [soc] disconnect   
+[2014/06/19 11:19:59 931] legacyuup  58   uup ok!  
+============================================================
+Time  2014/06/19 11:20:58 493 
+============================================================
+[2014/06/19 11:20:58 493] legacyuup  279  SYS_MSG_LOAD  
+[2014/06/19 11:20:58 495] legacyuup  194  UUP_MSG_START  
+[2014/06/19 11:20:58 495] legacyuup  196  legacyuup  legacyuup  268436457  1400652240  
+[2014/06/19 11:20:58 495] transport  609  net type:  standard  
+[2014/06/19 11:20:58 495] transport  610  net operator:  def  
+[2014/06/19 11:20:58 496] transport  611  use proxy:  false  
+[2014/06/19 11:20:58 496] legacyuup  254  not login!  
+[2014/06/19 11:20:58 634] legacyuup  268  UUP_MSG_LGI_RESULT  
+[2014/06/19 11:20:58 634] legacyuup  148  [session] send uup request  
+[2014/06/19 11:20:58 635] transport  753  using cached ip:  116.213.69.199  
+[2014/06/19 11:20:58 635] transport  795  ns_i =  nil  
+[2014/06/19 11:20:58 635] transport  796  transport_obj.name =  asr  
+[2014/06/19 11:20:58 635] transport  863  [soc] connect   116.213.69.199  80  
+[2014/06/19 11:20:58 695] transport  339  [soc] [0] connected  
+[2014/06/19 11:20:58 696] transport  901  build http request.  
+[2014/06/19 11:20:58 697] transport  992  POST /index.htm HTTP/1.1
+Host: dev.voicecloud.cn
+Content-Type: multipart/mixed;boundary=--
+Content-Length: 1416
+User-Agent: iFLYCloud
+Cache-Control: no-cache
+Accept: */*
+
+----
+CL:167
+CT:text/plain
+
+ver=MSSP+0%2E9&sub=asr&cmd=uup&cver=5%2E0%2E4%2E1048&key=0fKSBjTZ56awjCgYO8Yt5IksIgYrvRa9nj7w635pt4/Co^HBywnTxKrT4cHLCdPEqthjNBdFjoIaz0RvrfCN6qvRmhs5T9hkCh9Eb63wjeqr0=
+----
+CL:752
+CT:binary/userdata+userword
+CE:gzip,encrypt/0.2
+
+ $ó==»> &,Ø5e…%jßGc.ƒ≠f>UYgclë¥˝æ•HF*Ã7≈ë±öÑ¥ﬂﬂﬁﬁäi;√«–ıñ≠”(&]Á…πÃ£≈⁄”ÏF
+=eëÓfí‰H£ò∆“2.{/;èi¡ò⁄˚»o‰Yí›D¢ñÜîùô˙%ó÷Lª-±∫ôg«Üc‚÷∫«ﬂ…ô–⁄Õ⁄Ω»Éõ∆n¨A0/µ-é§Ió¯ˇ`f⁄säÅ…≥rÄ‹UïÆ%è`ÿ;±éÌ‡ÑøÊÿ6íl∏  
+[2014/06/19 11:20:58 697] transport  361  [soc] [0] send ok  1595  
+[2014/06/19 11:21:01 777] transport  370  [soc] [0] readable  
+[2014/06/19 11:21:01 777] transport  1243 HTTP/1.1 200 OK
+Content-Type: text/plain
+Content-Length: 194
+X-Req-Date: 2014/06/19 11:20:25 388
+Cache-Control: no-cache
+CL: 194
+X-Res-Date: 2014/06/19 11:20:25 392
+
+ver=MSSP+0%2E9&ret=0&cver=5%2E0%2E4%2E1048&eid=95c2b42f5d36f582914ec15a89df24ad&key=0f3ERwjRSSW^EZSPeAXRx486YZQ7bpNYe5zY^/fodD9CQ^HBywnTxKrT4cHLCdPEqthjNBdFjoIaz0RvrfCN6qvRmhs5T9hkCh9Eb63wjeqr0=  
+[2014/06/19 11:21:01 777] transport  1008 a_complete_httpmessage  200  
+[2014/06/19 11:21:01 777] transport  1113 port updated  80  
+[2014/06/19 11:21:01 777] transport  1115 switch  80  
+[2014/06/19 11:21:01 777] legacyuup  50   [trans] [id = uuplegacyuup] readable  
+[2014/06/19 11:21:01 777] transport  881  [soc] disconnect   
+[2014/06/19 11:21:01 777] legacyuup  58   uup ok!  
+============================================================
+Time  2014/06/19 11:21:38 603 
+============================================================
+[2014/06/19 11:21:38 603] legacyuup  279  SYS_MSG_LOAD  
+[2014/06/19 11:21:38 605] legacyuup  194  UUP_MSG_START  
+[2014/06/19 11:21:38 605] legacyuup  196  legacyuup  legacyuup  268436457  1400652240  
+[2014/06/19 11:21:38 605] transport  609  net type:  standard  
+[2014/06/19 11:21:38 605] transport  610  net operator:  def  
+[2014/06/19 11:21:38 606] transport  611  use proxy:  false  
+[2014/06/19 11:21:38 606] legacyuup  254  not login!  
+[2014/06/19 11:21:38 647] legacyuup  268  UUP_MSG_LGI_RESULT  
+[2014/06/19 11:21:38 647] legacyuup  148  [session] send uup request  
+[2014/06/19 11:21:38 647] transport  753  using cached ip:  59.107.24.11  
+[2014/06/19 11:21:38 647] transport  795  ns_i =  nil  
+[2014/06/19 11:21:38 647] transport  796  transport_obj.name =  asr  
+[2014/06/19 11:21:38 647] transport  863  [soc] connect   59.107.24.11  80  
+[2014/06/19 11:21:38 677] transport  339  [soc] [0] connected  
+[2014/06/19 11:21:38 679] transport  901  build http request.  
+[2014/06/19 11:21:38 682] transport  992  POST /index.htm HTTP/1.1
+Host: dev.voicecloud.cn
+Content-Type: multipart/mixed;boundary=--
+Content-Length: 1416
+User-Agent: iFLYCloud
+Cache-Control: no-cache
+Accept: */*
+
+----
+CL:167
+CT:text/plain
+
+ver=MSSP+0%2E9&sub=asr&cmd=uup&cver=5%2E0%2E4%2E1048&key=0fgMCyVSpphrQGcGrxoTNL04BTWDeIamS9TGV96sX7xKg^HBywnTxKrT4cHLCdPEqtCLKBC50vmZj0RvrfCN6qvRmhs5T9hkCh9Eb63wjeqr0=
+----
+CL:752
+CT:binary/userdata+userword
+CE:gzip,encrypt/0.2
+
+#∑(	pNt &,Ø5e…%jßGc.ƒ≠f>UYgclë¥˝æ•HF*Ã7≈ë±öÑ¥ﬂﬂﬁﬁäi;√«–ıñ≠”(&]Á…πÃ£≈⁄ì5≤ZƒßôÓfí‰H£ò∆“2.{/;èi¡ò⁄˚»o‰Yí›D¢ñÜîùô˙%ó÷Lª-±∫ôg«Üc‚÷∫«ﬂ…ô–⁄Õ⁄Ω»Éõ∆n¨A]∏'∂õ≤¯ˇ`f⁄säÅ…≥rÄ‹UïÆ%è`ÿ;±éÌ‡ÑøÊÿ6íl∏  
+[2014/06/19 11:21:38 689] transport  361  [soc] [0] send ok  1595  
+[2014/06/19 11:21:38 719] transport  370  [soc] [0] readable  
+[2014/06/19 11:21:38 719] transport  1243 HTTP/1.1 200 OK
+Content-Type: text/plain
+Content-Length: 194
+X-Req-Date: 2014/06/19 11:21:05 351
+Cache-Control: no-cache
+CL: 194
+X-Res-Date: 2014/06/19 11:21:05 356
+
+ver=MSSP+0%2E9&ret=0&cver=5%2E0%2E4%2E1048&eid=281f5e7c3d8102fb3aa889fa22cbe12f&key=0fL3TB^RNnIkvf9E0f4Dl42nsSraI0FTDK/VvsEHFqBR8^HBywnTxKrT4cHLCdPEqtCLKBC50vmZj0RvrfCN6qvRmhs5T9hkCh9Eb63wjeqr0=  
+[2014/06/19 11:21:38 719] transport  1008 a_complete_httpmessage  200  
+[2014/06/19 11:21:38 719] transport  1113 port updated  80  
+[2014/06/19 11:21:38 719] transport  1115 switch  80  
+[2014/06/19 11:21:38 719] legacyuup  50   [trans] [id = uuplegacyuup] readable  
+[2014/06/19 11:21:38 719] transport  881  [soc] disconnect   
+[2014/06/19 11:21:38 719] legacyuup  58   uup ok!  
+============================================================
+Time  2014/06/19 12:12:36 872 
+============================================================
+[2014/06/19 12:12:36 872] legacyuup  279  SYS_MSG_LOAD  
+[2014/06/19 12:12:36 873] legacyuup  194  UUP_MSG_START  
+[2014/06/19 12:12:36 873] legacyuup  196  legacyuup  legacyuup  268436457  1400652240  
+[2014/06/19 12:12:36 873] transport  609  net type:  standard  
+[2014/06/19 12:12:36 873] transport  610  net operator:  def  
+[2014/06/19 12:12:36 873] transport  611  use proxy:  false  
+[2014/06/19 12:12:36 873] legacyuup  254  not login!  
+[2014/06/19 12:12:36 959] legacyuup  268  UUP_MSG_LGI_RESULT  
+[2014/06/19 12:12:36 959] legacyuup  148  [session] send uup request  
+[2014/06/19 12:12:36 959] transport  753  using cached ip:  59.107.24.11  
+[2014/06/19 12:12:36 959] transport  795  ns_i =  nil  
+[2014/06/19 12:12:36 959] transport  796  transport_obj.name =  asr  
+[2014/06/19 12:12:36 959] transport  863  [soc] connect   59.107.24.11  80  
+[2014/06/19 12:12:36 990] transport  339  [soc] [0] connected  
+[2014/06/19 12:12:36 990] transport  901  build http request.  
+[2014/06/19 12:12:36 991] transport  992  POST /index.htm HTTP/1.1
+Host: dev.voicecloud.cn
+Content-Type: multipart/mixed;boundary=--
+Content-Length: 1416
+User-Agent: iFLYCloud
+Cache-Control: no-cache
+Accept: */*
+
+----
+CL:167
+CT:text/plain
+
+ver=MSSP+0%2E9&sub=asr&cmd=uup&cver=5%2E0%2E4%2E1048&key=0fKTTMfObpTuNDU^ybLeY42^^RdMZeRA^RPxyFjHQDRac^HBywnTxKrT4cHLCdPEqtgjxwDMOfKAf0RvrfCN6qvRmhs5T9hkCh9Eb63wjeqr0=
+----
+CL:752
+CT:binary/userdata+userword
+CE:gzip,encrypt/0.2
+
+g”¢GI˜Âß &,Ø5e…%jßGc.ƒ≠f>UYgclë¥˝æ•HF*Ã7≈ë±öÑ¥ﬂﬂﬁﬁäi;√«–ıñ≠”(&]Á…πÃ£≈⁄¬Öí∂  
+[2014/06/19 12:12:36 991] transport  361  [soc] [0] send ok  1595  
+[2014/06/19 12:12:37 025] transport  370  [soc] [0] readable  
+[2014/06/19 12:12:37 025] transport  1243 HTTP/1.1 200 OK
+Content-Type: text/plain
+Content-Length: 194
+X-Req-Date: 2014/06/19 12:12:03 467
+Cache-Control: no-cache
+CL: 194
+X-Res-Date: 2014/06/19 12:12:03 480
+
+ver=MSSP+0%2E9&ret=0&cver=5%2E0%2E4%2E1048&eid=41d927e824135d2689fd495fa3127b74&key=0f2bNXHV/xoZsQHhZYRIYmct2CtQ150dTU8vtuY^QGtHQ^HBywnTxKrT4cHLCdPEqtgjxwDMOfKAf0RvrfCN6qvRmhs5T9hkCh9Eb63wjeqr0=  
+[2014/06/19 12:12:37 026] transport  1008 a_complete_httpmessage  200  
+[2014/06/19 12:12:37 026] transport  1113 port updated  80  
+[2014/06/19 12:12:37 026] transport  1115 switch  80  
+[2014/06/19 12:12:37 026] legacyuup  50   [trans] [id = uuplegacyuup] readable  
+[2014/06/19 12:12:37 026] transport  881  [soc] disconnect   
+[2014/06/19 12:12:37 026] legacyuup  58   uup ok!  
+============================================================
+Time  2014/06/19 12:12:51 042 
+============================================================
+[2014/06/19 12:12:51 042] legacyuup  279  SYS_MSG_LOAD  
+[2014/06/19 12:12:51 044] legacyuup  194  UUP_MSG_START  
+[2014/06/19 12:12:51 044] legacyuup  196  legacyuup  legacyuup  268436457  1400652240  
+[2014/06/19 12:12:51 044] transport  609  net type:  standard  
+[2014/06/19 12:12:51 044] transport  610  net operator:  def  
+[2014/06/19 12:12:51 044] transport  611  use proxy:  false  
+[2014/06/19 12:12:51 044] legacyuup  254  not login!  
+[2014/06/19 12:12:51 324] legacyuup  268  UUP_MSG_LGI_RESULT  
+[2014/06/19 12:12:51 324] legacyuup  148  [session] send uup request  
+[2014/06/19 12:12:51 325] transport  753  using cached ip:  59.107.24.5  
+[2014/06/19 12:12:51 325] transport  795  ns_i =  nil  
+[2014/06/19 12:12:51 325] transport  796  transport_obj.name =  asr  
+[2014/06/19 12:12:51 325] transport  863  [soc] connect   59.107.24.5  80  
+[2014/06/19 12:12:51 446] transport  339  [soc] [0] connected  
+[2014/06/19 12:12:51 449] transport  901  build http request.  
+[2014/06/19 12:12:51 450] transport  992  POST /index.htm HTTP/1.1
+Host: dev.voicecloud.cn
+Content-Type: multipart/mixed;boundary=--
+Content-Length: 1416
+User-Agent: iFLYCloud
+Cache-Control: no-cache
+Accept: */*
+
+----
+CL:167
+CT:text/plain
+
+ver=MSSP+0%2E9&sub=asr&cmd=uup&cver=5%2E0%2E4%2E1048&key=0fgMCyVSpphrTf4ggABgrYVF0nMSvk//DlTGV96sX7xKg^HBywnTxKrT4cHLCdPEqtTDxUDN9OTk70RvrfCN6qvRmhs5T9hkCh9Eb63wjeqr0=
+----
+CL:752
+CT:binary/userdata+userword
+CE:gzip,encrypt/0.2
+
+Q∑xèÉöÊ &,Ø5e…%jßGc.ƒ≠f>UYgclë¥˝æ•HF*Ã7≈ë±öÑ¥ﬂﬂﬁﬁäi;√«–ıñ≠”(&]Á…πÃ£≈⁄fáëÅNRµyÓfí‰H£ò∆“2.{/;èi¡ò⁄˚»o‰Yí›D¢ñÜîùô˙%ó÷Lª-±∫ôg«Üc‚÷∫«ﬂ…ô–⁄Õ⁄Ω»Éõ∆n¨A¬üa~v3¯ˇ`f⁄säÅ…≥rÄ‹UïÆ%è`ÿ;±éÌ‡ÑøÊÿ6íl∏  
+[2014/06/19 12:12:51 457] transport  361  [soc] [0] send ok  1595  
+[2014/06/19 12:12:51 487] transport  370  [soc] [0] readable  
+[2014/06/19 12:12:51 488] transport  1243 HTTP/1.1 200 OK
+Content-Type: text/plain
+Content-Length: 194
+X-Req-Date: 2014/06/19 12:12:17 940
+Cache-Control: no-cache
+CL: 194
+X-Res-Date: 2014/06/19 12:12:17 946
+
+ver=MSSP+0%2E9&ret=0&cver=5%2E0%2E4%2E1048&eid=33fa0ad3bf6683b50b1de18d4ce1e529&key=0fXO4YcKyidxlQvH3heteP/XiJnCHBu1aA/VvsEHFqBR8^HBywnTxKrT4cHLCdPEqtTDxUDN9OTk70RvrfCN6qvRmhs5T9hkCh9Eb63wjeqr0=  
+[2014/06/19 12:12:51 488] transport  1008 a_complete_httpmessage  200  
+[2014/06/19 12:12:51 488] transport  1113 port updated  80  
+[2014/06/19 12:12:51 488] transport  1115 switch  80  
+[2014/06/19 12:12:51 488] legacyuup  50   [trans] [id = uuplegacyuup] readable  
+[2014/06/19 12:12:51 488] transport  881  [soc] disconnect   
+[2014/06/19 12:12:51 488] legacyuup  58   uup ok!  
+[2014/06/19 12:12:51 488] legacyuup  288  SYS_MSG_UNLOAD  
+============================================================
+Time  2014/06/19 12:48:05 606 
+============================================================
+[2014/06/19 12:48:05 606] legacyuup  279  SYS_MSG_LOAD  
+[2014/06/19 12:48:05 607] legacyuup  194  UUP_MSG_START  
+[2014/06/19 12:48:05 607] legacyuup  196  legacyuup  legacyuup  268436457  1400652240  
+[2014/06/19 12:48:05 607] transport  609  net type:  standard  
+[2014/06/19 12:48:05 607] transport  610  net operator:  def  
+[2014/06/19 12:48:05 607] transport  611  use proxy:  false  
+[2014/06/19 12:48:05 607] legacyuup  254  not login!  
+[2014/06/19 12:48:05 678] legacyuup  268  UUP_MSG_LGI_RESULT  
+[2014/06/19 12:48:05 679] legacyuup  148  [session] send uup request  
+[2014/06/19 12:48:05 679] transport  753  using cached ip:  59.107.24.7  
+[2014/06/19 12:48:05 679] transport  795  ns_i =  nil  
+[2014/06/19 12:48:05 679] transport  796  transport_obj.name =  asr  
+[2014/06/19 12:48:05 679] transport  863  [soc] connect   59.107.24.7  80  
+[2014/06/19 12:48:05 710] transport  339  [soc] [0] connected  
+[2014/06/19 12:48:05 710] transport  901  build http request.  
+[2014/06/19 12:48:05 711] transport  992  POST /index.htm HTTP/1.1
+Host: dev.voicecloud.cn
+Content-Type: multipart/mixed;boundary=--
+Content-Length: 1416
+User-Agent: iFLYCloud
+Cache-Control: no-cache
+Accept: */*
+
+----
+CL:167
+CT:text/plain
+
+ver=MSSP+0%2E9&sub=asr&cmd=uup&cver=5%2E0%2E4%2E1048&key=0ffvQJD9G6l31nDfkWEW43PG6civKiWlxqk1NEgFJDLP4^HBywnTxKrT4cHLCdPEqtQMCyDvATGKT0RvrfCN6qvRmhs5T9hkCh9Eb63wjeqr0=
+----
+CL:752
+CT:binary/userdata+userword
+CE:gzip,encrypt/0.2
+
+‘∆pëûJ$	 &,Ø5e…%jßGc.ƒ≠f>UYgclë¥˝æ•HF*Ã7≈ë±öÑ¥ﬂﬂﬁﬁäi;√«–ıñ≠”(&]Á…πÃ£≈⁄’¢yX*GÆ@Ófí‰H£ò∆“2.{/;èi¡ò⁄˚»o‰Yí›D¢ñÜîùô˙%ó÷Lª-±∫ôg«Üc‚÷∫«ﬂ…ô–⁄Õ⁄Ω»Éõ∆n¨A˜…üµ∆ø≤¯ˇ`f⁄säÅ…≥rÄ‹UïÆ%è`ÿ;±éÌ‡ÑøÊÿ6íl∏  
+[2014/06/19 12:48:05 712] transport  361  [soc] [0] send ok  1595  
+[2014/06/19 12:48:05 745] transport  370  [soc] [0] readable  
+[2014/06/19 12:48:05 746] transport  1243 HTTP/1.1 200 OK
+Content-Type: text/plain
+Content-Length: 194
+X-Req-Date: 2014/06/19 12:47:32 49
+Cache-Control: no-cache
+CL: 194
+X-Res-Date: 2014/06/19 12:47:32 54
+
+ver=MSSP+0%2E9&ret=0&cver=5%2E0%2E4%2E1048&eid=137638b5cabbb0eae570cd85495c0e91&key=0fafnryhWLdgNq9QOY9M/ZvWYnEvVOCs62ZM4fQSZxunI^HBywnTxKrT4cHLCdPEqtQMCyDvATGKT0RvrfCN6qvRmhs5T9hkCh9Eb63wjeqr0=  
+[2014/06/19 12:48:05 746] transport  1008 a_complete_httpmessage  200  
+[2014/06/19 12:48:05 746] transport  1113 port updated  80  
+[2014/06/19 12:48:05 746] transport  1115 switch  80  
+[2014/06/19 12:48:05 746] legacyuup  50   [trans] [id = uuplegacyuup] readable  
+[2014/06/19 12:48:05 746] transport  881  [soc] disconnect   
+[2014/06/19 12:48:05 746] legacyuup  58   uup ok!  
+[2014/06/19 12:48:05 746] legacyuup  288  SYS_MSG_UNLOAD  
+============================================================
+Time  2014/06/19 12:50:31 544 
+============================================================
+[2014/06/19 12:50:31 544] legacyuup  279  SYS_MSG_LOAD  
+[2014/06/19 12:50:31 546] legacyuup  194  UUP_MSG_START  
+[2014/06/19 12:50:31 546] legacyuup  196  legacyuup  legacyuup  268436457  1400652240  
+[2014/06/19 12:50:31 546] transport  609  net type:  standard  
+[2014/06/19 12:50:31 546] transport  610  net operator:  def  
+[2014/06/19 12:50:31 547] transport  611  use proxy:  false  
+[2014/06/19 12:50:31 547] legacyuup  254  not login!  
+[2014/06/19 12:50:31 695] legacyuup  268  UUP_MSG_LGI_RESULT  
+[2014/06/19 12:50:31 695] legacyuup  148  [session] send uup request  
+[2014/06/19 12:50:31 695] transport  753  using cached ip:  117.121.56.3  
+[2014/06/19 12:50:31 695] transport  795  ns_i =  nil  
+[2014/06/19 12:50:31 695] transport  796  transport_obj.name =  asr  
+[2014/06/19 12:50:31 695] transport  863  [soc] connect   117.121.56.3  80  
+[2014/06/19 12:50:31 756] transport  339  [soc] [0] connected  
+[2014/06/19 12:50:31 756] transport  901  build http request.  
+[2014/06/19 12:50:31 757] transport  992  POST /index.htm HTTP/1.1
+Host: dev.voicecloud.cn
+Content-Type: multipart/mixed;boundary=--
+Content-Length: 1416
+User-Agent: iFLYCloud
+Cache-Control: no-cache
+Accept: */*
+
+----
+CL:167
+CT:text/plain
+
+ver=MSSP+0%2E9&sub=asr&cmd=uup&cver=5%2E0%2E4%2E1048&key=0f9xtxVq8tON5FMN9zNaLsWI5bjuhzyaKY1Y/zlbK2QeY^HBywnTxKrT4cHLCdPEqtRrpvvcBsa7j0RvrfCN6qvRmhs5T9hkCh9Eb63wjeqr0=
+----
+CL:752
+CT:binary/userdata+userword
+CE:gzip,encrypt/0.2
+
+¶x?[Ùı  
+[2014/06/19 12:50:31 758] transport  361  [soc] [0] send ok  1595  
+[2014/06/19 12:50:31 852] transport  370  [soc] [0] readable  
+[2014/06/19 12:50:31 853] transport  1243 HTTP/1.1 200 OK
+Content-Type: text/plain
+Content-Length: 194
+X-Req-Date: 2014/06/19 12:49:58 114
+Cache-Control: no-cache
+CL: 194
+X-Res-Date: 2014/06/19 12:49:58 138
+
+ver=MSSP+0%2E9&ret=0&cver=5%2E0%2E4%2E1048&eid=62ae1986d81ada1f16968ce5dcedab81&key=0f4Ipq68O53LFtPR^hyGW4ZqkxYNA1pRMngtwq7g450XU^HBywnTxKrT4cHLCdPEqtRrpvvcBsa7j0RvrfCN6qvRmhs5T9hkCh9Eb63wjeqr0=  
+[2014/06/19 12:50:31 853] transport  1008 a_complete_httpmessage  200  
+[2014/06/19 12:50:31 853] transport  1113 port updated  80  
+[2014/06/19 12:50:31 853] transport  1115 switch  80  
+[2014/06/19 12:50:31 853] legacyuup  50   [trans] [id = uuplegacyuup] readable  
+[2014/06/19 12:50:31 853] transport  881  [soc] disconnect   
+[2014/06/19 12:50:31 853] legacyuup  58   uup ok!  
+============================================================
+Time  2014/06/23 22:56:46 443 
+============================================================
+[2014/06/23 22:56:46 443] legacyuup  279  SYS_MSG_LOAD  
+[2014/06/23 22:56:46 445] legacyuup  194  UUP_MSG_START  
+[2014/06/23 22:56:46 446] legacyuup  196  legacyuup  legacyuup  268436457  1400652240  
+[2014/06/23 22:56:46 446] transport  609  net type:  standard  
+[2014/06/23 22:56:46 446] transport  610  net operator:  def  
+[2014/06/23 22:56:46 446] transport  611  use proxy:  false  
+[2014/06/23 22:56:46 446] legacyuup  254  not login!  
+[2014/06/23 22:56:46 522] legacyuup  268  UUP_MSG_LGI_RESULT  
+[2014/06/23 22:56:46 522] legacyuup  148  [session] send uup request  
+[2014/06/23 22:56:46 522] transport  753  using cached ip:  59.107.24.5  
+[2014/06/23 22:56:46 523] transport  795  ns_i =  nil  
+[2014/06/23 22:56:46 523] transport  796  transport_obj.name =  asr  
+[2014/06/23 22:56:46 523] transport  863  [soc] connect   59.107.24.5  80  
+[2014/06/23 22:56:46 553] transport  339  [soc] [0] connected  
+[2014/06/23 22:56:46 554] transport  901  build http request.  
+[2014/06/23 22:56:46 555] transport  992  POST /index.htm HTTP/1.1
+Host: dev.voicecloud.cn
+Content-Type: multipart/mixed;boundary=--
+Content-Length: 1440
+User-Agent: iFLYCloud
+Cache-Control: no-cache
+Accept: */*
+
+----
+CL:167
+CT:text/plain
+
+ver=MSSP+0%2E9&sub=asr&cmd=uup&cver=5%2E0%2E4%2E1048&key=0fc7R7Zaq3T8FnDfkWEW43PEHQB4BgQRkZZ2uqhX9d9pY^HBywnTxKrT4cHLCdPEqt4oTqSrPC4KP0RvrfCN6qvRmhs5T9hkCh9Eb63wjeqr0=
+----
+CL:776
+CT:binary/userdata+userword
+CE:gzip,encrypt/0.2
+
+v˝Ø˛¿ËÕ &,Ø5eâ∫,èÂΩ-dDf>µYgclë¥˝æ›åá`'vÁh ““B>:  
+[2014/06/23 22:56:46 555] transport  361  [soc] [0] send ok  1619  
+[2014/06/23 22:56:46 619] transport  370  [soc] [0] readable  
+[2014/06/23 22:56:46 619] transport  1243 HTTP/1.1 200 OK
+Content-Type: text/plain
+Content-Length: 194
+X-Req-Date: 2014/06/23 22:55:49 418
+Cache-Control: no-cache
+CL: 194
+X-Res-Date: 2014/06/23 22:55:49 422
+
+ver=MSSP+0%2E9&ret=0&cver=5%2E0%2E4%2E1048&eid=44acd06119e8485820859c803cb90de7&key=0fkU/VEO7r7L1NsDY9sI6qMKd^ZnmgNtT0n3kEanJfOWw^HBywnTxKrT4cHLCdPEqt4oTqSrPC4KP0RvrfCN6qvRmhs5T9hkCh9Eb63wjeqr0=  
+[2014/06/23 22:56:46 620] transport  1008 a_complete_httpmessage  200  
+[2014/06/23 22:56:46 620] transport  1113 port updated  80  
+[2014/06/23 22:56:46 620] transport  1115 switch  80  
+[2014/06/23 22:56:46 620] legacyuup  50   [trans] [id = uuplegacyuup] readable  
+[2014/06/23 22:56:46 620] transport  881  [soc] disconnect   
+[2014/06/23 22:56:46 620] legacyuup  58   uup ok!  
+[2014/06/23 22:56:46 620] legacyuup  288  SYS_MSG_UNLOAD  
+============================================================
+Time  2014/06/23 22:57:03 714 
+============================================================
+[2014/06/23 22:57:03 714] legacyuup  279  SYS_MSG_LOAD  
+[2014/06/23 22:57:03 715] legacyuup  194  UUP_MSG_START  
+[2014/06/23 22:57:03 715] legacyuup  196  legacyuup  legacyuup  268436457  1400652240  
+[2014/06/23 22:57:03 715] transport  609  net type:  standard  
+[2014/06/23 22:57:03 715] transport  610  net operator:  def  
+[2014/06/23 22:57:03 715] transport  611  use proxy:  false  
+[2014/06/23 22:57:03 715] legacyuup  254  not login!  
+[2014/06/23 22:57:03 857] legacyuup  268  UUP_MSG_LGI_RESULT  
+[2014/06/23 22:57:03 857] legacyuup  148  [session] send uup request  
+[2014/06/23 22:57:03 857] transport  753  using cached ip:  59.107.24.5  
+[2014/06/23 22:57:03 857] transport  795  ns_i =  nil  
+[2014/06/23 22:57:03 857] transport  796  transport_obj.name =  asr  
+[2014/06/23 22:57:03 857] transport  863  [soc] connect   59.107.24.5  80  
+[2014/06/23 22:57:04 073] transport  339  [soc] [0] connected  
+[2014/06/23 22:57:04 073] transport  901  build http request.  
+[2014/06/23 22:57:04 075] transport  992  POST /index.htm HTTP/1.1
+Host: dev.voicecloud.cn
+Content-Type: multipart/mixed;boundary=--
+Content-Length: 1440
+User-Agent: iFLYCloud
+Cache-Control: no-cache
+Accept: */*
+
+----
+CL:167
+CT:text/plain
+
+ver=MSSP+0%2E9&sub=asr&cmd=uup&cver=5%2E0%2E4%2E1048&key=0fc7R7Zaq3T8ELd3NslUZjhdbHAKwAGB9XoU5BPMIs6Hs^HBywnTxKrT4cHLCdPEqtdghSE3bmmxP0RvrfCN6qvRmhs5T9hkCh9Eb63wjeqr0=
+----
+CL:776
+CT:binary/userdata+userword
+CE:gzip,encrypt/0.2
+
+ü—Jkâ¯Û &,Ø5eâ∫,èÂΩ-dDf>µYgclë¥˝æ›åá`'vÁh ““B>:  
+[2014/06/23 22:57:04 075] transport  361  [soc] [0] send ok  1619  
+[2014/06/23 22:57:04 380] transport  370  [soc] [0] readable  
+[2014/06/23 22:57:04 381] transport  1243 HTTP/1.1 200 OK
+Content-Type: text/plain
+Content-Length: 194
+X-Req-Date: 2014/06/23 22:56:07 175
+Cache-Control: no-cache
+CL: 194
+X-Res-Date: 2014/06/23 22:56:07 180
+
+ver=MSSP+0%2E9&ret=0&cver=5%2E0%2E4%2E1048&eid=e222eb2705e4aae4cf0e7089dcac7f6e&key=0fSvUBgJrNmA^HUf9aJuP7Ub05UCmlDt2beNm1ss9Uu6E^HBywnTxKrT4cHLCdPEqtdghSE3bmmxP0RvrfCN6qvRmhs5T9hkCh9Eb63wjeqr0=  
+[2014/06/23 22:57:04 381] transport  1008 a_complete_httpmessage  200  
+[2014/06/23 22:57:04 381] transport  1113 port updated  80  
+[2014/06/23 22:57:04 381] transport  1115 switch  80  
+[2014/06/23 22:57:04 381] legacyuup  50   [trans] [id = uuplegacyuup] readable  
+[2014/06/23 22:57:04 381] transport  881  [soc] disconnect   
+[2014/06/23 22:57:04 381] legacyuup  58   uup ok!  
+============================================================
+Time  2014/06/23 22:59:06 511 
+============================================================
+[2014/06/23 22:59:06 511] legacyuup  279  SYS_MSG_LOAD  
+[2014/06/23 22:59:06 511] legacyuup  194  UUP_MSG_START  
+[2014/06/23 22:59:06 511] legacyuup  196  legacyuup  legacyuup  268436457  1400652240  
+[2014/06/23 22:59:06 511] transport  609  net type:  standard  
+[2014/06/23 22:59:06 511] transport  610  net operator:  def  
+[2014/06/23 22:59:06 511] transport  611  use proxy:  false  
+[2014/06/23 22:59:06 511] legacyuup  254  not login!  
+[2014/06/23 22:59:06 628] legacyuup  268  UUP_MSG_LGI_RESULT  
+[2014/06/23 22:59:06 628] legacyuup  148  [session] send uup request  
+[2014/06/23 22:59:06 629] transport  753  using cached ip:  59.107.24.7  
+[2014/06/23 22:59:06 629] transport  795  ns_i =  nil  
+[2014/06/23 22:59:06 629] transport  796  transport_obj.name =  asr  
+[2014/06/23 22:59:06 629] transport  863  [soc] connect   59.107.24.7  80  
+[2014/06/23 22:59:06 659] transport  339  [soc] [0] connected  
+[2014/06/23 22:59:06 660] transport  901  build http request.  
+[2014/06/23 22:59:06 661] transport  992  POST /index.htm HTTP/1.1
+Host: dev.voicecloud.cn
+Content-Type: multipart/mixed;boundary=--
+Content-Length: 1440
+User-Agent: iFLYCloud
+Cache-Control: no-cache
+Accept: */*
+
+----
+CL:167
+CT:text/plain
+
+ver=MSSP+0%2E9&sub=asr&cmd=uup&cver=5%2E0%2E4%2E1048&key=0fc7R7Zaq3T8FpWPvc1bITJxfdcNyIDoSseujsV^h5z9M^HBywnTxKrT4cHLCdPEqtM619yYD9vuv0RvrfCN6qvRmhs5T9hkCh9Eb63wjeqr0=
+----
+CL:776
+CT:binary/userdata+userword
+CE:gzip,encrypt/0.2
+
+fÍ'k4¶,ø &,Ø5eâ∫,èÂΩ-dDf>µYgclë¥˝æ›åá`'vÁh ““B>:  
+[2014/06/23 22:59:06 661] transport  361  [soc] [0] send ok  1619  
+[2014/06/23 22:59:06 725] transport  370  [soc] [0] readable  
+[2014/06/23 22:59:06 725] transport  1243 HTTP/1.1 200 OK
+Content-Type: text/plain
+Content-Length: 194
+X-Req-Date: 2014/06/23 22:58:09 503
+Cache-Control: no-cache
+CL: 194
+X-Res-Date: 2014/06/23 22:58:09 508
+
+ver=MSSP+0%2E9&ret=0&cver=5%2E0%2E4%2E1048&eid=649f6f46877526162c073467daa247cb&key=0fg3TevRl21IqULhxyHZNysZW9Y620QibCOZw3SBczQwI^HBywnTxKrT4cHLCdPEqtM619yYD9vuv0RvrfCN6qvRmhs5T9hkCh9Eb63wjeqr0=  
+[2014/06/23 22:59:06 726] transport  1008 a_complete_httpmessage  200  
+[2014/06/23 22:59:06 726] transport  1113 port updated  80  
+[2014/06/23 22:59:06 726] transport  1115 switch  80  
+[2014/06/23 22:59:06 726] legacyuup  50   [trans] [id = uuplegacyuup] readable  
+[2014/06/23 22:59:06 726] transport  881  [soc] disconnect   
+[2014/06/23 22:59:06 726] legacyuup  58   uup ok!  
+[2014/06/23 22:59:06 726] legacyuup  288  SYS_MSG_UNLOAD  
+============================================================
+Time  2014/06/23 23:02:19 436 
+============================================================
+[2014/06/23 23:02:19 436] legacyuup  279  SYS_MSG_LOAD  
+[2014/06/23 23:02:19 437] legacyuup  194  UUP_MSG_START  
+[2014/06/23 23:02:19 437] legacyuup  196  legacyuup  legacyuup  268436457  1400652240  
+[2014/06/23 23:02:19 438] transport  609  net type:  standard  
+[2014/06/23 23:02:19 438] transport  610  net operator:  def  
+[2014/06/23 23:02:19 438] transport  611  use proxy:  false  
+[2014/06/23 23:02:19 438] legacyuup  254  not login!  
+[2014/06/23 23:02:19 544] legacyuup  268  UUP_MSG_LGI_RESULT  
+[2014/06/23 23:02:19 544] legacyuup  148  [session] send uup request  
+[2014/06/23 23:02:19 544] transport  753  using cached ip:  59.107.24.11  
+[2014/06/23 23:02:19 544] transport  795  ns_i =  nil  
+[2014/06/23 23:02:19 544] transport  796  transport_obj.name =  asr  
+[2014/06/23 23:02:19 544] transport  863  [soc] connect   59.107.24.11  80  
+[2014/06/23 23:02:19 575] transport  339  [soc] [0] connected  
+[2014/06/23 23:02:19 575] transport  901  build http request.  
+[2014/06/23 23:02:19 575] transport  992  POST /index.htm HTTP/1.1
+Host: dev.voicecloud.cn
+Content-Type: multipart/mixed;boundary=--
+Content-Length: 1448
+User-Agent: iFLYCloud
+Cache-Control: no-cache
+Accept: */*
+
+----
+CL:167
+CT:text/plain
+
+ver=MSSP+0%2E9&sub=asr&cmd=uup&cver=5%2E0%2E4%2E1048&key=0fUcUd/BzsjIz98boT4UwAXe3Oz7G7jNqke8Wads6XYLk^HBywnTxKrT4cHLCdPEqtrQSkrvlzm3v0RvrfCN6qvRmhs5T9hkCh9Eb63wjeqr0=
+----
+CL:784
+CT:binary/userdata+userword
+CE:gzip,encrypt/0.2
+
+¿˜ytŒ«π &,Ø5eâ∫,èÂΩ-dDf>µYgclët±°∆	å‹¥Áh ≤f∆Å "" jZ”D0˙∂•±HËZÂ	,ÿõ+ã˘€‚E#—ºA“ìªT€Ó2¯ô¿\¸sô  
+[2014/06/23 23:02:19 576] transport  361  [soc] [0] send ok  1627  
+[2014/06/23 23:02:19 640] transport  370  [soc] [0] readable  
+[2014/06/23 23:02:19 640] transport  1243 HTTP/1.1 200 OK
+Content-Type: text/plain
+Content-Length: 194
+X-Req-Date: 2014/06/23 23:01:22 420
+Cache-Control: no-cache
+CL: 194
+X-Res-Date: 2014/06/23 23:01:22 426
+
+ver=MSSP+0%2E9&ret=0&cver=5%2E0%2E4%2E1048&eid=f69753151d3b07274af3ee8b1dafbe66&key=0fS0RJBHdIrEdalZGIS3KUOEvTYMeBsG72LPHEChY8ex4^HBywnTxKrT4cHLCdPEqtrQSkrvlzm3v0RvrfCN6qvRmhs5T9hkCh9Eb63wjeqr0=  
+[2014/06/23 23:02:19 640] transport  1008 a_complete_httpmessage  200  
+[2014/06/23 23:02:19 640] transport  1113 port updated  80  
+[2014/06/23 23:02:19 640] transport  1115 switch  80  
+[2014/06/23 23:02:19 640] legacyuup  50   [trans] [id = uuplegacyuup] readable  
+[2014/06/23 23:02:19 640] transport  881  [soc] disconnect   
+[2014/06/23 23:02:19 640] legacyuup  58   uup ok!  
+============================================================
+Time  2014/06/23 23:02:36 465 
+============================================================
+[2014/06/23 23:02:36 465] legacyuup  279  SYS_MSG_LOAD  
+[2014/06/23 23:02:36 466] legacyuup  194  UUP_MSG_START  
+[2014/06/23 23:02:36 466] legacyuup  196  legacyuup  legacyuup  268436457  1400652240  
+[2014/06/23 23:02:36 466] transport  609  net type:  standard  
+[2014/06/23 23:02:36 466] transport  610  net operator:  def  
+[2014/06/23 23:02:36 466] transport  611  use proxy:  false  
+[2014/06/23 23:02:36 466] legacyuup  254  not login!  
+[2014/06/23 23:02:36 544] legacyuup  268  UUP_MSG_LGI_RESULT  
+[2014/06/23 23:02:36 544] legacyuup  148  [session] send uup request  
+[2014/06/23 23:02:36 545] transport  753  using cached ip:  59.107.24.11  
+[2014/06/23 23:02:36 545] transport  795  ns_i =  nil  
+[2014/06/23 23:02:36 545] transport  796  transport_obj.name =  asr  
+[2014/06/23 23:02:36 545] transport  863  [soc] connect   59.107.24.11  80  
+[2014/06/23 23:02:36 575] transport  339  [soc] [0] connected  
+[2014/06/23 23:02:36 575] transport  901  build http request.  
+[2014/06/23 23:02:36 577] transport  992  POST /index.htm HTTP/1.1
+Host: dev.voicecloud.cn
+Content-Type: multipart/mixed;boundary=--
+Content-Length: 1448
+User-Agent: iFLYCloud
+Cache-Control: no-cache
+Accept: */*
+
+----
+CL:167
+CT:text/plain
+
+ver=MSSP+0%2E9&sub=asr&cmd=uup&cver=5%2E0%2E4%2E1048&key=0fc7R7Zaq3T8EZkm1gMW28bjeAoVXCXjHu/kR73RKdnTI^HBywnTxKrT4cHLCdPEqt^0Ei1rkVaRr0RvrfCN6qvRmhs5T9hkCh9Eb63wjeqr0=
+----
+CL:784
+CT:binary/userdata+userword
+CE:gzip,encrypt/0.2
+
+¥PÂ	ô^€≠ &,Ø5eâ∫,èÂΩ-dDf>µYgclët±°∆	å‹¥Áh ≤f∆Å "" jZ”D0˙∂•±HËZÂ	,ÿõ+étrV≈K lA“ìªT€Ó2¯ô¿\¸sô  
+[2014/06/23 23:02:36 577] transport  361  [soc] [0] send ok  1627  
+[2014/06/23 23:02:36 641] transport  370  [soc] [0] readable  
+[2014/06/23 23:02:36 641] transport  1243 HTTP/1.1 200 OK
+Content-Type: text/plain
+Content-Length: 194
+X-Req-Date: 2014/06/23 23:01:39 419
+Cache-Control: no-cache
+CL: 194
+X-Res-Date: 2014/06/23 23:01:39 423
+
+ver=MSSP+0%2E9&ret=0&cver=5%2E0%2E4%2E1048&eid=53b27f45bf56533a2db27759c36e01d0&key=0fyCrHNbMLinLO^H8rUanVd4Q3JfYjPAtGbtpfhYhhgQI^HBywnTxKrT4cHLCdPEqt^0Ei1rkVaRr0RvrfCN6qvRmhs5T9hkCh9Eb63wjeqr0=  
+[2014/06/23 23:02:36 641] transport  1008 a_complete_httpmessage  200  
+[2014/06/23 23:02:36 642] transport  1113 port updated  80  
+[2014/06/23 23:02:36 642] transport  1115 switch  80  
+[2014/06/23 23:02:36 642] legacyuup  50   [trans] [id = uuplegacyuup] readable  
+[2014/06/23 23:02:36 642] transport  881  [soc] disconnect   
+[2014/06/23 23:02:36 642] legacyuup  58   uup ok!  
+============================================================
+Time  2014/06/23 23:09:33 487 
+============================================================
+[2014/06/23 23:09:33 487] legacyuup  279  SYS_MSG_LOAD  
+[2014/06/23 23:09:33 489] legacyuup  194  UUP_MSG_START  
+[2014/06/23 23:09:33 489] legacyuup  196  legacyuup  legacyuup  268436457  1400652240  
+[2014/06/23 23:09:33 489] transport  609  net type:  standard  
+[2014/06/23 23:09:33 489] transport  610  net operator:  def  
+[2014/06/23 23:09:33 489] transport  611  use proxy:  false  
+[2014/06/23 23:09:33 489] legacyuup  254  not login!  
+[2014/06/23 23:09:33 601] legacyuup  268  UUP_MSG_LGI_RESULT  
+[2014/06/23 23:09:33 601] legacyuup  148  [session] send uup request  
+[2014/06/23 23:09:33 601] transport  753  using cached ip:  59.107.24.5  
+[2014/06/23 23:09:33 601] transport  795  ns_i =  nil  
+[2014/06/23 23:09:33 601] transport  796  transport_obj.name =  asr  
+[2014/06/23 23:09:33 601] transport  863  [soc] connect   59.107.24.5  80  
+[2014/06/23 23:09:33 632] transport  339  [soc] [0] connected  
+[2014/06/23 23:09:33 635] transport  901  build http request.  
+[2014/06/23 23:09:33 636] transport  992  POST /index.htm HTTP/1.1
+Host: dev.voicecloud.cn
+Content-Type: multipart/mixed;boundary=--
+Content-Length: 1448
+User-Agent: iFLYCloud
+Cache-Control: no-cache
+Accept: */*
+
+----
+CL:167
+CT:text/plain
+
+ver=MSSP+0%2E9&sub=asr&cmd=uup&cver=5%2E0%2E4%2E1048&key=0fdoO7cD^y/fYOw7O/RN9OZHIC57xNezYSgcjrd6/M/L8^HBywnTxKrT4cHLCdPEqtvatN1OgpLkj0RvrfCN6qvRmhs5T9hkCh9Eb63wjeqr0=
+----
+CL:784
+CT:binary/userdata+userword
+CE:gzip,encrypt/0.2
+
+|ãÿ∑(‹Ó &,Ø5eâ∫,èÂΩ-dDf>µYgclët±°∆	å‹¥Áh ≤f∆Å "" jZ”D0˙∂•±HËZÂ	,ÿõ+†èùÆ6)OA“ìªT€Ó2¯ô¿\¸sô  
+[2014/06/23 23:09:33 643] transport  361  [soc] [0] send ok  1627  
+[2014/06/23 23:09:33 703] transport  370  [soc] [0] readable  
+[2014/06/23 23:09:33 703] transport  1243 HTTP/1.1 200 OK
+Content-Type: text/plain
+Content-Length: 194
+X-Req-Date: 2014/06/23 23:08:36 468
+Cache-Control: no-cache
+CL: 194
+X-Res-Date: 2014/06/23 23:08:36 475
+
+ver=MSSP+0%2E9&ret=0&cver=5%2E0%2E4%2E1048&eid=478f79901d5eb80141f3df858bf92d1a&key=0fg3TevRl21IpelNPB7lY2PvflVGswJqAXrNXavOtJric^HBywnTxKrT4cHLCdPEqtvatN1OgpLkj0RvrfCN6qvRmhs5T9hkCh9Eb63wjeqr0=  
+[2014/06/23 23:09:33 703] transport  1008 a_complete_httpmessage  200  
+[2014/06/23 23:09:33 703] transport  1113 port updated  80  
+[2014/06/23 23:09:33 703] transport  1115 switch  80  
+[2014/06/23 23:09:33 703] legacyuup  50   [trans] [id = uuplegacyuup] readable  
+[2014/06/23 23:09:33 703] transport  881  [soc] disconnect   
+[2014/06/23 23:09:33 703] legacyuup  58   uup ok!  
+============================================================
+Time  2014/06/23 23:10:58 201 
+============================================================
+[2014/06/23 23:10:58 201] legacyuup  279  SYS_MSG_LOAD  
+[2014/06/23 23:10:58 204] legacyuup  194  UUP_MSG_START  
+[2014/06/23 23:10:58 204] legacyuup  196  legacyuup  legacyuup  268436457  1400652240  
+[2014/06/23 23:10:58 204] transport  609  net type:  standard  
+[2014/06/23 23:10:58 204] transport  610  net operator:  def  
+[2014/06/23 23:10:58 204] transport  611  use proxy:  false  
+[2014/06/23 23:10:58 204] legacyuup  254  not login!  
+[2014/06/23 23:10:58 316] legacyuup  268  UUP_MSG_LGI_RESULT  
+[2014/06/23 23:10:58 316] legacyuup  148  [session] send uup request  
+[2014/06/23 23:10:58 316] transport  753  using cached ip:  59.107.24.7  
+[2014/06/23 23:10:58 316] transport  795  ns_i =  nil  
+[2014/06/23 23:10:58 316] transport  796  transport_obj.name =  asr  
+[2014/06/23 23:10:58 316] transport  863  [soc] connect   59.107.24.7  80  
+[2014/06/23 23:10:58 347] transport  339  [soc] [0] connected  
+[2014/06/23 23:10:58 347] transport  901  build http request.  
+[2014/06/23 23:10:58 348] transport  992  POST /index.htm HTTP/1.1
+Host: dev.voicecloud.cn
+Content-Type: multipart/mixed;boundary=--
+Content-Length: 1448
+User-Agent: iFLYCloud
+Cache-Control: no-cache
+Accept: */*
+
+----
+CL:167
+CT:text/plain
+
+ver=MSSP+0%2E9&sub=asr&cmd=uup&cver=5%2E0%2E4%2E1048&key=0ftmExqRDWG8Snqr4lB27gzN1Nb2oXv32nokZj4ywP0QI^HBywnTxKrT4cHLCdPEqtYhAM6HKEYVP0RvrfCN6qvRmhs5T9hkCh9Eb63wjeqr0=
+----
+CL:784
+CT:binary/userdata+userword
+CE:gzip,encrypt/0.2
+
+ïÉ˙–ˇŸ	m &,Ø5eâ∫,èÂΩ-dDf>µYgclët±°∆	å‹¥Áh ≤f∆Å "" jZ”D0˙∂•±HËZÂ	,ÿõ+◊˘.ñ˝XSA“ìªT€Ó2¯ô¿\¸sô  
+[2014/06/23 23:10:58 348] transport  361  [soc] [0] send ok  1627  
+[2014/06/23 23:10:58 413] transport  370  [soc] [0] readable  
+[2014/06/23 23:10:58 413] transport  1243 HTTP/1.1 200 OK
+Content-Type: text/plain
+Content-Length: 194
+X-Req-Date: 2014/06/23 23:10:01 145
+Cache-Control: no-cache
+CL: 194
+X-Res-Date: 2014/06/23 23:10:01 149
+
+ver=MSSP+0%2E9&ret=0&cver=5%2E0%2E4%2E1048&eid=a7429a1ba833aabb794766a7a7e1aa33&key=0fwyAqJ3GGWtP^dC3rsHn3ZzM7QRFZR6MfFZ6MHTheU5U^HBywnTxKrT4cHLCdPEqtYhAM6HKEYVP0RvrfCN6qvRmhs5T9hkCh9Eb63wjeqr0=  
+[2014/06/23 23:10:58 413] transport  1008 a_complete_httpmessage  200  
+[2014/06/23 23:10:58 413] transport  1113 port updated  80  
+[2014/06/23 23:10:58 413] transport  1115 switch  80  
+[2014/06/23 23:10:58 413] legacyuup  50   [trans] [id = uuplegacyuup] readable  
+[2014/06/23 23:10:58 413] transport  881  [soc] disconnect   
+[2014/06/23 23:10:58 414] legacyuup  58   uup ok!  
+============================================================
+Time  2014/06/23 23:49:04 843 
+============================================================
+[2014/06/23 23:49:04 843] legacyuup  279  SYS_MSG_LOAD  
+[2014/06/23 23:49:04 845] legacyuup  194  UUP_MSG_START  
+[2014/06/23 23:49:04 845] legacyuup  196  legacyuup  legacyuup  268436457  1400652240  
+[2014/06/23 23:49:04 845] transport  609  net type:  standard  
+[2014/06/23 23:49:04 845] transport  610  net operator:  def  
+[2014/06/23 23:49:04 845] transport  611  use proxy:  false  
+[2014/06/23 23:49:04 845] legacyuup  254  not login!  
+[2014/06/23 23:49:05 013] legacyuup  268  UUP_MSG_LGI_RESULT  
+[2014/06/23 23:49:05 013] legacyuup  148  [session] send uup request  
+[2014/06/23 23:49:05 013] transport  753  using cached ip:  59.107.24.5  
+[2014/06/23 23:49:05 013] transport  795  ns_i =  nil  
+[2014/06/23 23:49:05 013] transport  796  transport_obj.name =  asr  
+[2014/06/23 23:49:05 013] transport  863  [soc] connect   59.107.24.5  80  
+[2014/06/23 23:49:05 108] transport  339  [soc] [0] connected  
+[2014/06/23 23:49:05 108] transport  901  build http request.  
+[2014/06/23 23:49:05 109] transport  992  POST /index.htm HTTP/1.1
+Host: dev.voicecloud.cn
+Content-Type: multipart/mixed;boundary=--
+Content-Length: 1448
+User-Agent: iFLYCloud
+Cache-Control: no-cache
+Accept: */*
+
+----
+CL:167
+CT:text/plain
+
+ver=MSSP+0%2E9&sub=asr&cmd=uup&cver=5%2E0%2E4%2E1048&key=0fdoO7cD^y/fYUTP72/TWlbw^Ap8B3tg/nMwbRyOIyrdc^HBywnTxKrT4cHLCdPEqt7y/a8hNX91r0RvrfCN6qvRmhs5T9hkCh9Eb63wjeqr0=
+----
+CL:784
+CT:binary/userdata+userword
+CE:gzip,encrypt/0.2
+
+5m£Iüâ® &,Ø5eâ∫,èÂΩ-dDf>µYgclët±°∆	å‹¥Áh ≤f∆Å "" jZ”D0˙∂•±HËZÂ	,ÿõ+”nD≠THA“ìªT€Ó2¯ô¿\¸sô  
+[2014/06/23 23:49:05 109] transport  361  [soc] [0] send ok  1627  
+[2014/06/23 23:49:05 174] transport  370  [soc] [0] readable  
+[2014/06/23 23:49:05 174] transport  1243 HTTP/1.1 200 OK
+Content-Type: text/plain
+Content-Length: 194
+X-Req-Date: 2014/06/23 23:48:07 767
+Cache-Control: no-cache
+CL: 194
+X-Res-Date: 2014/06/23 23:48:07 773
+
+ver=MSSP+0%2E9&ret=0&cver=5%2E0%2E4%2E1048&eid=682b36f34e1df21536017bb80069c246&key=0fPFwoEjKWUAM/uVZKKzSUfyvm1O0iXDj8U3gHe01no0g^HBywnTxKrT4cHLCdPEqt7y/a8hNX91r0RvrfCN6qvRmhs5T9hkCh9Eb63wjeqr0=  
+[2014/06/23 23:49:05 174] transport  1008 a_complete_httpmessage  200  
+[2014/06/23 23:49:05 174] transport  1113 port updated  80  
+[2014/06/23 23:49:05 174] transport  1115 switch  80  
+[2014/06/23 23:49:05 174] legacyuup  50   [trans] [id = uuplegacyuup] readable  
+[2014/06/23 23:49:05 174] transport  881  [soc] disconnect   
+[2014/06/23 23:49:05 174] legacyuup  58   uup ok!  
+============================================================
+Time  2014/06/24 00:01:37 991 
+============================================================
+[2014/06/24 00:01:37 991] legacyuup  279  SYS_MSG_LOAD  
+[2014/06/24 00:01:37 994] legacyuup  194  UUP_MSG_START  
+[2014/06/24 00:01:37 994] legacyuup  196  legacyuup  legacyuup  268436457  1400652240  
+[2014/06/24 00:01:37 994] transport  609  net type:  standard  
+[2014/06/24 00:01:37 994] transport  610  net operator:  def  
+[2014/06/24 00:01:37 994] transport  611  use proxy:  false  
+[2014/06/24 00:01:37 994] legacyuup  254  not login!  
+[2014/06/24 00:01:38 108] legacyuup  268  UUP_MSG_LGI_RESULT  
+[2014/06/24 00:01:38 108] legacyuup  148  [session] send uup request  
+[2014/06/24 00:01:38 108] transport  753  using cached ip:  59.107.24.7  
+[2014/06/24 00:01:38 108] transport  795  ns_i =  nil  
+[2014/06/24 00:01:38 108] transport  796  transport_obj.name =  asr  
+[2014/06/24 00:01:38 108] transport  863  [soc] connect   59.107.24.7  80  
+[2014/06/24 00:01:38 139] transport  339  [soc] [0] connected  
+[2014/06/24 00:01:38 139] transport  901  build http request.  
+[2014/06/24 00:01:38 140] transport  992  POST /index.htm HTTP/1.1
+Host: dev.voicecloud.cn
+Content-Type: multipart/mixed;boundary=--
+Content-Length: 1448
+User-Agent: iFLYCloud
+Cache-Control: no-cache
+Accept: */*
+
+----
+CL:167
+CT:text/plain
+
+ver=MSSP+0%2E9&sub=asr&cmd=uup&cver=5%2E0%2E4%2E1048&key=0fUcUd/BzsjIz2AlGiF/Vduqt11Roqc4FA5YOJ/wRmyp8^HBywnTxKrT4cHLCdPEqt07HeGJ3FP2j0RvrfCN6qvRmhs5T9hkCh9Eb63wjeqr0=
+----
+CL:784
+CT:binary/userdata+userword
+CE:gzip,encrypt/0.2
+
+<É=˛P˚¡j &,Ø5eâ∫,èÂΩ-dDf>µYgclët±°∆	å‹¥Áh ≤f∆Å "" jZ”D0˙∂•±HËZÂ	,ÿõ+Gp∂?0#QA“ìªT€Ó2¯ô¿\¸sô  
+[2014/06/24 00:01:38 141] transport  361  [soc] [0] send ok  1627  
+[2014/06/24 00:01:38 205] transport  370  [soc] [0] readable  
+[2014/06/24 00:01:38 205] transport  1243 HTTP/1.1 200 OK
+Content-Type: text/plain
+Content-Length: 194
+X-Req-Date: 2014/06/24 00:00:40 747
+Cache-Control: no-cache
+CL: 194
+X-Res-Date: 2014/06/24 00:00:40 752
+
+ver=MSSP+0%2E9&ret=0&cver=5%2E0%2E4%2E1048&eid=f646018b5f22374a70c5de8472624611&key=0fg3TevRl21IoOim^kmBsGcRBIf68t7bLa2bAQ6IkFhK0^HBywnTxKrT4cHLCdPEqt07HeGJ3FP2j0RvrfCN6qvRmhs5T9hkCh9Eb63wjeqr0=  
+[2014/06/24 00:01:38 205] transport  1008 a_complete_httpmessage  200  
+[2014/06/24 00:01:38 205] transport  1113 port updated  80  
+[2014/06/24 00:01:38 206] transport  1115 switch  80  
+[2014/06/24 00:01:38 206] legacyuup  50   [trans] [id = uuplegacyuup] readable  
+[2014/06/24 00:01:38 206] transport  881  [soc] disconnect   
+[2014/06/24 00:01:38 206] legacyuup  58   uup ok!  
+============================================================
+Time  2014/06/24 11:40:49 223 
+============================================================
+[2014/06/24 11:40:49 223] legacyuup  279  SYS_MSG_LOAD  
+[2014/06/24 11:40:49 224] legacyuup  194  UUP_MSG_START  
+[2014/06/24 11:40:49 224] legacyuup  196  legacyuup  legacyuup  268436457  1400652240  
+[2014/06/24 11:40:49 224] transport  609  net type:  standard  
+[2014/06/24 11:40:49 224] transport  610  net operator:  def  
+[2014/06/24 11:40:49 224] transport  611  use proxy:  false  
+[2014/06/24 11:40:49 225] legacyuup  254  not login!  
+[2014/06/24 11:40:50 384] legacyuup  268  UUP_MSG_LGI_RESULT  
+[2014/06/24 11:40:50 384] legacyuup  148  [session] send uup request  
+[2014/06/24 11:40:50 384] transport  753  using cached ip:  117.121.56.3  
+[2014/06/24 11:40:50 384] transport  795  ns_i =  nil  
+[2014/06/24 11:40:50 385] transport  796  transport_obj.name =  asr  
+[2014/06/24 11:40:50 385] transport  863  [soc] connect   117.121.56.3  80  
+[2014/06/24 11:40:50 446] transport  339  [soc] [0] connected  
+[2014/06/24 11:40:50 446] transport  901  build http request.  
+[2014/06/24 11:40:50 447] transport  992  POST /index.htm HTTP/1.1
+Host: dev.voicecloud.cn
+Content-Type: multipart/mixed;boundary=--
+Content-Length: 1448
+User-Agent: iFLYCloud
+Cache-Control: no-cache
+Accept: */*
+
+----
+CL:167
+CT:text/plain
+
+ver=MSSP+0%2E9&sub=asr&cmd=uup&cver=5%2E0%2E4%2E1048&key=0f5fyMhy2ouJc1ODh/NdVA0aQenWtgV/r^/n7nWiK1614^HBywnTxKrT4cHLCdPEqtDMwREvpeMhP0RvrfCN6qvRmhs5T9hkCh9Eb63wjeqr0=
+----
+CL:784
+CT:binary/userdata+userword
+CE:gzip,encrypt/0.2
+
+cNöÃOxƒÜ &,Ø5eâ∫,èÂΩ-dDf>µYgclët±°∆	å‹¥Áh ≤f∆Å "" jZ”D0˙∂•±HËZÂ	,ÿõ+—YÏ«©ÓA“ìªT€Ó2¯ô¿\¸sô  
+[2014/06/24 11:40:50 447] transport  361  [soc] [0] send ok  1627  
+[2014/06/24 11:40:56 699] transport  370  [soc] [0] readable  
+[2014/06/24 11:40:56 699] transport  1243 HTTP/1.1 200 OK
+Content-Type: text/plain
+Content-Length: 194
+X-Req-Date: 2014/06/24 11:39:50 516
+Cache-Control: no-cache
+CL: 194
+X-Res-Date: 2014/06/24 11:39:56 690
+
+ver=MSSP+0%2E9&ret=0&cver=5%2E0%2E4%2E1048&eid=4fa995e6d146d83ffe2980f635ad54d4&key=0fgRFvOGpBF/O3J4ju8^HXMJZ8EXVwa8zCy8YghP7YzPI^HBywnTxKrT4cHLCdPEqtDMwREvpeMhP0RvrfCN6qvRmhs5T9hkCh9Eb63wjeqr0=  
+[2014/06/24 11:40:56 699] transport  1008 a_complete_httpmessage  200  
+[2014/06/24 11:40:56 699] transport  1113 port updated  80  
+[2014/06/24 11:40:56 700] transport  1115 switch  80  
+[2014/06/24 11:40:56 700] legacyuup  50   [trans] [id = uuplegacyuup] readable  
+[2014/06/24 11:40:56 700] transport  881  [soc] disconnect   
+[2014/06/24 11:40:56 700] legacyuup  58   uup ok!  
+============================================================
+Time  2014/06/24 11:42:32 895 
+============================================================
+[2014/06/24 11:42:32 895] legacyuup  279  SYS_MSG_LOAD  
+[2014/06/24 11:42:32 896] legacyuup  194  UUP_MSG_START  
+[2014/06/24 11:42:32 896] legacyuup  196  legacyuup  legacyuup  268436457  1400652240  
+[2014/06/24 11:42:32 897] transport  609  net type:  standard  
+[2014/06/24 11:42:32 897] transport  610  net operator:  def  
+[2014/06/24 11:42:32 897] transport  611  use proxy:  false  
+[2014/06/24 11:42:32 897] legacyuup  254  not login!  
+[2014/06/24 11:42:32 971] legacyuup  268  UUP_MSG_LGI_RESULT  
+[2014/06/24 11:42:32 971] legacyuup  148  [session] send uup request  
+[2014/06/24 11:42:32 971] transport  753  using cached ip:  59.107.24.11  
+[2014/06/24 11:42:32 972] transport  795  ns_i =  nil  
+[2014/06/24 11:42:32 972] transport  796  transport_obj.name =  asr  
+[2014/06/24 11:42:32 972] transport  863  [soc] connect   59.107.24.11  80  
+[2014/06/24 11:42:32 002] transport  339  [soc] [0] connected  
+[2014/06/24 11:42:32 002] transport  901  build http request.  
+[2014/06/24 11:42:32 003] transport  992  POST /index.htm HTTP/1.1
+Host: dev.voicecloud.cn
+Content-Type: multipart/mixed;boundary=--
+Content-Length: 1440
+User-Agent: iFLYCloud
+Cache-Control: no-cache
+Accept: */*
+
+----
+CL:167
+CT:text/plain
+
+ver=MSSP+0%2E9&sub=asr&cmd=uup&cver=5%2E0%2E4%2E1048&key=0ffvQJD9G6l31pWPvc1bITJ6QenWtgV/r^wKiB06yvsP8^HBywnTxKrT4cHLCdPEqtZ1DzsKF5q1z0RvrfCN6qvRmhs5T9hkCh9Eb63wjeqr0=
+----
+CL:784
+CT:binary/userdata+userword
+CE:gzip,encrypt/0.2
+
+‰∑ØŒê5e &,Ø5eâ∫,èÂΩ-dDf>µYgclët±°∆	å‹¥Áh ≤f∆Å "" jZ”D0˙∂•±HËZÂ	,ÿõ+&≥˙™⁄ßËA“ìªT€Ó2¯ô¿\¸sô  
+[2014/06/24 11:42:32 004] transport  361  [soc] [0] send ok  1619  
+[2014/06/24 11:42:33 038] transport  370  [soc] [0] readable  
+[2014/06/24 11:42:33 038] transport  1243 HTTP/1.1 200 OK
+Content-Type: text/plain
+Content-Length: 194
+X-Req-Date: 2014/06/24 11:41:33 45
+Cache-Control: no-cache
+CL: 194
+X-Res-Date: 2014/06/24 11:41:33 50
+
+ver=MSSP+0%2E9&ret=0&cver=5%2E0%2E4%2E1048&eid=e39da266fe6cde729374b74bb29c4978&key=0fn2F5TVOhyu5QWkOTJn6UfYGAee2O57GtVFCtHh/cr9U^HBywnTxKrT4cHLCdPEqtZ1DzsKF5q1z0RvrfCN6qvRmhs5T9hkCh9Eb63wjeqr0=  
+[2014/06/24 11:42:33 038] transport  1008 a_complete_httpmessage  200  
+[2014/06/24 11:42:33 038] transport  1113 port updated  80  
+[2014/06/24 11:42:33 038] transport  1115 switch  80  
+[2014/06/24 11:42:33 038] legacyuup  50   [trans] [id = uuplegacyuup] readable  
+[2014/06/24 11:42:33 039] transport  881  [soc] disconnect   
+[2014/06/24 11:42:33 039] legacyuup  58   uup ok!  
+============================================================
+Time  2014/06/27 10:30:07 236 
+============================================================
+[2014/06/27 10:30:07 237] legacyuup  279  SYS_MSG_LOAD  
+[2014/06/27 10:30:07 257] legacyuup  194  UUP_MSG_START  
+[2014/06/27 10:30:07 257] legacyuup  196  legacyuup  legacyuup  268436457  1400652240  
+[2014/06/27 10:30:07 257] transport  609  net type:  standard  
+[2014/06/27 10:30:07 257] transport  610  net operator:  def  
+[2014/06/27 10:30:07 257] transport  611  use proxy:  false  
+[2014/06/27 10:30:07 257] legacyuup  254  not login!  
+[2014/06/27 10:30:07 363] legacyuup  268  UUP_MSG_LGI_RESULT  
+[2014/06/27 10:30:07 363] legacyuup  148  [session] send uup request  
+[2014/06/27 10:30:07 363] transport  753  using cached ip:  116.213.69.201  
+[2014/06/27 10:30:07 364] transport  795  ns_i =  nil  
+[2014/06/27 10:30:07 364] transport  796  transport_obj.name =  asr  
+[2014/06/27 10:30:07 364] transport  863  [soc] connect   116.213.69.201  80  
+[2014/06/27 10:30:07 424] transport  339  [soc] [0] connected  
+[2014/06/27 10:30:07 424] transport  901  build http request.  
+[2014/06/27 10:30:07 426] transport  992  POST /index.htm HTTP/1.1
+Host: dev.voicecloud.cn
+Content-Type: multipart/mixed;boundary=--
+Content-Length: 1448
+User-Agent: iFLYCloud
+Cache-Control: no-cache
+Accept: */*
+
+----
+CL:167
+CT:text/plain
+
+ver=MSSP+0%2E9&sub=asr&cmd=uup&cver=5%2E0%2E4%2E1048&key=0f9xtxVq8tON6gtZAFfnE0q8Ayd4Xbk2iI02c5sHCR24M^HBywnTxKrT4cHLCdPEqt7BqwX03C8W/0RvrfCN6qvRmhs5T9hkCh9Eb63wjeqr0=
+----
+CL:784
+CT:binary/userdata+userword
+CE:gzip,encrypt/0.2
+
+LjnÄ)N™∑ &,Ø5eâ∫,èÂΩ-dDf>µYgclët±°∆	å‹¥Áh ≤f∆Å "" jZ”D0˙∂•±HËZÂ	,ÿõ+$  
+[2014/06/27 10:30:07 426] transport  361  [soc] [0] send ok  1627  
+[2014/06/27 10:30:08 694] transport  370  [soc] [0] readable  
+[2014/06/27 10:30:08 694] transport  1243 HTTP/1.1 200 OK
+Content-Type: text/plain
+Content-Length: 194
+X-Req-Date: 2014/06/27 10:29:29 959
+Cache-Control: no-cache
+CL: 194
+X-Res-Date: 2014/06/27 10:29:31 175
+
+ver=MSSP+0%2E9&ret=0&cver=5%2E0%2E4%2E1048&eid=50843d5c1372a98dd8fd564d51a5d8ec&key=0fXg6Rb3CLzF1iCnycvt5FcRsz7lG6MWRdBausMxdR0t4^HBywnTxKrT4cHLCdPEqt7BqwX03C8W/0RvrfCN6qvRmhs5T9hkCh9Eb63wjeqr0=  
+[2014/06/27 10:30:08 694] transport  1008 a_complete_httpmessage  200  
+[2014/06/27 10:30:08 694] transport  1113 port updated  80  
+[2014/06/27 10:30:08 694] transport  1115 switch  80  
+[2014/06/27 10:30:08 694] legacyuup  50   [trans] [id = uuplegacyuup] readable  
+[2014/06/27 10:30:08 694] transport  881  [soc] disconnect   
+[2014/06/27 10:30:08 695] legacyuup  58   uup ok!  
+[2014/06/27 10:30:08 695] legacyuup  288  SYS_MSG_UNLOAD  

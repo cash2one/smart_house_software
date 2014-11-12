@@ -1,0 +1,2670 @@
+============================================================
+Time  2014/06/19 11:15:46 442 
+============================================================
+[2014/06/19 11:15:46 442] sessinfo   415  session info loaded!  
+[2014/06/19 11:15:46 442] sessinfo   434  SESSIONINFO_CMD  
+[2014/06/19 11:15:46 442] sessinfo   435  have_data_in_queue =   0  
+[2014/06/19 11:15:46 444] sessinfo   460  session info upload start  
+[2014/06/19 11:15:46 444] sessinfo   404  sessinfo new encoder success  
+[2014/06/19 11:15:46 445] sessinfo   383  sessinfo compress success  
+[2014/06/19 11:15:46 445] sessinfo   384  sessinfo after compressed size =   618  
+[2014/06/19 11:15:46 445] sessinfo   388  sessinfo data_encrypt is not nil  
+[2014/06/19 11:15:46 445] sessinfo   269  upload perflog  
+[2014/06/19 11:15:46 445] sessinfo   339  POST /scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid=asr2000a3a0@ch473606fda1be477600 HTTP/1.1
+Host: scs.openspeech.cn
+Connection: Keep-Alive
+Content-Type: application/x-gzip;charset=utf-8
+Content-Length: 618
+User-Agent: iFLYCloud
+Cache-Control: no-cache
+Accept: */*
+
+}ô†QŒk÷E‡VØ‹7=v‚Ë%!e`°ê_P‘—s_é¡3ﬁH‡⁄ºrŸ•k›≈'6bÎ˛tô&épâixav≠3v⁄$ô∞ÊÕ”)ã§®«U4ÀG⁄2èâWU—kØ®võYfwG•r<“‹c'÷Ë,≈±@TùØ£^Xáx>Å¥{ËT¬cZ¶_’.dRïZ©ƒ©∞øı√ï¿qBÎtE9—f/738œY7f6Ä¸V/è˛ø;µ†Ω?í.ïg˘ﬂ»>≥ì _WOï{|k÷÷tS¯∞/|ÀdÈ7£§ëHÂØ/èä¿‚öõ´é“ÛU˛2‚ÍR“⁄è*Z‘s5&~¬{∏_Pô»XV”‡´ûØ©iRH^–ÇÈdŸV∂,/3.t9D  
+[2014/06/19 11:15:46 445] network    153  gethttpresp  http://scs.openspeech.cn:80/scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid=asr2000a3a0@ch473606fda1be477600  
+[2014/06/19 11:15:46 497] network    22   dns resp  0  
+[2014/06/19 11:15:46 497] network    157  gethttpresp dns ok  120.193.118.6  
+[2014/06/19 11:15:46 497] network    47   gethttpresp2  120.193.118.6  80  
+[2014/06/19 11:15:46 541] sessinfo   424  SYS_MSG_SHUTDOWN  
+[2014/06/19 11:15:46 541] sessinfo   176  no receive upload success response  
+[2014/06/19 11:15:46 542] sessinfo   143  new session  
+[2014/06/19 11:15:46 542] sessinfo   144  csid =  cisr1PdHHBHMYIyZH+6xHHm-AwvUPZSHNO  
+[2014/06/19 11:15:46 542] sessinfo   146  csid_t =  1403147743  
+============================================================
+Time  2014/06/19 11:17:46 773 
+============================================================
+[2014/06/19 11:17:46 773] sessinfo   415  session info loaded!  
+[2014/06/19 11:17:46 773] sessinfo   434  SESSIONINFO_CMD  
+[2014/06/19 11:17:46 773] sessinfo   435  have_data_in_queue =   0  
+[2014/06/19 11:17:46 776] sessinfo   460  session info upload start  
+[2014/06/19 11:17:46 776] sessinfo   404  sessinfo new encoder success  
+[2014/06/19 11:17:46 776] sessinfo   383  sessinfo compress success  
+[2014/06/19 11:17:46 777] sessinfo   384  sessinfo after compressed size =   608  
+[2014/06/19 11:17:46 777] sessinfo   388  sessinfo data_encrypt is not nil  
+[2014/06/19 11:17:46 777] sessinfo   269  upload perflog  
+[2014/06/19 11:17:46 777] sessinfo   339  POST /scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid=asr200023e9@gz46ae06fda237461100 HTTP/1.1
+Host: scs.openspeech.cn
+Connection: Keep-Alive
+Content-Type: application/x-gzip;charset=utf-8
+Content-Length: 608
+User-Agent: iFLYCloud
+Cache-Control: no-cache
+Accept: */*
+
+}ô†Qƒãû5Ë¢©y≥ç¬›Ö¨/P8`ÆËØ≤ØØßÕƒ#éüé$»3œ∫r√µÆôm
+Ñ|Û5ˆ˘˘#sÌÛ":µóDLœ=(â*∏¬êf≠á
+§Ïﬂ£®>Ÿü`[›±®Ç≈O¨A√›åêáß@Å#e¢ZS˚Õë˘zÖØº–)è»ŸÑT≤ÄÖ°†”‹ó=g'Tâ¨Ç^«Õâ3¥±õÂ⁄úï9“óyf¬ëÜ˝M,◊GtÕµú'‚qœ»ê6Wç1÷ ∂d%òÇÙ<¡sØljwH≤ÖÈ¯eB˙7$m6¡a˘U'ì¨2Ú∫Pc∏Õob`üÆ	  
+[2014/06/19 11:17:46 777] network    153  gethttpresp  http://scs.openspeech.cn:80/scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid=asr200023e9@gz46ae06fda237461100  
+[2014/06/19 11:17:46 828] network    22   dns resp  0  
+[2014/06/19 11:17:46 828] network    157  gethttpresp dns ok  220.178.7.102  
+[2014/06/19 11:17:46 828] network    47   gethttpresp2  220.178.7.102  80  
+[2014/06/19 11:17:46 872] sessinfo   424  SYS_MSG_SHUTDOWN  
+[2014/06/19 11:17:46 872] sessinfo   176  no receive upload success response  
+[2014/06/19 11:17:46 872] sessinfo   143  new session  
+[2014/06/19 11:17:46 872] sessinfo   144  csid =  cisr1PdHHBHMYIeNa0NaHHBb4uJqdIdHWi  
+[2014/06/19 11:17:46 873] sessinfo   146  csid_t =  1403147864  
+[2014/06/19 11:17:46 874] sessinfo   120  perflog session  
+[2014/06/19 11:17:46 874] sessinfo   121  csid =  cisr1PdHHBHMYIeNa0NaHHBb4uJqdIdHWi  
+[2014/06/19 11:17:46 874] sessinfo   123  csid_t =  1403147864  
+[2014/06/19 11:17:46 874] sessinfo   143  new session  
+[2014/06/19 11:17:46 874] sessinfo   144  csid =  cisr1PdHHBHMYIyZH+6xHHm-AwvUPZSHNO  
+[2014/06/19 11:17:46 874] sessinfo   146  csid_t =  1403147743  
+============================================================
+Time  2014/06/19 11:20:03 747 
+============================================================
+[2014/06/19 11:20:03 748] sessinfo   415  session info loaded!  
+[2014/06/19 11:20:03 748] sessinfo   434  SESSIONINFO_CMD  
+[2014/06/19 11:20:03 748] sessinfo   435  have_data_in_queue =   0  
+[2014/06/19 11:20:03 751] sessinfo   460  session info upload start  
+[2014/06/19 11:20:03 752] sessinfo   404  sessinfo new encoder success  
+[2014/06/19 11:20:03 752] sessinfo   383  sessinfo compress success  
+[2014/06/19 11:20:03 752] sessinfo   384  sessinfo after compressed size =   587  
+[2014/06/19 11:20:03 753] sessinfo   388  sessinfo data_encrypt is not nil  
+[2014/06/19 11:20:03 753] sessinfo   269  upload perflog  
+[2014/06/19 11:20:03 753] sessinfo   339  POST /scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid=asr2000a3aa@ch473606fda2be477600 HTTP/1.1
+Host: scs.openspeech.cn
+Connection: Keep-Alive
+Content-Type: application/x-gzip;charset=utf-8
+Content-Length: 587
+User-Agent: iFLYCloud
+Cache-Control: no-cache
+Accept: */*
+
+}ôàVXéﬁ5ÈJ<Ò)®!Œ†’ìWWΩGZﬁ&¿W+£;>∞©ŸB˚~r†ÒÕVºÇM_bsbSüxd¶Z]˛«√Ëe&n§¬•ûC”€∏µ±¬¯2nÃ\	€‰íˆÉUÚvS“,„≈_`a/á¬•oiAùoØˇóÅârIlvÌ¿ΩÿZµî;F;;àozŒ™œw5é}•©º0“†‰C1π/€Âß)<Md=% +uÈ€i∑ˇXk@‡nL◊ÿ1Ô…‹5ÿö˘…_  
+[2014/06/19 11:20:03 753] network    153  gethttpresp  http://scs.openspeech.cn:80/scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid=asr2000a3aa@ch473606fda2be477600  
+[2014/06/19 11:20:03 816] network    22   dns resp  0  
+[2014/06/19 11:20:03 816] network    157  gethttpresp dns ok  120.193.118.6  
+[2014/06/19 11:20:03 816] network    47   gethttpresp2  120.193.118.6  80  
+[2014/06/19 11:20:03 846] sessinfo   424  SYS_MSG_SHUTDOWN  
+[2014/06/19 11:20:03 846] sessinfo   176  no receive upload success response  
+[2014/06/19 11:20:03 847] sessinfo   143  new session  
+[2014/06/19 11:20:03 847] sessinfo   144  csid =  cisr1PdHHBHMYIcZaFA7HHd3HwhD0bl17w  
+[2014/06/19 11:20:03 847] sessinfo   146  csid_t =  1403147999  
+[2014/06/19 11:20:03 848] sessinfo   120  perflog session  
+[2014/06/19 11:20:03 848] sessinfo   121  csid =  cisr1PdHHBHMYIcZaFA7HHd3HwhD0bl17w  
+[2014/06/19 11:20:03 848] sessinfo   123  csid_t =  1403147999  
+[2014/06/19 11:20:03 849] sessinfo   143  new session  
+[2014/06/19 11:20:03 849] sessinfo   144  csid =  cisr1PdHHBHMYIeNa0NaHHBb4uJqdIdHWi  
+[2014/06/19 11:20:03 849] sessinfo   146  csid_t =  1403147864  
+[2014/06/19 11:20:03 850] sessinfo   120  perflog session  
+[2014/06/19 11:20:03 850] sessinfo   121  csid =  cisr1PdHHBHMYIcZaFA7HHd3HwhD0bl17w  
+[2014/06/19 11:20:03 850] sessinfo   123  csid_t =  1403147999  
+[2014/06/19 11:20:03 851] sessinfo   120  perflog session  
+[2014/06/19 11:20:03 851] sessinfo   121  csid =  cisr1PdHHBHMYIeNa0NaHHBb4uJqdIdHWi  
+[2014/06/19 11:20:03 851] sessinfo   123  csid_t =  1403147864  
+[2014/06/19 11:20:03 852] sessinfo   143  new session  
+[2014/06/19 11:20:03 852] sessinfo   144  csid =  cisr1PdHHBHMYIyZH+6xHHm-AwvUPZSHNO  
+[2014/06/19 11:20:03 852] sessinfo   146  csid_t =  1403147743  
+============================================================
+Time  2014/06/19 11:21:04 058 
+============================================================
+[2014/06/19 11:21:04 058] sessinfo   415  session info loaded!  
+[2014/06/19 11:21:04 059] sessinfo   434  SESSIONINFO_CMD  
+[2014/06/19 11:21:04 059] sessinfo   435  have_data_in_queue =   0  
+[2014/06/19 11:21:04 063] sessinfo   460  session info upload start  
+[2014/06/19 11:21:04 063] sessinfo   404  sessinfo new encoder success  
+[2014/06/19 11:21:04 064] sessinfo   383  sessinfo compress success  
+[2014/06/19 11:21:04 064] sessinfo   384  sessinfo after compressed size =   598  
+[2014/06/19 11:21:04 064] sessinfo   388  sessinfo data_encrypt is not nil  
+[2014/06/19 11:21:04 064] sessinfo   269  upload perflog  
+[2014/06/19 11:21:04 065] sessinfo   339  POST /scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid=asr20000cc7@ch473506fda2fc477600 HTTP/1.1
+Host: scs.openspeech.cn
+Connection: Keep-Alive
+Content-Type: application/x-gzip;charset=utf-8
+Content-Length: 598
+User-Agent: iFLYCloud
+Cache-Control: no-cache
+Accept: */*
+
+}ôêQHj—5‡¢Q;^\äf>ƒ`@uEGØS´òh\"¡Ã◊WËzb√€S=≈Oû};˜€ˆ9"äijäÿ…_  
+[2014/06/19 11:21:04 065] network    153  gethttpresp  http://scs.openspeech.cn:80/scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid=asr20000cc7@ch473506fda2fc477600  
+[2014/06/19 11:21:04 128] network    22   dns resp  0  
+[2014/06/19 11:21:04 128] network    157  gethttpresp dns ok  120.193.118.11  
+[2014/06/19 11:21:04 128] network    47   gethttpresp2  120.193.118.11  80  
+[2014/06/19 11:21:04 157] sessinfo   424  SYS_MSG_SHUTDOWN  
+[2014/06/19 11:21:04 157] sessinfo   176  no receive upload success response  
+[2014/06/19 11:21:04 158] sessinfo   143  new session  
+[2014/06/19 11:21:04 158] sessinfo   144  csid =  cisr1PdHHBHMYITjazOCHHml6WtgtYpdzK  
+[2014/06/19 11:21:04 158] sessinfo   146  csid_t =  1403148061  
+[2014/06/19 11:21:04 159] sessinfo   120  perflog session  
+[2014/06/19 11:21:04 159] sessinfo   121  csid =  cisr1PdHHBHMYITjazOCHHml6WtgtYpdzK  
+[2014/06/19 11:21:04 159] sessinfo   123  csid_t =  1403148061  
+[2014/06/19 11:21:04 160] sessinfo   143  new session  
+[2014/06/19 11:21:04 160] sessinfo   144  csid =  cisr1PdHHBHMYIcZaFA7HHd3HwhD0bl17w  
+[2014/06/19 11:21:04 160] sessinfo   146  csid_t =  1403147999  
+[2014/06/19 11:21:04 161] sessinfo   120  perflog session  
+[2014/06/19 11:21:04 161] sessinfo   121  csid =  cisr1PdHHBHMYITjazOCHHml6WtgtYpdzK  
+[2014/06/19 11:21:04 161] sessinfo   123  csid_t =  1403148061  
+[2014/06/19 11:21:04 161] sessinfo   120  perflog session  
+[2014/06/19 11:21:04 161] sessinfo   121  csid =  cisr1PdHHBHMYIcZaFA7HHd3HwhD0bl17w  
+[2014/06/19 11:21:04 161] sessinfo   123  csid_t =  1403147999  
+[2014/06/19 11:21:04 162] sessinfo   143  new session  
+[2014/06/19 11:21:04 162] sessinfo   144  csid =  cisr1PdHHBHMYIeNa0NaHHBb4uJqdIdHWi  
+[2014/06/19 11:21:04 162] sessinfo   146  csid_t =  1403147864  
+[2014/06/19 11:21:04 163] sessinfo   120  perflog session  
+[2014/06/19 11:21:04 163] sessinfo   121  csid =  cisr1PdHHBHMYITjazOCHHml6WtgtYpdzK  
+[2014/06/19 11:21:04 163] sessinfo   123  csid_t =  1403148061  
+[2014/06/19 11:21:04 164] sessinfo   120  perflog session  
+[2014/06/19 11:21:04 164] sessinfo   121  csid =  cisr1PdHHBHMYIcZaFA7HHd3HwhD0bl17w  
+[2014/06/19 11:21:04 164] sessinfo   123  csid_t =  1403147999  
+[2014/06/19 11:21:04 164] sessinfo   120  perflog session  
+[2014/06/19 11:21:04 164] sessinfo   121  csid =  cisr1PdHHBHMYIeNa0NaHHBb4uJqdIdHWi  
+[2014/06/19 11:21:04 164] sessinfo   123  csid_t =  1403147864  
+[2014/06/19 11:21:04 164] sessinfo   143  new session  
+[2014/06/19 11:21:04 164] sessinfo   144  csid =  cisr1PdHHBHMYIyZH+6xHHm-AwvUPZSHNO  
+[2014/06/19 11:21:04 164] sessinfo   146  csid_t =  1403147743  
+============================================================
+Time  2014/06/19 11:21:45 806 
+============================================================
+[2014/06/19 11:21:45 806] sessinfo   415  session info loaded!  
+[2014/06/19 11:21:45 806] sessinfo   434  SESSIONINFO_CMD  
+[2014/06/19 11:21:45 806] sessinfo   435  have_data_in_queue =   0  
+[2014/06/19 11:21:45 810] sessinfo   460  session info upload start  
+[2014/06/19 11:21:45 810] sessinfo   404  sessinfo new encoder success  
+[2014/06/19 11:21:45 811] sessinfo   383  sessinfo compress success  
+[2014/06/19 11:21:45 811] sessinfo   384  sessinfo after compressed size =   780  
+[2014/06/19 11:21:45 811] sessinfo   388  sessinfo data_encrypt is not nil  
+[2014/06/19 11:21:45 811] sessinfo   269  upload perflog  
+[2014/06/19 11:21:45 811] sessinfo   339  POST /scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid=asr200023f8@gz46ae06fda321461100 HTTP/1.1
+Host: scs.openspeech.cn
+Connection: Keep-Alive
+Content-Type: application/x-gzip;charset=utf-8
+Content-Length: 780
+User-Agent: iFLYCloud
+Cache-Control: no-cache
+Accept: */*
+
+}ôÿêHjŸ3É˛Võ(ÇFoÜÄÜû«w/eF\lh∞∑±†∞X∆˙∏ÍMs‰[wJ∏FÃ{9Wx6¨ËñÔ™æoS^cèKÀàﬂC∆LôoªB…öOËI¨8»aq¡æ¡û	ñ#N5KQ%Æå#ú°¨Å«B¢®`*/çè·∞HÈ4-ë&ﬂ<áÙß]Qa”´!”€E|é·πfùE|A◊;å/4O%y,ä≥Ω—$IèM›]Ã_ë‡¶ÄLUmŸNê2fÎU`5˛pªØ®v'ä∑5W˘!Nƒ¨IN›dÌ‰;¨‡h∞üvV&]¶‰jÏ˙πZ&V±k\À4ìI'D‡Œ¶‘Ç`ª4f&◊ﬂ€∏pµóß.à˚îõùÛ _p∆»Ò}«¥Wr¸ïûôﬁ§j˛Ê•±∑ƒ$Z‚B-p‹ÛˆÜ_æôû(QU‰-ÿ!ÒY–“BÏÄ∆/ø<åf¶(t#P8∞r7ä¿ºﬂ€U¸ãmnlÓ◊æïO∞ÛÃnöÅ6•Cºch:*Ë*À≤ÎŸ¯‚1˜‚ÄîMéhSP®4√øfˇË„ Pf˝]RÀób'f5÷dà9±|°*kr¥˛yÏ™Ô˚˚Ø‹ËÔÆ⁄‚
+z—˛é.Ão[Gb«X7{0`óºkÇ» Ù˛¥üüZå»7u˚Kî‘LAzXÚM"" Z“i`ó  
+[2014/06/19 11:21:45 811] network    153  gethttpresp  http://scs.openspeech.cn:80/scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid=asr200023f8@gz46ae06fda321461100  
+[2014/06/19 11:21:45 905] sessinfo   424  SYS_MSG_SHUTDOWN  
+[2014/06/19 11:21:45 905] sessinfo   176  no receive upload success response  
+[2014/06/19 11:21:45 906] sessinfo   143  new session  
+[2014/06/19 11:21:45 906] sessinfo   144  csid =  cisr1PdHHBHMYIjawwYeHHdYJuCVdEnBY9  
+[2014/06/19 11:21:45 906] sessinfo   146  csid_t =  1403148098  
+[2014/06/19 11:21:45 908] sessinfo   120  perflog session  
+[2014/06/19 11:21:45 908] sessinfo   121  csid =  cisr1PdHHBHMYIjawwYeHHdYJuCVdEnBY9  
+[2014/06/19 11:21:45 908] sessinfo   123  csid_t =  1403148098  
+[2014/06/19 11:21:45 908] sessinfo   143  new session  
+[2014/06/19 11:21:45 909] sessinfo   144  csid =  cisr1PdHHBHMYITjazOCHHml6WtgtYpdzK  
+[2014/06/19 11:21:45 909] sessinfo   146  csid_t =  1403148061  
+[2014/06/19 11:21:45 910] sessinfo   120  perflog session  
+[2014/06/19 11:21:45 910] sessinfo   121  csid =  cisr1PdHHBHMYIjawwYeHHdYJuCVdEnBY9  
+[2014/06/19 11:21:45 910] sessinfo   123  csid_t =  1403148098  
+[2014/06/19 11:21:45 911] sessinfo   120  perflog session  
+[2014/06/19 11:21:45 911] sessinfo   121  csid =  cisr1PdHHBHMYITjazOCHHml6WtgtYpdzK  
+[2014/06/19 11:21:45 911] sessinfo   123  csid_t =  1403148061  
+[2014/06/19 11:21:45 912] sessinfo   143  new session  
+[2014/06/19 11:21:45 912] sessinfo   144  csid =  cisr1PdHHBHMYIcZaFA7HHd3HwhD0bl17w  
+[2014/06/19 11:21:45 912] sessinfo   146  csid_t =  1403147999  
+[2014/06/19 11:21:45 913] sessinfo   120  perflog session  
+[2014/06/19 11:21:45 913] sessinfo   121  csid =  cisr1PdHHBHMYIjawwYeHHdYJuCVdEnBY9  
+[2014/06/19 11:21:45 913] sessinfo   123  csid_t =  1403148098  
+[2014/06/19 11:21:45 914] sessinfo   120  perflog session  
+[2014/06/19 11:21:45 914] sessinfo   121  csid =  cisr1PdHHBHMYITjazOCHHml6WtgtYpdzK  
+[2014/06/19 11:21:45 914] sessinfo   123  csid_t =  1403148061  
+[2014/06/19 11:21:45 915] sessinfo   120  perflog session  
+[2014/06/19 11:21:45 915] sessinfo   121  csid =  cisr1PdHHBHMYIcZaFA7HHd3HwhD0bl17w  
+[2014/06/19 11:21:45 915] sessinfo   123  csid_t =  1403147999  
+[2014/06/19 11:21:45 915] sessinfo   143  new session  
+[2014/06/19 11:21:45 915] sessinfo   144  csid =  cisr1PdHHBHMYIeNa0NaHHBb4uJqdIdHWi  
+[2014/06/19 11:21:45 915] sessinfo   146  csid_t =  1403147864  
+============================================================
+Time  2014/06/19 12:12:44 158 
+============================================================
+[2014/06/19 12:12:44 158] sessinfo   415  session info loaded!  
+[2014/06/19 12:12:44 159] sessinfo   434  SESSIONINFO_CMD  
+[2014/06/19 12:12:44 159] sessinfo   435  have_data_in_queue =   0  
+[2014/06/19 12:12:44 164] sessinfo   460  session info upload start  
+[2014/06/19 12:12:44 164] sessinfo   404  sessinfo new encoder success  
+[2014/06/19 12:12:44 165] sessinfo   383  sessinfo compress success  
+[2014/06/19 12:12:44 165] sessinfo   384  sessinfo after compressed size =   781  
+[2014/06/19 12:12:44 165] sessinfo   388  sessinfo data_encrypt is not nil  
+[2014/06/19 12:12:44 165] sessinfo   269  upload perflog  
+[2014/06/19 12:12:44 165] sessinfo   339  POST /scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid=asr200024c4@gz46ae06fdaf13461100 HTTP/1.1
+Host: scs.openspeech.cn
+Connection: Keep-Alive
+Content-Type: application/x-gzip;charset=utf-8
+Content-Length: 781
+User-Agent: iFLYCloud
+Cache-Control: no-cache
+Accept: */*
+
+}ôÿPŒkŸC…¢vÈK éF>Ç8=E!Ç!5è·œÅR·ÉF´·ˇrRîn∆<·ôÜü–¶∑æøoÛ\ò√˛N2¨OÃKsKl∞a£ oº∏ö˜©Ø∫gÿ>∏‡"·ƒ™\ÀòØ ·Q*Øè4_#˜Õvª—Wìﬂ  
+[2014/06/19 12:12:44 165] network    153  gethttpresp  http://scs.openspeech.cn:80/scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid=asr200024c4@gz46ae06fdaf13461100  
+[2014/06/19 12:12:44 222] network    22   dns resp  0  
+[2014/06/19 12:12:44 222] network    157  gethttpresp dns ok  220.248.245.146  
+[2014/06/19 12:12:44 222] network    47   gethttpresp2  220.248.245.146  80  
+[2014/06/19 12:12:44 258] sessinfo   424  SYS_MSG_SHUTDOWN  
+[2014/06/19 12:12:44 258] sessinfo   176  no receive upload success response  
+[2014/06/19 12:12:44 259] sessinfo   143  new session  
+[2014/06/19 12:12:44 259] sessinfo   144  csid =  cisr1PdHHBHMYsBUkDnTHHtZCuQ2awbCuR  
+[2014/06/19 12:12:44 259] sessinfo   146  csid_t =  1403151157  
+[2014/06/19 12:12:44 261] sessinfo   120  perflog session  
+[2014/06/19 12:12:44 261] sessinfo   121  csid =  cisr1PdHHBHMYsBUkDnTHHtZCuQ2awbCuR  
+[2014/06/19 12:12:44 261] sessinfo   123  csid_t =  1403151157  
+[2014/06/19 12:12:44 262] sessinfo   143  new session  
+[2014/06/19 12:12:44 262] sessinfo   144  csid =  cisr1PdHHBHMYIjawwYeHHdYJuCVdEnBY9  
+[2014/06/19 12:12:44 262] sessinfo   146  csid_t =  1403148098  
+[2014/06/19 12:12:44 263] sessinfo   120  perflog session  
+[2014/06/19 12:12:44 263] sessinfo   121  csid =  cisr1PdHHBHMYsBUkDnTHHtZCuQ2awbCuR  
+[2014/06/19 12:12:44 263] sessinfo   123  csid_t =  1403151157  
+[2014/06/19 12:12:44 264] sessinfo   120  perflog session  
+[2014/06/19 12:12:44 264] sessinfo   121  csid =  cisr1PdHHBHMYIjawwYeHHdYJuCVdEnBY9  
+[2014/06/19 12:12:44 264] sessinfo   123  csid_t =  1403148098  
+[2014/06/19 12:12:44 265] sessinfo   143  new session  
+[2014/06/19 12:12:44 265] sessinfo   144  csid =  cisr1PdHHBHMYITjazOCHHml6WtgtYpdzK  
+[2014/06/19 12:12:44 265] sessinfo   146  csid_t =  1403148061  
+[2014/06/19 12:12:44 267] sessinfo   120  perflog session  
+[2014/06/19 12:12:44 267] sessinfo   121  csid =  cisr1PdHHBHMYsBUkDnTHHtZCuQ2awbCuR  
+[2014/06/19 12:12:44 267] sessinfo   123  csid_t =  1403151157  
+[2014/06/19 12:12:44 267] sessinfo   120  perflog session  
+[2014/06/19 12:12:44 267] sessinfo   121  csid =  cisr1PdHHBHMYIjawwYeHHdYJuCVdEnBY9  
+[2014/06/19 12:12:44 268] sessinfo   123  csid_t =  1403148098  
+[2014/06/19 12:12:44 268] sessinfo   120  perflog session  
+[2014/06/19 12:12:44 268] sessinfo   121  csid =  cisr1PdHHBHMYITjazOCHHml6WtgtYpdzK  
+[2014/06/19 12:12:44 268] sessinfo   123  csid_t =  1403148061  
+[2014/06/19 12:12:44 268] sessinfo   143  new session  
+[2014/06/19 12:12:44 268] sessinfo   144  csid =  cisr1PdHHBHMYIcZaFA7HHd3HwhD0bl17w  
+[2014/06/19 12:12:44 268] sessinfo   146  csid_t =  1403147999  
+============================================================
+Time  2014/06/19 12:12:54 396 
+============================================================
+[2014/06/19 12:12:54 396] sessinfo   415  session info loaded!  
+[2014/06/19 12:12:54 397] sessinfo   434  SESSIONINFO_CMD  
+[2014/06/19 12:12:54 397] sessinfo   435  have_data_in_queue =   0  
+[2014/06/19 12:12:54 403] sessinfo   460  session info upload start  
+[2014/06/19 12:12:54 403] sessinfo   404  sessinfo new encoder success  
+[2014/06/19 12:12:54 404] sessinfo   383  sessinfo compress success  
+[2014/06/19 12:12:54 404] sessinfo   384  sessinfo after compressed size =   608  
+[2014/06/19 12:12:54 404] sessinfo   388  sessinfo data_encrypt is not nil  
+[2014/06/19 12:12:54 405] sessinfo   269  upload perflog  
+[2014/06/19 12:12:54 405] sessinfo   339  POST /scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid=asr200024c5@gz46ae06fdaf22461100 HTTP/1.1
+Host: scs.openspeech.cn
+Connection: Keep-Alive
+Content-Type: application/x-gzip;charset=utf-8
+Content-Length: 608
+User-Agent: iFLYCloud
+Cache-Control: no-cache
+Accept: */*
+
+}ô†VHjûEËJåÛâı{∆WPØﬂFxM†ŸØØè'«GáÁd\"¨‡˙€2ê◊N
+®i*6∆ﬁ2j;ygÇÙk|ò_S¥¬’Å3Å{ˇ§\√√≈ØÀûıéXÛFyd‚âè€Å}éuceûf>∆4< p+Ω+Æ¢¨ÚQ∞—∞¨?”˚£òç›,$|√É`')ÂÓ‹TMrü;…ÁœÍÚöÛZ∫Ç˝˘•ès∫Zªyˆ˚,Îj: R≈É{'ÇÅ@+pkØójLõ¬Æ·Ôqë’k‹ÃìájkMgOÀ§†ã–x:Î+Äx:“N˛D]π¨ZˇBÔó·GÍΩÿr$aÄ™YE	2{í.ˆ44Ü3£áßï˝kkíZ@˛!7Mÿùär:∞®^k>ZrWo.AO˚ó_>AôT)æZì¨ﬂËy~…äf⁄±»dâ;jÉX:˝Û ∫Zl-î≠«—≥lì˙?<îéYT°ÎÅgø?∑OùóÆÊ6ß:ÕVπ…1õìæ©5+v}ßû9Fp=\CçI]é¶·@#\Àì‡0Ùp6ƒW÷<—˙Uãb˙˜ñO"ÀUù)$Àç"Ók¡[´å∆˝ïëaóÊŸ/-fò[øhÕi√≤J©§é«-)-@EFé¸åˆìÄA hgk2=˜U&¨Òvø1V~ÊøÁ£†Ej“Rå©ÂÓŒ°»llqákqìô1!ú©≤	^N®CÇ˙‚≈',J/€Ò2˚[úTàè.©Å«O-©Å√OÌ)X¡:Ç75ã∆óPGºu√◊3›Óˆ¸ÿ*È2'  
+[2014/06/19 12:12:54 405] network    153  gethttpresp  http://scs.openspeech.cn:80/scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid=asr200024c5@gz46ae06fdaf22461100  
+[2014/06/19 12:12:54 495] sessinfo   424  SYS_MSG_SHUTDOWN  
+[2014/06/19 12:12:54 495] sessinfo   176  no receive upload success response  
+[2014/06/19 12:12:54 496] sessinfo   143  new session  
+[2014/06/19 12:12:54 496] sessinfo   144  csid =  cisr1PdHHBHMYsuwk37eHHtGWddquHbCrP  
+[2014/06/19 12:12:54 496] sessinfo   146  csid_t =  1403151171  
+[2014/06/19 12:12:54 497] sessinfo   120  perflog session  
+[2014/06/19 12:12:54 497] sessinfo   121  csid =  cisr1PdHHBHMYsuwk37eHHtGWddquHbCrP  
+[2014/06/19 12:12:54 497] sessinfo   123  csid_t =  1403151171  
+[2014/06/19 12:12:54 498] sessinfo   143  new session  
+[2014/06/19 12:12:54 498] sessinfo   144  csid =  cisr1PdHHBHMYsBUkDnTHHtZCuQ2awbCuR  
+[2014/06/19 12:12:54 498] sessinfo   146  csid_t =  1403151157  
+[2014/06/19 12:12:54 499] sessinfo   120  perflog session  
+[2014/06/19 12:12:54 499] sessinfo   121  csid =  cisr1PdHHBHMYsuwk37eHHtGWddquHbCrP  
+[2014/06/19 12:12:54 499] sessinfo   123  csid_t =  1403151171  
+[2014/06/19 12:12:54 500] sessinfo   120  perflog session  
+[2014/06/19 12:12:54 500] sessinfo   121  csid =  cisr1PdHHBHMYsBUkDnTHHtZCuQ2awbCuR  
+[2014/06/19 12:12:54 500] sessinfo   123  csid_t =  1403151157  
+[2014/06/19 12:12:54 501] sessinfo   143  new session  
+[2014/06/19 12:12:54 501] sessinfo   144  csid =  cisr1PdHHBHMYIjawwYeHHdYJuCVdEnBY9  
+[2014/06/19 12:12:54 502] sessinfo   146  csid_t =  1403148098  
+[2014/06/19 12:12:54 503] sessinfo   120  perflog session  
+[2014/06/19 12:12:54 503] sessinfo   121  csid =  cisr1PdHHBHMYsuwk37eHHtGWddquHbCrP  
+[2014/06/19 12:12:54 503] sessinfo   123  csid_t =  1403151171  
+[2014/06/19 12:12:54 504] sessinfo   120  perflog session  
+[2014/06/19 12:12:54 504] sessinfo   121  csid =  cisr1PdHHBHMYsBUkDnTHHtZCuQ2awbCuR  
+[2014/06/19 12:12:54 504] sessinfo   123  csid_t =  1403151157  
+[2014/06/19 12:12:54 504] sessinfo   120  perflog session  
+[2014/06/19 12:12:54 504] sessinfo   121  csid =  cisr1PdHHBHMYIjawwYeHHdYJuCVdEnBY9  
+[2014/06/19 12:12:54 504] sessinfo   123  csid_t =  1403148098  
+[2014/06/19 12:12:54 504] sessinfo   143  new session  
+[2014/06/19 12:12:54 504] sessinfo   144  csid =  cisr1PdHHBHMYITjazOCHHml6WtgtYpdzK  
+[2014/06/19 12:12:54 504] sessinfo   146  csid_t =  1403148061  
+============================================================
+Time  2014/06/19 12:31:36 051 
+============================================================
+[2014/06/19 12:31:36 051] sessinfo   415  session info loaded!  
+[2014/06/19 12:31:36 051] sessinfo   434  SESSIONINFO_CMD  
+[2014/06/19 12:31:36 051] sessinfo   435  have_data_in_queue =   0  
+[2014/06/19 12:31:36 057] sessinfo   460  session info upload start  
+[2014/06/19 12:31:36 057] sessinfo   404  sessinfo new encoder success  
+[2014/06/19 12:31:36 057] sessinfo   383  sessinfo compress success  
+[2014/06/19 12:31:36 057] sessinfo   384  sessinfo after compressed size =   623  
+[2014/06/19 12:31:36 057] sessinfo   388  sessinfo data_encrypt is not nil  
+[2014/06/19 12:31:36 057] sessinfo   269  upload perflog  
+[2014/06/19 12:31:36 057] sessinfo   339  POST /scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid=asr2000253c@gz46ae06fdb383461100 HTTP/1.1
+Host: scs.openspeech.cn
+Connection: Keep-Alive
+Content-Type: application/x-gzip;charset=utf-8
+Content-Length: 623
+User-Agent: iFLYCloud
+Cache-Control: no-cache
+Accept: */*
+
+}ô®Qƒkô5Ë¢AôÓ¥¥^PØ≠Ûï-îlP®SπèÑiøﬂzÍ∂åóN*ËÑd√9∫|ˆ	&Íπä”¬≠ùY±ãyÍŸ$è¶lmUÿäf∫[®/2"vRí´iø¨OœsP≤ê>!ÚÊ&•Ë=˜√¥mÆg≠µUà&vLDÏOù‡!“è”O[ù)ßôÿÖKAó#!◊	nvTËy⁄DéLÄ]o¬†—”√îök¥¶ı∆Ôë\vÍ5•p ·<ùh'÷A™6ÑXÜÜKeéª™.≠G£Ä+ıÕ˙PÙéø<±aÉl _£ØÎSía;¿Ì;îáﬁë;µí∞Ì£ﬂiªi´{˝∆yë{ﬁi#pvˆ¯¬∆“Ótxc¯–…HehrPŒ&îÁØ`_W¨P¸¸Îro"…ªøPúOTÌÉ\r{-„»¢=oøæ¿YO-Ty99ÛÈ€fA†±„S¿Å£C‚¡¿ÿÂT¯!¶≤YÎÕU«H`“Á‘4r'i+æa_Á Ù7Ïs|[ì)	¿Åp;3k~~Év“¢î‰åó\ôﬂ)3Ω^û¬<KãA#góDt£<6¿ë,Å%ÕI√7Pﬂcﬁˆ……ØFÿπòdı5çÀ}Wêé˝ö+HﬁÄãå∆ùä…wKƒíÑ8ö[`Lƒ”K*MñêıE«  
+[2014/06/19 12:31:36 058] network    153  gethttpresp  http://scs.openspeech.cn:80/scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid=asr2000253c@gz46ae06fdb383461100  
+[2014/06/19 12:31:36 111] network    22   dns resp  0  
+[2014/06/19 12:31:36 111] network    157  gethttpresp dns ok  220.248.245.151  
+[2014/06/19 12:31:36 111] network    47   gethttpresp2  220.248.245.151  80  
+[2014/06/19 12:31:36 151] sessinfo   424  SYS_MSG_SHUTDOWN  
+[2014/06/19 12:31:36 151] sessinfo   176  no receive upload success response  
+[2014/06/19 12:31:36 152] sessinfo   143  new session  
+[2014/06/19 12:31:36 152] sessinfo   144  csid =  cisr1PdHHBHMYsxvMw4SHHu3PPXYkFOk0O  
+[2014/06/19 12:31:36 152] sessinfo   146  csid_t =  1403152292  
+[2014/06/19 12:31:36 153] sessinfo   120  perflog session  
+[2014/06/19 12:31:36 153] sessinfo   121  csid =  cisr1PdHHBHMYsxvMw4SHHu3PPXYkFOk0O  
+[2014/06/19 12:31:36 153] sessinfo   123  csid_t =  1403152292  
+[2014/06/19 12:31:36 154] sessinfo   143  new session  
+[2014/06/19 12:31:36 154] sessinfo   144  csid =  cisr1PdHHBHMYsuwk37eHHtGWddquHbCrP  
+[2014/06/19 12:31:36 154] sessinfo   146  csid_t =  1403151171  
+[2014/06/19 12:31:36 155] sessinfo   120  perflog session  
+[2014/06/19 12:31:36 155] sessinfo   121  csid =  cisr1PdHHBHMYsxvMw4SHHu3PPXYkFOk0O  
+[2014/06/19 12:31:36 155] sessinfo   123  csid_t =  1403152292  
+[2014/06/19 12:31:36 156] sessinfo   120  perflog session  
+[2014/06/19 12:31:36 156] sessinfo   121  csid =  cisr1PdHHBHMYsuwk37eHHtGWddquHbCrP  
+[2014/06/19 12:31:36 156] sessinfo   123  csid_t =  1403151171  
+[2014/06/19 12:31:36 156] sessinfo   143  new session  
+[2014/06/19 12:31:36 156] sessinfo   144  csid =  cisr1PdHHBHMYsBUkDnTHHtZCuQ2awbCuR  
+[2014/06/19 12:31:36 156] sessinfo   146  csid_t =  1403151157  
+[2014/06/19 12:31:36 156] sessinfo   120  perflog session  
+[2014/06/19 12:31:36 156] sessinfo   121  csid =  cisr1PdHHBHMYsxvMw4SHHu3PPXYkFOk0O  
+[2014/06/19 12:31:36 156] sessinfo   123  csid_t =  1403152292  
+[2014/06/19 12:31:36 156] sessinfo   120  perflog session  
+[2014/06/19 12:31:36 156] sessinfo   121  csid =  cisr1PdHHBHMYsuwk37eHHtGWddquHbCrP  
+[2014/06/19 12:31:36 156] sessinfo   123  csid_t =  1403151171  
+[2014/06/19 12:31:36 157] sessinfo   120  perflog session  
+[2014/06/19 12:31:36 157] sessinfo   121  csid =  cisr1PdHHBHMYsBUkDnTHHtZCuQ2awbCuR  
+[2014/06/19 12:31:36 157] sessinfo   123  csid_t =  1403151157  
+[2014/06/19 12:31:36 157] sessinfo   143  new session  
+[2014/06/19 12:31:36 157] sessinfo   144  csid =  cisr1PdHHBHMYIjawwYeHHdYJuCVdEnBY9  
+[2014/06/19 12:31:36 157] sessinfo   146  csid_t =  1403148098  
+============================================================
+Time  2014/06/19 12:32:11 155 
+============================================================
+[2014/06/19 12:32:11 155] sessinfo   415  session info loaded!  
+[2014/06/19 12:32:11 155] sessinfo   434  SESSIONINFO_CMD  
+[2014/06/19 12:32:11 155] sessinfo   435  have_data_in_queue =   0  
+[2014/06/19 12:32:11 160] sessinfo   460  session info upload start  
+[2014/06/19 12:32:11 160] sessinfo   404  sessinfo new encoder success  
+[2014/06/19 12:32:11 160] sessinfo   383  sessinfo compress success  
+[2014/06/19 12:32:11 160] sessinfo   384  sessinfo after compressed size =   677  
+[2014/06/19 12:32:11 160] sessinfo   388  sessinfo data_encrypt is not nil  
+[2014/06/19 12:32:11 160] sessinfo   269  upload perflog  
+[2014/06/19 12:32:11 160] sessinfo   339  POST /scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid=asr20002536@gz468c06fdb3a4461100 HTTP/1.1
+Host: scs.openspeech.cn
+Connection: Keep-Alive
+Content-Type: application/x-gzip;charset=utf-8
+Content-Length: 677
+User-Agent: iFLYCloud
+Cache-Control: no-cache
+Accept: */*
+
+}ô¿QÃk—E‡Vß;≤9P∏|DM+O°ô$èCãíâå¬3k~Mç˜ÍQ∞,ºuÅ∆ëZW¯[∫Ô|x8éÈLÒ˛wÌ@s¯!œ‰[a√O¥˝øOcŸˆà°Pñ*∆]∫∫ûyB–»ìW§nf≈Åπ]m$»úÚ0pK™V∫},ﬂQolMB⁄›§I Q≠!oBƒ7wâC,Tç&ÜC/Ó-¡QF Å1Uàâ1_¨à¶Â’L>,◊º¨7◊ÖVR†óEë–vp«X¥l_¡L∆Vok“.ß0ñ"Mß2dy ?  
+[2014/06/19 12:32:11 160] network    153  gethttpresp  http://scs.openspeech.cn:80/scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid=asr20002536@gz468c06fdb3a4461100  
+[2014/06/19 12:32:11 245] network    22   dns resp  0  
+[2014/06/19 12:32:11 246] network    157  gethttpresp dns ok  220.178.7.102  
+[2014/06/19 12:32:11 246] network    47   gethttpresp2  220.178.7.102  80  
+[2014/06/19 12:32:11 254] sessinfo   424  SYS_MSG_SHUTDOWN  
+[2014/06/19 12:32:11 254] sessinfo   176  no receive upload success response  
+[2014/06/19 12:32:11 255] sessinfo   143  new session  
+[2014/06/19 12:32:11 256] sessinfo   144  csid =  cisr1PdHHBHMYsZPMCfaHHthcHjVlJkHXY  
+[2014/06/19 12:32:11 256] sessinfo   146  csid_t =  1403152326  
+[2014/06/19 12:32:11 257] sessinfo   120  perflog session  
+[2014/06/19 12:32:11 257] sessinfo   121  csid =  cisr1PdHHBHMYsZPMCfaHHthcHjVlJkHXY  
+[2014/06/19 12:32:11 257] sessinfo   123  csid_t =  1403152326  
+[2014/06/19 12:32:11 258] sessinfo   143  new session  
+[2014/06/19 12:32:11 258] sessinfo   144  csid =  cisr1PdHHBHMYsxvMw4SHHu3PPXYkFOk0O  
+[2014/06/19 12:32:11 258] sessinfo   146  csid_t =  1403152292  
+[2014/06/19 12:32:11 259] sessinfo   120  perflog session  
+[2014/06/19 12:32:11 259] sessinfo   121  csid =  cisr1PdHHBHMYsZPMCfaHHthcHjVlJkHXY  
+[2014/06/19 12:32:11 259] sessinfo   123  csid_t =  1403152326  
+[2014/06/19 12:32:11 260] sessinfo   120  perflog session  
+[2014/06/19 12:32:11 260] sessinfo   121  csid =  cisr1PdHHBHMYsxvMw4SHHu3PPXYkFOk0O  
+[2014/06/19 12:32:11 260] sessinfo   123  csid_t =  1403152292  
+[2014/06/19 12:32:11 261] sessinfo   143  new session  
+[2014/06/19 12:32:11 261] sessinfo   144  csid =  cisr1PdHHBHMYsuwk37eHHtGWddquHbCrP  
+[2014/06/19 12:32:11 261] sessinfo   146  csid_t =  1403151171  
+[2014/06/19 12:32:11 262] sessinfo   120  perflog session  
+[2014/06/19 12:32:11 262] sessinfo   121  csid =  cisr1PdHHBHMYsZPMCfaHHthcHjVlJkHXY  
+[2014/06/19 12:32:11 262] sessinfo   123  csid_t =  1403152326  
+[2014/06/19 12:32:11 263] sessinfo   120  perflog session  
+[2014/06/19 12:32:11 263] sessinfo   121  csid =  cisr1PdHHBHMYsxvMw4SHHu3PPXYkFOk0O  
+[2014/06/19 12:32:11 263] sessinfo   123  csid_t =  1403152292  
+[2014/06/19 12:32:11 263] sessinfo   120  perflog session  
+[2014/06/19 12:32:11 263] sessinfo   121  csid =  cisr1PdHHBHMYsuwk37eHHtGWddquHbCrP  
+[2014/06/19 12:32:11 264] sessinfo   123  csid_t =  1403151171  
+[2014/06/19 12:32:11 265] sessinfo   143  new session  
+[2014/06/19 12:32:11 265] sessinfo   144  csid =  cisr1PdHHBHMYsBUkDnTHHtZCuQ2awbCuR  
+[2014/06/19 12:32:11 265] sessinfo   146  csid_t =  1403151157  
+============================================================
+Time  2014/06/19 12:38:46 262 
+============================================================
+[2014/06/19 12:38:46 262] sessinfo   415  session info loaded!  
+[2014/06/19 12:38:46 262] sessinfo   434  SESSIONINFO_CMD  
+[2014/06/19 12:38:46 262] sessinfo   435  have_data_in_queue =   0  
+[2014/06/19 12:38:46 267] sessinfo   460  session info upload start  
+[2014/06/19 12:38:46 267] sessinfo   404  sessinfo new encoder success  
+[2014/06/19 12:38:46 268] sessinfo   383  sessinfo compress success  
+[2014/06/19 12:38:46 268] sessinfo   384  sessinfo after compressed size =   678  
+[2014/06/19 12:38:46 268] sessinfo   388  sessinfo data_encrypt is not nil  
+[2014/06/19 12:38:46 268] sessinfo   269  upload perflog  
+[2014/06/19 12:38:46 268] sessinfo   339  POST /scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid=asr20002564@gz468c06fdb532461100 HTTP/1.1
+Host: scs.openspeech.cn
+Connection: Keep-Alive
+Content-Type: application/x-gzip;charset=utf-8
+Content-Length: 678
+User-Agent: iFLYCloud
+Cache-Control: no-cache
+Accept: */*
+
+}ô¿QHj—5‡¢Qªg`8˚èÅÅ=(WîGG≠ØS$Ã≥ÑhÁal¨ˇ⁄|ÊHNJôï=ÈÈâ6 Êúr*ˇs‡∏Ìr’é˜Á[)¥hALW°/]¸@.˙u,‰](:
+ı—ºT◊˙˚íÇQ#√Së”î`ÊoèY÷ΩŒ–ÌÆhÙççhÉ-L7j!<áı©  
+[2014/06/19 12:38:46 268] network    153  gethttpresp  http://scs.openspeech.cn:80/scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid=asr20002564@gz468c06fdb532461100  
+[2014/06/19 12:38:46 317] network    22   dns resp  0  
+[2014/06/19 12:38:46 318] network    157  gethttpresp dns ok  60.166.12.146  
+[2014/06/19 12:38:46 318] network    47   gethttpresp2  60.166.12.146  80  
+[2014/06/19 12:38:46 361] sessinfo   424  SYS_MSG_SHUTDOWN  
+[2014/06/19 12:38:46 361] sessinfo   176  no receive upload success response  
+[2014/06/19 12:38:46 362] sessinfo   143  new session  
+[2014/06/19 12:38:46 362] sessinfo   144  csid =  cisr1PdHHBHMYsIpr+nLHHHaf59o5sRWTj  
+[2014/06/19 12:38:46 362] sessinfo   146  csid_t =  1403152721  
+[2014/06/19 12:38:46 363] sessinfo   120  perflog session  
+[2014/06/19 12:38:46 363] sessinfo   121  csid =  cisr1PdHHBHMYsIpr+nLHHHaf59o5sRWTj  
+[2014/06/19 12:38:46 363] sessinfo   123  csid_t =  1403152721  
+[2014/06/19 12:38:46 364] sessinfo   143  new session  
+[2014/06/19 12:38:46 364] sessinfo   144  csid =  cisr1PdHHBHMYsZPMCfaHHthcHjVlJkHXY  
+[2014/06/19 12:38:46 364] sessinfo   146  csid_t =  1403152326  
+[2014/06/19 12:38:46 366] sessinfo   120  perflog session  
+[2014/06/19 12:38:46 366] sessinfo   121  csid =  cisr1PdHHBHMYsIpr+nLHHHaf59o5sRWTj  
+[2014/06/19 12:38:46 366] sessinfo   123  csid_t =  1403152721  
+[2014/06/19 12:38:46 367] sessinfo   120  perflog session  
+[2014/06/19 12:38:46 367] sessinfo   121  csid =  cisr1PdHHBHMYsZPMCfaHHthcHjVlJkHXY  
+[2014/06/19 12:38:46 367] sessinfo   123  csid_t =  1403152326  
+[2014/06/19 12:38:46 367] sessinfo   143  new session  
+[2014/06/19 12:38:46 367] sessinfo   144  csid =  cisr1PdHHBHMYsxvMw4SHHu3PPXYkFOk0O  
+[2014/06/19 12:38:46 367] sessinfo   146  csid_t =  1403152292  
+[2014/06/19 12:38:46 368] sessinfo   120  perflog session  
+[2014/06/19 12:38:46 368] sessinfo   121  csid =  cisr1PdHHBHMYsIpr+nLHHHaf59o5sRWTj  
+[2014/06/19 12:38:46 368] sessinfo   123  csid_t =  1403152721  
+[2014/06/19 12:38:46 368] sessinfo   120  perflog session  
+[2014/06/19 12:38:46 368] sessinfo   121  csid =  cisr1PdHHBHMYsZPMCfaHHthcHjVlJkHXY  
+[2014/06/19 12:38:46 368] sessinfo   123  csid_t =  1403152326  
+[2014/06/19 12:38:46 368] sessinfo   120  perflog session  
+[2014/06/19 12:38:46 368] sessinfo   121  csid =  cisr1PdHHBHMYsxvMw4SHHu3PPXYkFOk0O  
+[2014/06/19 12:38:46 368] sessinfo   123  csid_t =  1403152292  
+[2014/06/19 12:38:46 368] sessinfo   143  new session  
+[2014/06/19 12:38:46 368] sessinfo   144  csid =  cisr1PdHHBHMYsuwk37eHHtGWddquHbCrP  
+[2014/06/19 12:38:46 368] sessinfo   146  csid_t =  1403151171  
+============================================================
+Time  2014/06/19 12:43:09 645 
+============================================================
+[2014/06/19 12:43:09 646] sessinfo   415  session info loaded!  
+[2014/06/19 12:43:09 646] sessinfo   434  SESSIONINFO_CMD  
+[2014/06/19 12:43:09 646] sessinfo   435  have_data_in_queue =   0  
+[2014/06/19 12:43:09 651] sessinfo   460  session info upload start  
+[2014/06/19 12:43:09 651] sessinfo   404  sessinfo new encoder success  
+[2014/06/19 12:43:09 651] sessinfo   383  sessinfo compress success  
+[2014/06/19 12:43:09 651] sessinfo   384  sessinfo after compressed size =   671  
+[2014/06/19 12:43:09 652] sessinfo   388  sessinfo data_encrypt is not nil  
+[2014/06/19 12:43:09 652] sessinfo   269  upload perflog  
+[2014/06/19 12:43:09 652] sessinfo   339  POST /scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid=asr2000258a@gz46ae06fdb637461100 HTTP/1.1
+Host: scs.openspeech.cn
+Connection: Keep-Alive
+Content-Type: application/x-gzip;charset=utf-8
+Content-Length: 671
+User-Agent: iFLYCloud
+Cache-Control: no-cache
+Accept: */*
+
+}ô¿QHjﬁ5	ÿJ,qòÔçó)Œ	>  
+[2014/06/19 12:43:09 652] network    153  gethttpresp  http://scs.openspeech.cn:80/scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid=asr2000258a@gz46ae06fdb637461100  
+[2014/06/19 12:43:09 719] network    22   dns resp  0  
+[2014/06/19 12:43:09 719] network    157  gethttpresp dns ok  220.248.245.146  
+[2014/06/19 12:43:09 719] network    47   gethttpresp2  220.248.245.146  80  
+[2014/06/19 12:43:09 745] sessinfo   424  SYS_MSG_SHUTDOWN  
+[2014/06/19 12:43:09 745] sessinfo   176  no receive upload success response  
+[2014/06/19 12:43:09 746] sessinfo   143  new session  
+[2014/06/19 12:43:09 746] sessinfo   144  csid =  cisr1PdHHBHMYsKN-+JYHHuzewNya9-t9x  
+[2014/06/19 12:43:09 746] sessinfo   146  csid_t =  1403152984  
+[2014/06/19 12:43:09 747] sessinfo   120  perflog session  
+[2014/06/19 12:43:09 748] sessinfo   121  csid =  cisr1PdHHBHMYsKN-+JYHHuzewNya9-t9x  
+[2014/06/19 12:43:09 748] sessinfo   123  csid_t =  1403152984  
+[2014/06/19 12:43:09 748] sessinfo   143  new session  
+[2014/06/19 12:43:09 749] sessinfo   144  csid =  cisr1PdHHBHMYsIpr+nLHHHaf59o5sRWTj  
+[2014/06/19 12:43:09 749] sessinfo   146  csid_t =  1403152721  
+[2014/06/19 12:43:09 750] sessinfo   120  perflog session  
+[2014/06/19 12:43:09 750] sessinfo   121  csid =  cisr1PdHHBHMYsKN-+JYHHuzewNya9-t9x  
+[2014/06/19 12:43:09 750] sessinfo   123  csid_t =  1403152984  
+[2014/06/19 12:43:09 751] sessinfo   120  perflog session  
+[2014/06/19 12:43:09 751] sessinfo   121  csid =  cisr1PdHHBHMYsIpr+nLHHHaf59o5sRWTj  
+[2014/06/19 12:43:09 751] sessinfo   123  csid_t =  1403152721  
+[2014/06/19 12:43:09 752] sessinfo   143  new session  
+[2014/06/19 12:43:09 752] sessinfo   144  csid =  cisr1PdHHBHMYsZPMCfaHHthcHjVlJkHXY  
+[2014/06/19 12:43:09 752] sessinfo   146  csid_t =  1403152326  
+[2014/06/19 12:43:09 753] sessinfo   120  perflog session  
+[2014/06/19 12:43:09 753] sessinfo   121  csid =  cisr1PdHHBHMYsKN-+JYHHuzewNya9-t9x  
+[2014/06/19 12:43:09 753] sessinfo   123  csid_t =  1403152984  
+[2014/06/19 12:43:09 754] sessinfo   120  perflog session  
+[2014/06/19 12:43:09 754] sessinfo   121  csid =  cisr1PdHHBHMYsIpr+nLHHHaf59o5sRWTj  
+[2014/06/19 12:43:09 754] sessinfo   123  csid_t =  1403152721  
+[2014/06/19 12:43:09 755] sessinfo   120  perflog session  
+[2014/06/19 12:43:09 755] sessinfo   121  csid =  cisr1PdHHBHMYsZPMCfaHHthcHjVlJkHXY  
+[2014/06/19 12:43:09 755] sessinfo   123  csid_t =  1403152326  
+[2014/06/19 12:43:09 756] sessinfo   143  new session  
+[2014/06/19 12:43:09 756] sessinfo   144  csid =  cisr1PdHHBHMYsxvMw4SHHu3PPXYkFOk0O  
+[2014/06/19 12:43:09 756] sessinfo   146  csid_t =  1403152292  
+============================================================
+Time  2014/06/19 12:43:26 161 
+============================================================
+[2014/06/19 12:43:26 161] sessinfo   415  session info loaded!  
+[2014/06/19 12:43:26 162] sessinfo   434  SESSIONINFO_CMD  
+[2014/06/19 12:43:26 162] sessinfo   435  have_data_in_queue =   0  
+[2014/06/19 12:43:26 167] sessinfo   460  session info upload start  
+[2014/06/19 12:43:26 167] sessinfo   404  sessinfo new encoder success  
+[2014/06/19 12:43:26 167] sessinfo   383  sessinfo compress success  
+[2014/06/19 12:43:26 168] sessinfo   384  sessinfo after compressed size =   672  
+[2014/06/19 12:43:26 168] sessinfo   388  sessinfo data_encrypt is not nil  
+[2014/06/19 12:43:26 168] sessinfo   269  upload perflog  
+[2014/06/19 12:43:26 168] sessinfo   339  POST /scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid=asr2000258b@gz46ae06fdb648461100 HTTP/1.1
+Host: scs.openspeech.cn
+Connection: Keep-Alive
+Content-Type: application/x-gzip;charset=utf-8
+Content-Length: 672
+User-Agent: iFLYCloud
+Cache-Control: no-cache
+Accept: */*
+
+}ô¿QHj÷E‡¢Q~[ôò¯≥Gè_¢ØØßàË±Éahπsmåˇ⁄ú\"WºuÅF√j”6∂j€âvaæ˚˚’ã©gUE§b¨HåPBìøJH\ÖuÄ—Ä¨π≈“Ç’©÷’fçRWu3≥Æı„(ÉÇºÏˇ–0›2fùﬂ≤eÄ="∞<©Vì«Ç§n≠ªW5-K]å†,¡#â©ûç,sÃ˙¥>È˜H·w¥ñ÷”1bpœPÓ+àı†ºπyz¸Ï#XX∏Îkõ’¸˘pÚ‰ﬁ˚fme=îﬂÛŒ  
+[2014/06/19 12:43:26 168] network    153  gethttpresp  http://scs.openspeech.cn:80/scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid=asr2000258b@gz46ae06fdb648461100  
+[2014/06/19 12:43:26 173] network    22   dns resp  0  
+[2014/06/19 12:43:26 173] network    157  gethttpresp dns ok  220.248.245.146  
+[2014/06/19 12:43:26 173] network    47   gethttpresp2  220.248.245.146  80  
+[2014/06/19 12:43:26 261] sessinfo   424  SYS_MSG_SHUTDOWN  
+[2014/06/19 12:43:26 261] sessinfo   176  no receive upload success response  
+[2014/06/19 12:43:26 262] sessinfo   143  new session  
+[2014/06/19 12:43:26 262] sessinfo   144  csid =  cisr1PdHHBHMYsKK-iYyHHBNSlDjmIad1p  
+[2014/06/19 12:43:26 262] sessinfo   146  csid_t =  1403153001  
+[2014/06/19 12:43:26 263] sessinfo   120  perflog session  
+[2014/06/19 12:43:26 263] sessinfo   121  csid =  cisr1PdHHBHMYsKK-iYyHHBNSlDjmIad1p  
+[2014/06/19 12:43:26 264] sessinfo   123  csid_t =  1403153001  
+[2014/06/19 12:43:26 264] sessinfo   143  new session  
+[2014/06/19 12:43:26 264] sessinfo   144  csid =  cisr1PdHHBHMYsKN-+JYHHuzewNya9-t9x  
+[2014/06/19 12:43:26 265] sessinfo   146  csid_t =  1403152984  
+[2014/06/19 12:43:26 266] sessinfo   120  perflog session  
+[2014/06/19 12:43:26 266] sessinfo   121  csid =  cisr1PdHHBHMYsKK-iYyHHBNSlDjmIad1p  
+[2014/06/19 12:43:26 266] sessinfo   123  csid_t =  1403153001  
+[2014/06/19 12:43:26 267] sessinfo   120  perflog session  
+[2014/06/19 12:43:26 267] sessinfo   121  csid =  cisr1PdHHBHMYsKN-+JYHHuzewNya9-t9x  
+[2014/06/19 12:43:26 267] sessinfo   123  csid_t =  1403152984  
+[2014/06/19 12:43:26 268] sessinfo   143  new session  
+[2014/06/19 12:43:26 268] sessinfo   144  csid =  cisr1PdHHBHMYsIpr+nLHHHaf59o5sRWTj  
+[2014/06/19 12:43:26 268] sessinfo   146  csid_t =  1403152721  
+[2014/06/19 12:43:26 269] sessinfo   120  perflog session  
+[2014/06/19 12:43:26 269] sessinfo   121  csid =  cisr1PdHHBHMYsKK-iYyHHBNSlDjmIad1p  
+[2014/06/19 12:43:26 269] sessinfo   123  csid_t =  1403153001  
+[2014/06/19 12:43:26 270] sessinfo   120  perflog session  
+[2014/06/19 12:43:26 270] sessinfo   121  csid =  cisr1PdHHBHMYsKN-+JYHHuzewNya9-t9x  
+[2014/06/19 12:43:26 270] sessinfo   123  csid_t =  1403152984  
+[2014/06/19 12:43:26 271] sessinfo   120  perflog session  
+[2014/06/19 12:43:26 271] sessinfo   121  csid =  cisr1PdHHBHMYsIpr+nLHHHaf59o5sRWTj  
+[2014/06/19 12:43:26 271] sessinfo   123  csid_t =  1403152721  
+[2014/06/19 12:43:26 272] sessinfo   143  new session  
+[2014/06/19 12:43:26 272] sessinfo   144  csid =  cisr1PdHHBHMYsZPMCfaHHthcHjVlJkHXY  
+[2014/06/19 12:43:26 272] sessinfo   146  csid_t =  1403152326  
+============================================================
+Time  2014/06/19 12:48:08 322 
+============================================================
+[2014/06/19 12:48:08 322] sessinfo   415  session info loaded!  
+[2014/06/19 12:48:08 322] sessinfo   434  SESSIONINFO_CMD  
+[2014/06/19 12:48:08 322] sessinfo   435  have_data_in_queue =   0  
+[2014/06/19 12:48:08 327] sessinfo   460  session info upload start  
+[2014/06/19 12:48:08 327] sessinfo   404  sessinfo new encoder success  
+[2014/06/19 12:48:08 328] sessinfo   383  sessinfo compress success  
+[2014/06/19 12:48:08 328] sessinfo   384  sessinfo after compressed size =   611  
+[2014/06/19 12:48:08 328] sessinfo   388  sessinfo data_encrypt is not nil  
+[2014/06/19 12:48:08 328] sessinfo   269  upload perflog  
+[2014/06/19 12:48:08 328] sessinfo   339  POST /scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid=asr200025a6@gz46ae06fdb764461100 HTTP/1.1
+Host: scs.openspeech.cn
+Connection: Keep-Alive
+Content-Type: application/x-gzip;charset=utf-8
+Content-Length: 611
+User-Agent: iFLYCloud
+Cache-Control: no-cache
+Accept: */*
+
+}ô†QŒk÷E‡VØ\^Àπ¯EMÖœßMi]•/è£Û°∞üﬂ√ÊLØ˘>‚ãQ3)eîÙx¸Ÿv Y‚ÄËÇæ¸=S∂¬’G2ÒX∫]C¨ÜöïºÕ∏ö\¯«ˇËS≥~\(  
+[2014/06/19 12:48:08 328] network    153  gethttpresp  http://scs.openspeech.cn:80/scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid=asr200025a6@gz46ae06fdb764461100  
+[2014/06/19 12:48:08 383] network    22   dns resp  0  
+[2014/06/19 12:48:08 383] network    157  gethttpresp dns ok  220.248.245.146  
+[2014/06/19 12:48:08 383] network    47   gethttpresp2  220.248.245.146  80  
+[2014/06/19 12:48:08 421] sessinfo   424  SYS_MSG_SHUTDOWN  
+[2014/06/19 12:48:08 421] sessinfo   176  no receive upload success response  
+[2014/06/19 12:48:08 422] sessinfo   143  new session  
+[2014/06/19 12:48:08 422] sessinfo   144  csid =  cisr1PdHHBHMYsD1bU6FHHwpw5y0k5Akyi  
+[2014/06/19 12:48:08 422] sessinfo   146  csid_t =  1403153285  
+[2014/06/19 12:48:08 423] sessinfo   120  perflog session  
+[2014/06/19 12:48:08 424] sessinfo   121  csid =  cisr1PdHHBHMYsD1bU6FHHwpw5y0k5Akyi  
+[2014/06/19 12:48:08 424] sessinfo   123  csid_t =  1403153285  
+[2014/06/19 12:48:08 424] sessinfo   143  new session  
+[2014/06/19 12:48:08 424] sessinfo   144  csid =  cisr1PdHHBHMYsKK-iYyHHBNSlDjmIad1p  
+[2014/06/19 12:48:08 425] sessinfo   146  csid_t =  1403153001  
+[2014/06/19 12:48:08 426] sessinfo   120  perflog session  
+[2014/06/19 12:48:08 426] sessinfo   121  csid =  cisr1PdHHBHMYsD1bU6FHHwpw5y0k5Akyi  
+[2014/06/19 12:48:08 426] sessinfo   123  csid_t =  1403153285  
+[2014/06/19 12:48:08 427] sessinfo   120  perflog session  
+[2014/06/19 12:48:08 427] sessinfo   121  csid =  cisr1PdHHBHMYsKK-iYyHHBNSlDjmIad1p  
+[2014/06/19 12:48:08 427] sessinfo   123  csid_t =  1403153001  
+[2014/06/19 12:48:08 427] sessinfo   143  new session  
+[2014/06/19 12:48:08 428] sessinfo   144  csid =  cisr1PdHHBHMYsKN-+JYHHuzewNya9-t9x  
+[2014/06/19 12:48:08 428] sessinfo   146  csid_t =  1403152984  
+[2014/06/19 12:48:08 429] sessinfo   120  perflog session  
+[2014/06/19 12:48:08 429] sessinfo   121  csid =  cisr1PdHHBHMYsD1bU6FHHwpw5y0k5Akyi  
+[2014/06/19 12:48:08 429] sessinfo   123  csid_t =  1403153285  
+[2014/06/19 12:48:08 430] sessinfo   120  perflog session  
+[2014/06/19 12:48:08 430] sessinfo   121  csid =  cisr1PdHHBHMYsKK-iYyHHBNSlDjmIad1p  
+[2014/06/19 12:48:08 430] sessinfo   123  csid_t =  1403153001  
+[2014/06/19 12:48:08 430] sessinfo   120  perflog session  
+[2014/06/19 12:48:08 431] sessinfo   121  csid =  cisr1PdHHBHMYsKN-+JYHHuzewNya9-t9x  
+[2014/06/19 12:48:08 431] sessinfo   123  csid_t =  1403152984  
+[2014/06/19 12:48:08 431] sessinfo   143  new session  
+[2014/06/19 12:48:08 431] sessinfo   144  csid =  cisr1PdHHBHMYsIpr+nLHHHaf59o5sRWTj  
+[2014/06/19 12:48:08 431] sessinfo   146  csid_t =  1403152721  
+============================================================
+Time  2014/06/19 12:50:34 576 
+============================================================
+[2014/06/19 12:50:34 576] sessinfo   415  session info loaded!  
+[2014/06/19 12:50:34 576] sessinfo   434  SESSIONINFO_CMD  
+[2014/06/19 12:50:34 576] sessinfo   435  have_data_in_queue =   0  
+[2014/06/19 12:50:34 581] sessinfo   460  session info upload start  
+[2014/06/19 12:50:34 581] sessinfo   404  sessinfo new encoder success  
+[2014/06/19 12:50:34 582] sessinfo   383  sessinfo compress success  
+[2014/06/19 12:50:34 582] sessinfo   384  sessinfo after compressed size =   613  
+[2014/06/19 12:50:34 582] sessinfo   388  sessinfo data_encrypt is not nil  
+[2014/06/19 12:50:34 582] sessinfo   269  upload perflog  
+[2014/06/19 12:50:34 582] sessinfo   339  POST /scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid=asr2000a608@ch473606fdb7f6477600 HTTP/1.1
+Host: scs.openspeech.cn
+Connection: Keep-Alive
+Content-Type: application/x-gzip;charset=utf-8
+Content-Length: 613
+User-Agent: iFLYCloud
+Cache-Control: no-cache
+Accept: */*
+
+}ô†VHjﬁ5	ÿJ,qTìa‹∆Öh›$ÇsÉ'u¯‘pa ∑∂D˙˛MﬂÔd>]#,ÏÙîπç 3ñ-+g<Ò‡'œOqﬂ,ßfhCÀ∆bT˘'Úã˘w¸÷¶ÍâW˜z≈aCØ$v¶4µcÂâ©ì¨◊◊›Q?êœ	˙<˚¸#mÄNOì Œ\.ƒfï¶@†5qâ”ó,∫–GŸ∏‚®ìn#Æ∫˘'@ig·õq∞-¡ﬂ·3Wôœˇ’	îæ·SÚrzÔ$˜‹7K_,P?‡:Sä#Nòwhxö∞ÀaúVo<àÅß°≠”nP"˝[ÍÚöÚZz√ÎykÒ≤¯{
+Î˝‡˝a;8‡:ıg<ãy›£†3†(4QòÌÙÅHQgU√f)…›<‚7—‡Qj&"ÒMúÀÿ'±∂Vk¸Ì«Ø'ÄÍjI»…ÈΩ[ªú¢›Ó0’óJä1d‰Átõ¬g≤ÆûVwøØ¨ˇd¨ñ/ÈøU2 ÃÊy—ûäamM©NW°G((i¨ædrÎ¯QÀ»≈3‘c=—64[Î“€gΩ{Ü∏HRQﬂäf÷9y…E¿Y´Y/Å∂óH·kXkSÇ∞”§◊9/»¶◊9/»¶◊,("†‡°1Y)7‚uÙa§7ut)2üãÖwF≥Kñ¸_i‰∞∆dè¡É∆∆Ùwa∂™3.◊EKK∫<{Ü‡Ï≈8´ÉÖÎ@ı4t£n3/ásˇÄJX‚ﬁj@∂1R˜Z;òü>Èh:9©Åó~:ıŸ	Ù måﬁ+)˘}u;äÒ+¬]‘}pFÌG>çírz0Â  
+[2014/06/19 12:50:34 582] network    153  gethttpresp  http://scs.openspeech.cn:80/scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid=asr2000a608@ch473606fdb7f6477600  
+[2014/06/19 12:50:34 632] network    22   dns resp  0  
+[2014/06/19 12:50:34 632] network    157  gethttpresp dns ok  120.193.118.11  
+[2014/06/19 12:50:34 632] network    47   gethttpresp2  120.193.118.11  80  
+[2014/06/19 12:50:34 675] sessinfo   424  SYS_MSG_SHUTDOWN  
+[2014/06/19 12:50:34 675] sessinfo   176  no receive upload success response  
+[2014/06/19 12:50:34 676] sessinfo   143  new session  
+[2014/06/19 12:50:34 676] sessinfo   144  csid =  cisr1PdHHBHMYsiyye2OHHH16mDmk4Ak9R  
+[2014/06/19 12:50:34 676] sessinfo   146  csid_t =  1403153431  
+[2014/06/19 12:50:34 677] sessinfo   120  perflog session  
+[2014/06/19 12:50:34 677] sessinfo   121  csid =  cisr1PdHHBHMYsiyye2OHHH16mDmk4Ak9R  
+[2014/06/19 12:50:34 677] sessinfo   123  csid_t =  1403153431  
+[2014/06/19 12:50:34 678] sessinfo   143  new session  
+[2014/06/19 12:50:34 678] sessinfo   144  csid =  cisr1PdHHBHMYsD1bU6FHHwpw5y0k5Akyi  
+[2014/06/19 12:50:34 678] sessinfo   146  csid_t =  1403153285  
+[2014/06/19 12:50:34 679] sessinfo   120  perflog session  
+[2014/06/19 12:50:34 679] sessinfo   121  csid =  cisr1PdHHBHMYsiyye2OHHH16mDmk4Ak9R  
+[2014/06/19 12:50:34 679] sessinfo   123  csid_t =  1403153431  
+[2014/06/19 12:50:34 679] sessinfo   120  perflog session  
+[2014/06/19 12:50:34 679] sessinfo   121  csid =  cisr1PdHHBHMYsD1bU6FHHwpw5y0k5Akyi  
+[2014/06/19 12:50:34 679] sessinfo   123  csid_t =  1403153285  
+[2014/06/19 12:50:34 680] sessinfo   143  new session  
+[2014/06/19 12:50:34 680] sessinfo   144  csid =  cisr1PdHHBHMYsKK-iYyHHBNSlDjmIad1p  
+[2014/06/19 12:50:34 680] sessinfo   146  csid_t =  1403153001  
+[2014/06/19 12:50:34 680] sessinfo   120  perflog session  
+[2014/06/19 12:50:34 680] sessinfo   121  csid =  cisr1PdHHBHMYsiyye2OHHH16mDmk4Ak9R  
+[2014/06/19 12:50:34 680] sessinfo   123  csid_t =  1403153431  
+[2014/06/19 12:50:34 680] sessinfo   120  perflog session  
+[2014/06/19 12:50:34 680] sessinfo   121  csid =  cisr1PdHHBHMYsD1bU6FHHwpw5y0k5Akyi  
+[2014/06/19 12:50:34 680] sessinfo   123  csid_t =  1403153285  
+[2014/06/19 12:50:34 680] sessinfo   120  perflog session  
+[2014/06/19 12:50:34 680] sessinfo   121  csid =  cisr1PdHHBHMYsKK-iYyHHBNSlDjmIad1p  
+[2014/06/19 12:50:34 680] sessinfo   123  csid_t =  1403153001  
+[2014/06/19 12:50:34 681] sessinfo   143  new session  
+[2014/06/19 12:50:34 681] sessinfo   144  csid =  cisr1PdHHBHMYsKN-+JYHHuzewNya9-t9x  
+[2014/06/19 12:50:34 681] sessinfo   146  csid_t =  1403152984  
+============================================================
+Time  2014/06/19 12:54:46 395 
+============================================================
+[2014/06/19 12:54:46 395] sessinfo   415  session info loaded!  
+[2014/06/19 12:54:46 396] sessinfo   434  SESSIONINFO_CMD  
+[2014/06/19 12:54:46 396] sessinfo   435  have_data_in_queue =   0  
+[2014/06/19 12:54:46 400] sessinfo   460  session info upload start  
+[2014/06/19 12:54:46 400] sessinfo   404  sessinfo new encoder success  
+[2014/06/19 12:54:46 401] sessinfo   383  sessinfo compress success  
+[2014/06/19 12:54:46 401] sessinfo   384  sessinfo after compressed size =   577  
+[2014/06/19 12:54:46 401] sessinfo   388  sessinfo data_encrypt is not nil  
+[2014/06/19 12:54:46 401] sessinfo   269  upload perflog  
+[2014/06/19 12:54:46 401] sessinfo   339  POST /scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid=asr20000f2d@ch473506fdb8f0477600 HTTP/1.1
+Host: scs.openspeech.cn
+Connection: Keep-Alive
+Content-Type: application/x-gzip;charset=utf-8
+Content-Length: 577
+User-Agent: iFLYCloud
+Cache-Control: no-cache
+Accept: */*
+
+}ôàWÃkﬁ5Ë¢972îëèÄJ;°Œ†-ﬂ≈5mîèÄœë/OKá≈˙€œKw/w0ä∂∏|∆b7B:óÔú…>>r°WèWüøÊAØ>§pº@¶"ê-@wﬂ¸gÍëÅ›Ú
+ø∏°fhc7£I#]úLPc˚_÷©·1f—Êm»7Su≥∏µ«√√!—‹úQÌNeâEÌ'mó¬!ˆzÀMt—;ÎÁ]·≥ˆ&Ñ˛´∫öõïfxâhﬂ’Ò!ºK≠d<Œ  
+[2014/06/19 12:54:46 401] network    153  gethttpresp  http://scs.openspeech.cn:80/scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid=asr20000f2d@ch473506fdb8f0477600  
+[2014/06/19 12:54:46 450] network    22   dns resp  0  
+[2014/06/19 12:54:46 450] network    157  gethttpresp dns ok  220.248.245.151  
+[2014/06/19 12:54:46 450] network    47   gethttpresp2  220.248.245.151  80  
+[2014/06/19 12:54:46 495] sessinfo   424  SYS_MSG_SHUTDOWN  
+[2014/06/19 12:54:46 495] sessinfo   176  no receive upload success response  
+[2014/06/19 12:54:46 496] sessinfo   143  new session  
+[2014/06/19 12:54:46 496] sessinfo   144  csid =  cisr1PdHHBHMYs7nNb9WHHmntBZw5OUBrc  
+[2014/06/19 12:54:46 496] sessinfo   146  csid_t =  1403153682  
+[2014/06/19 12:54:46 497] sessinfo   120  perflog session  
+[2014/06/19 12:54:46 497] sessinfo   121  csid =  cisr1PdHHBHMYs7nNb9WHHmntBZw5OUBrc  
+[2014/06/19 12:54:46 497] sessinfo   123  csid_t =  1403153682  
+[2014/06/19 12:54:46 498] sessinfo   143  new session  
+[2014/06/19 12:54:46 498] sessinfo   144  csid =  cisr1PdHHBHMYsiyye2OHHH16mDmk4Ak9R  
+[2014/06/19 12:54:46 498] sessinfo   146  csid_t =  1403153431  
+[2014/06/19 12:54:46 499] sessinfo   120  perflog session  
+[2014/06/19 12:54:46 499] sessinfo   121  csid =  cisr1PdHHBHMYs7nNb9WHHmntBZw5OUBrc  
+[2014/06/19 12:54:46 499] sessinfo   123  csid_t =  1403153682  
+[2014/06/19 12:54:46 500] sessinfo   120  perflog session  
+[2014/06/19 12:54:46 500] sessinfo   121  csid =  cisr1PdHHBHMYsiyye2OHHH16mDmk4Ak9R  
+[2014/06/19 12:54:46 500] sessinfo   123  csid_t =  1403153431  
+[2014/06/19 12:54:46 500] sessinfo   143  new session  
+[2014/06/19 12:54:46 500] sessinfo   144  csid =  cisr1PdHHBHMYsD1bU6FHHwpw5y0k5Akyi  
+[2014/06/19 12:54:46 500] sessinfo   146  csid_t =  1403153285  
+[2014/06/19 12:54:46 500] sessinfo   120  perflog session  
+[2014/06/19 12:54:46 500] sessinfo   121  csid =  cisr1PdHHBHMYs7nNb9WHHmntBZw5OUBrc  
+[2014/06/19 12:54:46 500] sessinfo   123  csid_t =  1403153682  
+[2014/06/19 12:54:46 500] sessinfo   120  perflog session  
+[2014/06/19 12:54:46 500] sessinfo   121  csid =  cisr1PdHHBHMYsiyye2OHHH16mDmk4Ak9R  
+[2014/06/19 12:54:46 500] sessinfo   123  csid_t =  1403153431  
+[2014/06/19 12:54:46 500] sessinfo   120  perflog session  
+[2014/06/19 12:54:46 500] sessinfo   121  csid =  cisr1PdHHBHMYsD1bU6FHHwpw5y0k5Akyi  
+[2014/06/19 12:54:46 500] sessinfo   123  csid_t =  1403153285  
+[2014/06/19 12:54:46 501] sessinfo   143  new session  
+[2014/06/19 12:54:46 501] sessinfo   144  csid =  cisr1PdHHBHMYsKK-iYyHHBNSlDjmIad1p  
+[2014/06/19 12:54:46 501] sessinfo   146  csid_t =  1403153001  
+============================================================
+Time  2014/06/19 13:05:18 113 
+============================================================
+[2014/06/19 13:05:18 113] sessinfo   415  session info loaded!  
+[2014/06/19 13:05:18 114] sessinfo   434  SESSIONINFO_CMD  
+[2014/06/19 13:05:18 114] sessinfo   435  have_data_in_queue =   0  
+[2014/06/19 13:05:18 115] sessinfo   460  session info upload start  
+[2014/06/19 13:05:18 115] sessinfo   404  sessinfo new encoder success  
+[2014/06/19 13:05:18 115] sessinfo   383  sessinfo compress success  
+[2014/06/19 13:05:18 115] sessinfo   384  sessinfo after compressed size =   600  
+[2014/06/19 13:05:18 115] sessinfo   388  sessinfo data_encrypt is not nil  
+[2014/06/19 13:05:18 115] sessinfo   269  upload perflog  
+[2014/06/19 13:05:18 115] sessinfo   339  POST /scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid=asr20002613@gz468c06fdbb6a461100 HTTP/1.1
+Host: scs.openspeech.cn
+Connection: Keep-Alive
+Content-Type: application/x-gzip;charset=utf-8
+Content-Length: 600
+User-Agent: iFLYCloud
+Cache-Control: no-cache
+Accept: */*
+
+}ô†QHj—5‡¢Q;^\zjÅÅÂ∑M@/ôè’o‡Hπh—hÁ}l¨ˇ⁄|Ê±Pº≈Ñ∆ﬂˆ‡26j#˛≈ã∆–,I©c∑ïÄcôdcÓrVi](d›¸Aó%4√≈o`®^È:˛X∞„W›óN /+∞¿dLw!ê},.¢t©RWΩ(8ªüÁäŒwæED¥´7J+«Po(∂ˆ=@!ÄCœ‰∞áAl&Ω´˚˚F’á„°]‚{Éo®WNv~WQÛ1F
+·ìgm6
+‹%02N›f√>[S<'t2¡XπÇ¡Àæ;ÿ4›ƒ˜y:á?sûgÈÉªÓ
+˝˚Aä◊VbCÖﬁÒŸú6Gı˙<!fΩ›„v‚ìë†Èi˚6*◊SC‰±RÊK*Ê√u “GwfrGÙ0Î2ï0ËÖ£’±ÉsBLW`(à⁄„_[ä:∏I@iD4Aôôyæ¡ÏWqôæ^ÁUlS«®ap#p(i(Ëú∞a√kŸ¿ﬁœﬂ;GÚÏ‹¢≥S‚◊∏ò˘€L"ÅÖñ’ÊMı 	‡âï¡Ú®öﬂ¢Ö¸ƒÄ¬~≈©Ûœ}Ó‰kg≥1Xô·@æ‹y›y˚∫{π—í÷c6Æ˛—{˜¯¿¸ü˜Åk‹9äo–ÉVtø#1¬$∞@÷™øªr¿yæÒE|Ø._-V©T`^;V^ç«≈`œO  
+[2014/06/19 13:05:18 115] network    153  gethttpresp  http://scs.openspeech.cn:80/scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid=asr20002613@gz468c06fdbb6a461100  
+[2014/06/19 13:05:18 196] network    22   dns resp  0  
+[2014/06/19 13:05:18 196] network    157  gethttpresp dns ok  220.178.7.101  
+[2014/06/19 13:05:18 196] network    47   gethttpresp2  220.178.7.101  80  
+[2014/06/19 13:05:18 214] sessinfo   424  SYS_MSG_SHUTDOWN  
+[2014/06/19 13:05:18 214] sessinfo   176  no receive upload success response  
+[2014/06/19 13:05:18 214] sessinfo   143  new session  
+[2014/06/19 13:05:18 214] sessinfo   144  csid =  cisr1PdHHBHMYsRCX3XrHHt2yudIanhPLQ  
+[2014/06/19 13:05:18 214] sessinfo   146  csid_t =  1403154315  
+[2014/06/19 13:05:18 215] sessinfo   120  perflog session  
+[2014/06/19 13:05:18 215] sessinfo   121  csid =  cisr1PdHHBHMYsRCX3XrHHt2yudIanhPLQ  
+[2014/06/19 13:05:18 215] sessinfo   123  csid_t =  1403154315  
+[2014/06/19 13:05:18 215] sessinfo   143  new session  
+[2014/06/19 13:05:18 215] sessinfo   144  csid =  cisr1PdHHBHMYs7nNb9WHHmntBZw5OUBrc  
+[2014/06/19 13:05:18 215] sessinfo   146  csid_t =  1403153682  
+[2014/06/19 13:05:18 215] sessinfo   120  perflog session  
+[2014/06/19 13:05:18 215] sessinfo   121  csid =  cisr1PdHHBHMYsRCX3XrHHt2yudIanhPLQ  
+[2014/06/19 13:05:18 215] sessinfo   123  csid_t =  1403154315  
+[2014/06/19 13:05:18 215] sessinfo   120  perflog session  
+[2014/06/19 13:05:18 215] sessinfo   121  csid =  cisr1PdHHBHMYs7nNb9WHHmntBZw5OUBrc  
+[2014/06/19 13:05:18 215] sessinfo   123  csid_t =  1403153682  
+[2014/06/19 13:05:18 216] sessinfo   143  new session  
+[2014/06/19 13:05:18 216] sessinfo   144  csid =  cisr1PdHHBHMYsiyye2OHHH16mDmk4Ak9R  
+[2014/06/19 13:05:18 216] sessinfo   146  csid_t =  1403153431  
+[2014/06/19 13:05:18 217] sessinfo   120  perflog session  
+[2014/06/19 13:05:18 217] sessinfo   121  csid =  cisr1PdHHBHMYsRCX3XrHHt2yudIanhPLQ  
+[2014/06/19 13:05:18 217] sessinfo   123  csid_t =  1403154315  
+[2014/06/19 13:05:18 218] sessinfo   120  perflog session  
+[2014/06/19 13:05:18 218] sessinfo   121  csid =  cisr1PdHHBHMYs7nNb9WHHmntBZw5OUBrc  
+[2014/06/19 13:05:18 218] sessinfo   123  csid_t =  1403153682  
+[2014/06/19 13:05:18 218] sessinfo   120  perflog session  
+[2014/06/19 13:05:18 218] sessinfo   121  csid =  cisr1PdHHBHMYsiyye2OHHH16mDmk4Ak9R  
+[2014/06/19 13:05:18 219] sessinfo   123  csid_t =  1403153431  
+[2014/06/19 13:05:18 219] sessinfo   143  new session  
+[2014/06/19 13:05:18 219] sessinfo   144  csid =  cisr1PdHHBHMYsD1bU6FHHwpw5y0k5Akyi  
+[2014/06/19 13:05:18 219] sessinfo   146  csid_t =  1403153285  
+============================================================
+Time  2014/06/19 13:25:45 315 
+============================================================
+[2014/06/19 13:25:45 315] sessinfo   415  session info loaded!  
+[2014/06/19 13:25:45 315] sessinfo   434  SESSIONINFO_CMD  
+[2014/06/19 13:25:45 315] sessinfo   435  have_data_in_queue =   0  
+[2014/06/19 13:25:45 320] sessinfo   460  session info upload start  
+[2014/06/19 13:25:45 320] sessinfo   404  sessinfo new encoder success  
+[2014/06/19 13:25:45 321] sessinfo   383  sessinfo compress success  
+[2014/06/19 13:25:45 321] sessinfo   384  sessinfo after compressed size =   516  
+[2014/06/19 13:25:45 321] sessinfo   388  sessinfo data_encrypt is not nil  
+[2014/06/19 13:25:45 321] sessinfo   269  upload perflog  
+[2014/06/19 13:25:45 321] sessinfo   339  POST /scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid= HTTP/1.1
+Host: scs.openspeech.cn
+Connection: Keep-Alive
+Content-Type: application/x-gzip;charset=utf-8
+Content-Length: 516
+User-Agent: iFLYCloud
+Cache-Control: no-cache
+Accept: */*
+
+}ô†WTj÷5„¢Q{ã>ã∂#*•å'SÑ-◊èIÈi”◊!›t”¨Ôz‚ÀhÇE≈*ª∂Íæˆr⁄ÿõ	õQ~=n˙º≥x›îFG6d•™P}ÍÛ.9–»’Üæ"‘O√AGá2üQ˘ÊrÀrb)·8˛€W‡)ÊÈÅè‰íkΩûõCó®jπÙ€∏ËﬁÑ¡’iA=‡Qï˝ñFO‰ºπòÏ`í'≈-^Ö∏^∑9‰I«î§"’ñI#πïu)‘.ƒ[@)Ûñz˝Ä6{Ñ7 •Ÿ?MÄ\}lÊ‡¡  
+[2014/06/19 13:25:45 321] network    153  gethttpresp  http://scs.openspeech.cn:80/scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid=  
+[2014/06/19 13:25:45 414] sessinfo   424  SYS_MSG_SHUTDOWN  
+[2014/06/19 13:25:45 414] sessinfo   176  no receive upload success response  
+[2014/06/19 13:25:45 415] sessinfo   143  new session  
+[2014/06/19 13:25:45 415] sessinfo   144  csid =  cisr1PdHHBHMYOE3ZM79HHwTWC5ik3WkKu  
+[2014/06/19 13:25:45 415] sessinfo   146  csid_t =  1403155505  
+[2014/06/19 13:25:45 416] sessinfo   120  perflog session  
+[2014/06/19 13:25:45 416] sessinfo   121  csid =  cisr1PdHHBHMYOE3ZM79HHwTWC5ik3WkKu  
+[2014/06/19 13:25:45 416] sessinfo   123  csid_t =  1403155505  
+[2014/06/19 13:25:45 417] sessinfo   143  new session  
+[2014/06/19 13:25:45 417] sessinfo   144  csid =  cisr1PdHHBHMYsRCX3XrHHt2yudIanhPLQ  
+[2014/06/19 13:25:45 417] sessinfo   146  csid_t =  1403154315  
+[2014/06/19 13:25:45 418] sessinfo   120  perflog session  
+[2014/06/19 13:25:45 418] sessinfo   121  csid =  cisr1PdHHBHMYOE3ZM79HHwTWC5ik3WkKu  
+[2014/06/19 13:25:45 418] sessinfo   123  csid_t =  1403155505  
+[2014/06/19 13:25:45 419] sessinfo   120  perflog session  
+[2014/06/19 13:25:45 419] sessinfo   121  csid =  cisr1PdHHBHMYsRCX3XrHHt2yudIanhPLQ  
+[2014/06/19 13:25:45 419] sessinfo   123  csid_t =  1403154315  
+[2014/06/19 13:25:45 419] sessinfo   143  new session  
+[2014/06/19 13:25:45 420] sessinfo   144  csid =  cisr1PdHHBHMYs7nNb9WHHmntBZw5OUBrc  
+[2014/06/19 13:25:45 420] sessinfo   146  csid_t =  1403153682  
+[2014/06/19 13:25:45 420] sessinfo   120  perflog session  
+[2014/06/19 13:25:45 420] sessinfo   121  csid =  cisr1PdHHBHMYOE3ZM79HHwTWC5ik3WkKu  
+[2014/06/19 13:25:45 421] sessinfo   123  csid_t =  1403155505  
+[2014/06/19 13:25:45 421] sessinfo   120  perflog session  
+[2014/06/19 13:25:45 421] sessinfo   121  csid =  cisr1PdHHBHMYsRCX3XrHHt2yudIanhPLQ  
+[2014/06/19 13:25:45 421] sessinfo   123  csid_t =  1403154315  
+[2014/06/19 13:25:45 422] sessinfo   120  perflog session  
+[2014/06/19 13:25:45 422] sessinfo   121  csid =  cisr1PdHHBHMYs7nNb9WHHmntBZw5OUBrc  
+[2014/06/19 13:25:45 422] sessinfo   123  csid_t =  1403153682  
+[2014/06/19 13:25:45 423] sessinfo   143  new session  
+[2014/06/19 13:25:45 423] sessinfo   144  csid =  cisr1PdHHBHMYsiyye2OHHH16mDmk4Ak9R  
+[2014/06/19 13:25:45 423] sessinfo   146  csid_t =  1403153431  
+============================================================
+Time  2014/06/19 14:07:13 222 
+============================================================
+[2014/06/19 14:07:13 222] sessinfo   415  session info loaded!  
+[2014/06/19 14:07:13 222] sessinfo   434  SESSIONINFO_CMD  
+[2014/06/19 14:07:13 222] sessinfo   435  have_data_in_queue =   0  
+[2014/06/19 14:07:13 224] sessinfo   460  session info upload start  
+[2014/06/19 14:07:13 224] sessinfo   404  sessinfo new encoder success  
+[2014/06/19 14:07:13 225] sessinfo   383  sessinfo compress success  
+[2014/06/19 14:07:13 225] sessinfo   384  sessinfo after compressed size =   615  
+[2014/06/19 14:07:13 225] sessinfo   388  sessinfo data_encrypt is not nil  
+[2014/06/19 14:07:13 225] sessinfo   269  upload perflog  
+[2014/06/19 14:07:13 225] sessinfo   339  POST /scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid=asr20002737@gz468c06fdc9ec461100 HTTP/1.1
+Host: scs.openspeech.cn
+Connection: Keep-Alive
+Content-Type: application/x-gzip;charset=utf-8
+Content-Length: 615
+User-Agent: iFLYCloud
+Cache-Control: no-cache
+Accept: */*
+
+}ô†QNjô5ÎJåy®¿ãöeØOP+ÿFüCÔ†T±GIá∑4H‡∫r],∏Ò’µ‚‡ú¸√˚}d¬ÎkÛŒúMAßbV!ÄH@âõ‡7  
+[2014/06/19 14:07:13 225] network    153  gethttpresp  http://scs.openspeech.cn:80/scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid=asr20002737@gz468c06fdc9ec461100  
+[2014/06/19 14:07:13 322] sessinfo   424  SYS_MSG_SHUTDOWN  
+[2014/06/19 14:07:13 322] sessinfo   176  no receive upload success response  
+[2014/06/19 14:07:13 323] sessinfo   143  new session  
+[2014/06/19 14:07:13 323] sessinfo   144  csid =  cisr1PdHHBHMYOLkYGNnHHP0Su+XtBvu8N  
+[2014/06/19 14:07:13 323] sessinfo   146  csid_t =  1403158030  
+[2014/06/19 14:07:13 324] sessinfo   120  perflog session  
+[2014/06/19 14:07:13 324] sessinfo   121  csid =  cisr1PdHHBHMYOLkYGNnHHP0Su+XtBvu8N  
+[2014/06/19 14:07:13 324] sessinfo   123  csid_t =  1403158030  
+[2014/06/19 14:07:13 325] sessinfo   143  new session  
+[2014/06/19 14:07:13 325] sessinfo   144  csid =  cisr1PdHHBHMYOE3ZM79HHwTWC5ik3WkKu  
+[2014/06/19 14:07:13 325] sessinfo   146  csid_t =  1403155505  
+[2014/06/19 14:07:13 326] sessinfo   120  perflog session  
+[2014/06/19 14:07:13 326] sessinfo   121  csid =  cisr1PdHHBHMYOLkYGNnHHP0Su+XtBvu8N  
+[2014/06/19 14:07:13 326] sessinfo   123  csid_t =  1403158030  
+[2014/06/19 14:07:13 326] sessinfo   120  perflog session  
+[2014/06/19 14:07:13 326] sessinfo   121  csid =  cisr1PdHHBHMYOE3ZM79HHwTWC5ik3WkKu  
+[2014/06/19 14:07:13 326] sessinfo   123  csid_t =  1403155505  
+[2014/06/19 14:07:13 327] sessinfo   143  new session  
+[2014/06/19 14:07:13 327] sessinfo   144  csid =  cisr1PdHHBHMYsRCX3XrHHt2yudIanhPLQ  
+[2014/06/19 14:07:13 327] sessinfo   146  csid_t =  1403154315  
+[2014/06/19 14:07:13 328] sessinfo   120  perflog session  
+[2014/06/19 14:07:13 328] sessinfo   121  csid =  cisr1PdHHBHMYOLkYGNnHHP0Su+XtBvu8N  
+[2014/06/19 14:07:13 328] sessinfo   123  csid_t =  1403158030  
+[2014/06/19 14:07:13 329] sessinfo   120  perflog session  
+[2014/06/19 14:07:13 329] sessinfo   121  csid =  cisr1PdHHBHMYOE3ZM79HHwTWC5ik3WkKu  
+[2014/06/19 14:07:13 329] sessinfo   123  csid_t =  1403155505  
+[2014/06/19 14:07:13 330] sessinfo   120  perflog session  
+[2014/06/19 14:07:13 330] sessinfo   121  csid =  cisr1PdHHBHMYsRCX3XrHHt2yudIanhPLQ  
+[2014/06/19 14:07:13 330] sessinfo   123  csid_t =  1403154315  
+[2014/06/19 14:07:13 330] sessinfo   143  new session  
+[2014/06/19 14:07:13 330] sessinfo   144  csid =  cisr1PdHHBHMYs7nNb9WHHmntBZw5OUBrc  
+[2014/06/19 14:07:13 330] sessinfo   146  csid_t =  1403153682  
+============================================================
+Time  2014/06/19 14:10:59 949 
+============================================================
+[2014/06/19 14:10:59 949] sessinfo   415  session info loaded!  
+[2014/06/19 14:10:59 949] sessinfo   434  SESSIONINFO_CMD  
+[2014/06/19 14:10:59 949] sessinfo   435  have_data_in_queue =   0  
+[2014/06/19 14:10:59 952] sessinfo   460  session info upload start  
+[2014/06/19 14:10:59 952] sessinfo   404  sessinfo new encoder success  
+[2014/06/19 14:10:59 953] sessinfo   383  sessinfo compress success  
+[2014/06/19 14:10:59 953] sessinfo   384  sessinfo after compressed size =   367  
+[2014/06/19 14:10:59 953] sessinfo   388  sessinfo data_encrypt is not nil  
+[2014/06/19 14:10:59 953] sessinfo   269  upload perflog  
+[2014/06/19 14:10:59 953] sessinfo   339  POST /scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid= HTTP/1.1
+Host: scs.openspeech.cn
+Connection: Keep-Alive
+Content-Type: application/x-gzip;charset=utf-8
+Content-Length: 367
+User-Agent: iFLYCloud
+Cache-Control: no-cache
+Accept: */*
+
+}ôxTXN∆5¢âπ_øa¯ùò˝7.k-SîTgñãeíëŸckâ¯rjø
+d
+;!ô~ÎºÚõûÈç7‹‰X«ú,Ë3aï’bÅÒÒfÙ_ÀéÇ∑-Î◊_f0  
+[2014/06/19 14:10:59 953] network    153  gethttpresp  http://scs.openspeech.cn:80/scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid=  
+[2014/06/19 14:11:00 054] sessinfo   424  SYS_MSG_SHUTDOWN  
+[2014/06/19 14:11:00 054] sessinfo   176  no receive upload success response  
+[2014/06/19 14:11:00 054] sessinfo   143  new session  
+[2014/06/19 14:11:00 054] sessinfo   144  csid =  cisr1PdHHBHMYOSfK7eWHHHsgaTsldBl+k  
+[2014/06/19 14:11:00 054] sessinfo   146  csid_t =  1403158259  
+[2014/06/19 14:11:00 055] sessinfo   120  perflog session  
+[2014/06/19 14:11:00 055] sessinfo   121  csid =  cisr1PdHHBHMYOSfK7eWHHHsgaTsldBl+k  
+[2014/06/19 14:11:00 055] sessinfo   123  csid_t =  1403158259  
+[2014/06/19 14:11:00 056] sessinfo   143  new session  
+[2014/06/19 14:11:00 056] sessinfo   144  csid =  cisr1PdHHBHMYOLkYGNnHHP0Su+XtBvu8N  
+[2014/06/19 14:11:00 056] sessinfo   146  csid_t =  1403158030  
+[2014/06/19 14:11:00 057] sessinfo   120  perflog session  
+[2014/06/19 14:11:00 057] sessinfo   121  csid =  cisr1PdHHBHMYOSfK7eWHHHsgaTsldBl+k  
+[2014/06/19 14:11:00 057] sessinfo   123  csid_t =  1403158259  
+[2014/06/19 14:11:00 057] sessinfo   120  perflog session  
+[2014/06/19 14:11:00 057] sessinfo   121  csid =  cisr1PdHHBHMYOLkYGNnHHP0Su+XtBvu8N  
+[2014/06/19 14:11:00 058] sessinfo   123  csid_t =  1403158030  
+[2014/06/19 14:11:00 058] sessinfo   143  new session  
+[2014/06/19 14:11:00 058] sessinfo   144  csid =  cisr1PdHHBHMYOE3ZM79HHwTWC5ik3WkKu  
+[2014/06/19 14:11:00 058] sessinfo   146  csid_t =  1403155505  
+[2014/06/19 14:11:00 059] sessinfo   120  perflog session  
+[2014/06/19 14:11:00 059] sessinfo   121  csid =  cisr1PdHHBHMYOSfK7eWHHHsgaTsldBl+k  
+[2014/06/19 14:11:00 059] sessinfo   123  csid_t =  1403158259  
+[2014/06/19 14:11:00 059] sessinfo   120  perflog session  
+[2014/06/19 14:11:00 059] sessinfo   121  csid =  cisr1PdHHBHMYOLkYGNnHHP0Su+XtBvu8N  
+[2014/06/19 14:11:00 059] sessinfo   123  csid_t =  1403158030  
+[2014/06/19 14:11:00 060] sessinfo   120  perflog session  
+[2014/06/19 14:11:00 060] sessinfo   121  csid =  cisr1PdHHBHMYOE3ZM79HHwTWC5ik3WkKu  
+[2014/06/19 14:11:00 060] sessinfo   123  csid_t =  1403155505  
+[2014/06/19 14:11:00 060] sessinfo   143  new session  
+[2014/06/19 14:11:00 060] sessinfo   144  csid =  cisr1PdHHBHMYsRCX3XrHHt2yudIanhPLQ  
+[2014/06/19 14:11:00 060] sessinfo   146  csid_t =  1403154315  
+============================================================
+Time  2014/06/19 14:12:57 138 
+============================================================
+[2014/06/19 14:12:57 138] sessinfo   415  session info loaded!  
+[2014/06/19 14:12:57 138] sessinfo   434  SESSIONINFO_CMD  
+[2014/06/19 14:12:57 138] sessinfo   435  have_data_in_queue =   0  
+[2014/06/19 14:12:57 143] sessinfo   460  session info upload start  
+[2014/06/19 14:12:57 143] sessinfo   404  sessinfo new encoder success  
+[2014/06/19 14:12:57 143] sessinfo   383  sessinfo compress success  
+[2014/06/19 14:12:57 143] sessinfo   384  sessinfo after compressed size =   368  
+[2014/06/19 14:12:57 143] sessinfo   388  sessinfo data_encrypt is not nil  
+[2014/06/19 14:12:57 144] sessinfo   269  upload perflog  
+[2014/06/19 14:12:57 144] sessinfo   339  POST /scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid= HTTP/1.1
+Host: scs.openspeech.cn
+Connection: Keep-Alive
+Content-Type: application/x-gzip;charset=utf-8
+Content-Length: 368
+User-Agent: iFLYCloud
+Cache-Control: no-cache
+Accept: */*
+
+}ôxî^N∆EÄ¯,`õFøû#T&ª¡ç(è  
+[2014/06/19 14:12:57 144] network    153  gethttpresp  http://scs.openspeech.cn:80/scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid=  
+[2014/06/19 14:12:57 241] sessinfo   424  SYS_MSG_SHUTDOWN  
+[2014/06/19 14:12:57 241] sessinfo   176  no receive upload success response  
+[2014/06/19 14:12:57 241] sessinfo   143  new session  
+[2014/06/19 14:12:57 241] sessinfo   144  csid =  cisr1PdHHBHMYOhK2pmuHHtweaVzBlblcv  
+[2014/06/19 14:12:57 241] sessinfo   146  csid_t =  1403158377  
+[2014/06/19 14:12:57 242] sessinfo   120  perflog session  
+[2014/06/19 14:12:57 242] sessinfo   121  csid =  cisr1PdHHBHMYOhK2pmuHHtweaVzBlblcv  
+[2014/06/19 14:12:57 242] sessinfo   123  csid_t =  1403158377  
+[2014/06/19 14:12:57 242] sessinfo   143  new session  
+[2014/06/19 14:12:57 242] sessinfo   144  csid =  cisr1PdHHBHMYOSfK7eWHHHsgaTsldBl+k  
+[2014/06/19 14:12:57 242] sessinfo   146  csid_t =  1403158259  
+[2014/06/19 14:12:57 243] sessinfo   120  perflog session  
+[2014/06/19 14:12:57 243] sessinfo   121  csid =  cisr1PdHHBHMYOhK2pmuHHtweaVzBlblcv  
+[2014/06/19 14:12:57 243] sessinfo   123  csid_t =  1403158377  
+[2014/06/19 14:12:57 244] sessinfo   120  perflog session  
+[2014/06/19 14:12:57 244] sessinfo   121  csid =  cisr1PdHHBHMYOSfK7eWHHHsgaTsldBl+k  
+[2014/06/19 14:12:57 244] sessinfo   123  csid_t =  1403158259  
+[2014/06/19 14:12:57 244] sessinfo   143  new session  
+[2014/06/19 14:12:57 244] sessinfo   144  csid =  cisr1PdHHBHMYOLkYGNnHHP0Su+XtBvu8N  
+[2014/06/19 14:12:57 245] sessinfo   146  csid_t =  1403158030  
+[2014/06/19 14:12:57 245] sessinfo   120  perflog session  
+[2014/06/19 14:12:57 245] sessinfo   121  csid =  cisr1PdHHBHMYOhK2pmuHHtweaVzBlblcv  
+[2014/06/19 14:12:57 245] sessinfo   123  csid_t =  1403158377  
+[2014/06/19 14:12:57 246] sessinfo   120  perflog session  
+[2014/06/19 14:12:57 246] sessinfo   121  csid =  cisr1PdHHBHMYOSfK7eWHHHsgaTsldBl+k  
+[2014/06/19 14:12:57 246] sessinfo   123  csid_t =  1403158259  
+[2014/06/19 14:12:57 246] sessinfo   120  perflog session  
+[2014/06/19 14:12:57 246] sessinfo   121  csid =  cisr1PdHHBHMYOLkYGNnHHP0Su+XtBvu8N  
+[2014/06/19 14:12:57 246] sessinfo   123  csid_t =  1403158030  
+[2014/06/19 14:12:57 247] sessinfo   143  new session  
+[2014/06/19 14:12:57 247] sessinfo   144  csid =  cisr1PdHHBHMYOE3ZM79HHwTWC5ik3WkKu  
+[2014/06/19 14:12:57 247] sessinfo   146  csid_t =  1403155505  
+============================================================
+Time  2014/06/19 14:13:39 084 
+============================================================
+[2014/06/19 14:13:39 084] sessinfo   415  session info loaded!  
+[2014/06/19 14:13:39 084] sessinfo   434  SESSIONINFO_CMD  
+[2014/06/19 14:13:39 084] sessinfo   435  have_data_in_queue =   0  
+[2014/06/19 14:13:39 088] sessinfo   460  session info upload start  
+[2014/06/19 14:13:39 088] sessinfo   404  sessinfo new encoder success  
+[2014/06/19 14:13:39 088] sessinfo   383  sessinfo compress success  
+[2014/06/19 14:13:39 088] sessinfo   384  sessinfo after compressed size =   492  
+[2014/06/19 14:13:39 089] sessinfo   388  sessinfo data_encrypt is not nil  
+[2014/06/19 14:13:39 089] sessinfo   269  upload perflog  
+[2014/06/19 14:13:39 089] sessinfo   339  POST /scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid= HTTP/1.1
+Host: scs.openspeech.cn
+Connection: Keep-Alive
+Content-Type: application/x-gzip;charset=utf-8
+Content-Length: 492
+User-Agent: iFLYCloud
+Cache-Control: no-cache
+Accept: */*
+
+}ôxWTnﬁ5€Jã!ŒsÈ◊íƒ](ﬁˇ5O5è rcãaqs”˜⁄r‚qË-©
+L;ÿxÚÿxr<4u©?4ÌÉg∆/c85À…·∆ÂŸªüÜé˝…îÌA∏'√5qìá¨Tﬂac+o4e#ﬁÄ‡à…™ßÿ∞…ÄùÅ¥ﬁñ£W*@ªë‡GÔO£Pø_°O¶M™¡@ßqóP./9^≤¢—ôºs˜Õ¸∑ºÆj2öÓ»„÷ßt‘D©`πBq&Æ°UWt„¬îYâ√^(#xHÛØ©)‘…ˆ2])∫‹ˇÊˇÛ¬“>™æZ™»Ú˛∏œˇ˚m÷”\jﬂø¥Ùﬁ„5Ëmær	í@DØÍ´!B√~…˙¬§_+®>!Ç’0´Ï∆añ√∂6bx}πB#7L‹äÃÎ§§ˆsƒrª°¡9¥¨Î»¡Ø'N4SûÏ23|Õ∞˘∫ZgN—¬Aÿ[œ£.OÁ≈¯.çnzUYcè¢∑·zv§=‡Ù6í≤1Ñ ˇ»Å¸∫•É&Ë˛£ˆ÷úÒq÷[
+“â—<ƒﬁL9'  
+[2014/06/19 14:13:39 089] network    153  gethttpresp  http://scs.openspeech.cn:80/scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid=  
+[2014/06/19 14:13:39 187] sessinfo   424  SYS_MSG_SHUTDOWN  
+[2014/06/19 14:13:39 187] sessinfo   176  no receive upload success response  
+[2014/06/19 14:13:39 187] sessinfo   143  new session  
+[2014/06/19 14:13:39 187] sessinfo   144  csid =  cisr1PdHHBHMYORn2cdmHHaQUm25llyd3b  
+[2014/06/19 14:13:39 188] sessinfo   146  csid_t =  1403158418  
+[2014/06/19 14:13:39 188] sessinfo   120  perflog session  
+[2014/06/19 14:13:39 188] sessinfo   121  csid =  cisr1PdHHBHMYORn2cdmHHaQUm25llyd3b  
+[2014/06/19 14:13:39 188] sessinfo   123  csid_t =  1403158418  
+[2014/06/19 14:13:39 189] sessinfo   143  new session  
+[2014/06/19 14:13:39 189] sessinfo   144  csid =  cisr1PdHHBHMYOhK2pmuHHtweaVzBlblcv  
+[2014/06/19 14:13:39 189] sessinfo   146  csid_t =  1403158377  
+[2014/06/19 14:13:39 190] sessinfo   120  perflog session  
+[2014/06/19 14:13:39 190] sessinfo   121  csid =  cisr1PdHHBHMYORn2cdmHHaQUm25llyd3b  
+[2014/06/19 14:13:39 190] sessinfo   123  csid_t =  1403158418  
+[2014/06/19 14:13:39 190] sessinfo   120  perflog session  
+[2014/06/19 14:13:39 190] sessinfo   121  csid =  cisr1PdHHBHMYOhK2pmuHHtweaVzBlblcv  
+[2014/06/19 14:13:39 190] sessinfo   123  csid_t =  1403158377  
+[2014/06/19 14:13:39 190] sessinfo   143  new session  
+[2014/06/19 14:13:39 190] sessinfo   144  csid =  cisr1PdHHBHMYOSfK7eWHHHsgaTsldBl+k  
+[2014/06/19 14:13:39 191] sessinfo   146  csid_t =  1403158259  
+[2014/06/19 14:13:39 191] sessinfo   120  perflog session  
+[2014/06/19 14:13:39 191] sessinfo   121  csid =  cisr1PdHHBHMYORn2cdmHHaQUm25llyd3b  
+[2014/06/19 14:13:39 191] sessinfo   123  csid_t =  1403158418  
+[2014/06/19 14:13:39 192] sessinfo   120  perflog session  
+[2014/06/19 14:13:39 192] sessinfo   121  csid =  cisr1PdHHBHMYOhK2pmuHHtweaVzBlblcv  
+[2014/06/19 14:13:39 192] sessinfo   123  csid_t =  1403158377  
+[2014/06/19 14:13:39 192] sessinfo   120  perflog session  
+[2014/06/19 14:13:39 192] sessinfo   121  csid =  cisr1PdHHBHMYOSfK7eWHHHsgaTsldBl+k  
+[2014/06/19 14:13:39 192] sessinfo   123  csid_t =  1403158259  
+[2014/06/19 14:13:39 192] sessinfo   143  new session  
+[2014/06/19 14:13:39 192] sessinfo   144  csid =  cisr1PdHHBHMYOLkYGNnHHP0Su+XtBvu8N  
+[2014/06/19 14:13:39 192] sessinfo   146  csid_t =  1403158030  
+============================================================
+Time  2014/06/19 14:14:25 701 
+============================================================
+[2014/06/19 14:14:25 701] sessinfo   415  session info loaded!  
+[2014/06/19 14:14:25 701] sessinfo   434  SESSIONINFO_CMD  
+[2014/06/19 14:14:25 701] sessinfo   435  have_data_in_queue =   0  
+[2014/06/19 14:14:25 704] sessinfo   460  session info upload start  
+[2014/06/19 14:14:25 704] sessinfo   404  sessinfo new encoder success  
+[2014/06/19 14:14:25 704] sessinfo   383  sessinfo compress success  
+[2014/06/19 14:14:25 704] sessinfo   384  sessinfo after compressed size =   597  
+[2014/06/19 14:14:25 704] sessinfo   388  sessinfo data_encrypt is not nil  
+[2014/06/19 14:14:25 704] sessinfo   269  upload perflog  
+[2014/06/19 14:14:25 705] sessinfo   339  POST /scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid=asr20002768@gz46ae06fdcb9d461100 HTTP/1.1
+Host: scs.openspeech.cn
+Connection: Keep-Alive
+Content-Type: application/x-gzip;charset=utf-8
+Content-Length: 597
+User-Agent: iFLYCloud
+Cache-Control: no-cache
+Accept: */*
+
+}ô†ó⁄nﬁ5¬Ú¢8B∫f~	√ÛC¬œ[√- -ì÷ü ≥b\lø◊˙x⁄ñHÌ[ÛµD'Óq¢˛ŸxJ ©n#S8∂k^ÚÆkö\ÿ˙eê_b)ıâ¿’}Såíæ	T$1©ó√]7√U∆Dæ˛4u^ñß+'Oıp7√FúaÈZ+Áó¥†Kúå^Õ¸˘î∑¨ób˙˜íO⁄(@§≤^ß(∞Í„ÀçEêû  
+[2014/06/19 14:14:25 705] network    153  gethttpresp  http://scs.openspeech.cn:80/scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid=asr20002768@gz46ae06fdcb9d461100  
+[2014/06/19 14:14:25 755] network    22   dns resp  0  
+[2014/06/19 14:14:25 756] network    157  gethttpresp dns ok  220.248.245.146  
+[2014/06/19 14:14:25 756] network    47   gethttpresp2  220.248.245.146  80  
+[2014/06/19 14:14:25 801] sessinfo   424  SYS_MSG_SHUTDOWN  
+[2014/06/19 14:14:25 801] sessinfo   176  no receive upload success response  
+[2014/06/19 14:14:25 802] sessinfo   143  new session  
+[2014/06/19 14:14:25 802] sessinfo   144  csid =  cisr1PdHHBHMYOR62smCHH5WP5Jwwbbtrt  
+[2014/06/19 14:14:25 802] sessinfo   146  csid_t =  1403158463  
+[2014/06/19 14:14:25 803] sessinfo   120  perflog session  
+[2014/06/19 14:14:25 803] sessinfo   121  csid =  cisr1PdHHBHMYOR62smCHH5WP5Jwwbbtrt  
+[2014/06/19 14:14:25 803] sessinfo   123  csid_t =  1403158463  
+[2014/06/19 14:14:25 804] sessinfo   143  new session  
+[2014/06/19 14:14:25 804] sessinfo   144  csid =  cisr1PdHHBHMYORn2cdmHHaQUm25llyd3b  
+[2014/06/19 14:14:25 804] sessinfo   146  csid_t =  1403158418  
+[2014/06/19 14:14:25 805] sessinfo   120  perflog session  
+[2014/06/19 14:14:25 805] sessinfo   121  csid =  cisr1PdHHBHMYOR62smCHH5WP5Jwwbbtrt  
+[2014/06/19 14:14:25 805] sessinfo   123  csid_t =  1403158463  
+[2014/06/19 14:14:25 805] sessinfo   120  perflog session  
+[2014/06/19 14:14:25 805] sessinfo   121  csid =  cisr1PdHHBHMYORn2cdmHHaQUm25llyd3b  
+[2014/06/19 14:14:25 805] sessinfo   123  csid_t =  1403158418  
+[2014/06/19 14:14:25 806] sessinfo   143  new session  
+[2014/06/19 14:14:25 806] sessinfo   144  csid =  cisr1PdHHBHMYOhK2pmuHHtweaVzBlblcv  
+[2014/06/19 14:14:25 806] sessinfo   146  csid_t =  1403158377  
+[2014/06/19 14:14:25 807] sessinfo   120  perflog session  
+[2014/06/19 14:14:25 807] sessinfo   121  csid =  cisr1PdHHBHMYOR62smCHH5WP5Jwwbbtrt  
+[2014/06/19 14:14:25 807] sessinfo   123  csid_t =  1403158463  
+[2014/06/19 14:14:25 807] sessinfo   120  perflog session  
+[2014/06/19 14:14:25 807] sessinfo   121  csid =  cisr1PdHHBHMYORn2cdmHHaQUm25llyd3b  
+[2014/06/19 14:14:25 807] sessinfo   123  csid_t =  1403158418  
+[2014/06/19 14:14:25 808] sessinfo   120  perflog session  
+[2014/06/19 14:14:25 808] sessinfo   121  csid =  cisr1PdHHBHMYOhK2pmuHHtweaVzBlblcv  
+[2014/06/19 14:14:25 808] sessinfo   123  csid_t =  1403158377  
+[2014/06/19 14:14:25 808] sessinfo   143  new session  
+[2014/06/19 14:14:25 808] sessinfo   144  csid =  cisr1PdHHBHMYOSfK7eWHHHsgaTsldBl+k  
+[2014/06/19 14:14:25 808] sessinfo   146  csid_t =  1403158259  
+============================================================
+Time  2014/06/19 14:16:53 111 
+============================================================
+[2014/06/19 14:16:53 111] sessinfo   415  session info loaded!  
+[2014/06/19 14:16:53 112] sessinfo   434  SESSIONINFO_CMD  
+[2014/06/19 14:16:53 112] sessinfo   435  have_data_in_queue =   0  
+[2014/06/19 14:16:53 113] sessinfo   460  session info upload start  
+[2014/06/19 14:16:53 113] sessinfo   404  sessinfo new encoder success  
+[2014/06/19 14:16:53 116] sessinfo   383  sessinfo compress success  
+[2014/06/19 14:16:53 116] sessinfo   384  sessinfo after compressed size =   711  
+[2014/06/19 14:16:53 116] sessinfo   388  sessinfo data_encrypt is not nil  
+[2014/06/19 14:16:53 116] sessinfo   269  upload perflog  
+[2014/06/19 14:16:53 116] sessinfo   339  POST /scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid=iat00002ec4@gz3c1406fdcc2e461100 HTTP/1.1
+Host: scs.openspeech.cn
+Connection: Keep-Alive
+Content-Type: application/x-gzip;charset=utf-8
+Content-Length: 711
+User-Agent: iFLYCloud
+Cache-Control: no-cache
+Accept: */*
+
+}ô»QNj÷E„¢Q~[<>˛˜$$ïï
+@GuEè'f>®@g¢[>±Q¸Íy∂KÆu‰ÇIª‹ ˛ﬁ"4T9Dk«&ïΩÎˇ¸Dô°›≤¬s¡ ë$@⁄Ki‹jØ|"7œ>k«ıF√j{«„û3[êOÓWÏP#Vb`ãzW+í°∞êau@KDÀNœMLœ∏óüç°”«7wµ÷,¶…`uas√ïî√JSü—F·Eì÷∑ü%	&¬Õ~*hCÅÉü~∏„qj¬µÊqË∂√Ã>ËH—¬U¶ICæò‰vS≥íO(éΩT¸+´Ω˝0r"õ»§hß∫}@Sö”NŒokZ	V»ßEwNSÀÀ’SÀ÷·≠˛˙-rÓ`<£¬o˛UÇ3ÅkÌæ{>ç]‚Õ~7˙‘€¸∑Pˆ`B‚íøåê]rAt»5Mñlº}æ y<Ç¸ºF€/ ˙f•∞;¢…mÖòSÆØƒ≥mµ¿µ¥d≥-cé`≥]cA√-riTüÛõ‹î7œV1c¶¥…%„¶L4&(6◊oıiT…¿iT…¿A$õ3
+ùB_s]=Vl^º÷¸TU5Ïû5gê@÷p3…WlßhÁèI‰˝]0ûÊÑö∞-^√˘ãIı&«QH03ÈeúARH≈pçdÓ+âÒ¨,Œr‡¬ûû◊x˝ﬂjŒ˜¯Ûª˘˘]ìd˙`
+ﬁo„®	Ç≥xÂ*í"… /¥M¿c‚ﬂùÜSì⁄ó}ÁL√jyiÙT02ÿµø#˙©£Û)í’IÿõFm@s†˘è˜.∑  
+[2014/06/19 14:16:53 116] network    153  gethttpresp  http://scs.openspeech.cn:80/scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid=iat00002ec4@gz3c1406fdcc2e461100  
+[2014/06/19 14:16:53 187] network    22   dns resp  0  
+[2014/06/19 14:16:53 187] network    157  gethttpresp dns ok  220.248.245.151  
+[2014/06/19 14:16:53 187] network    47   gethttpresp2  220.248.245.151  80  
+[2014/06/19 14:16:53 336] network    72   connected  
+[2014/06/19 14:16:53 337] network    75   send ok  987  
+[2014/06/19 14:16:53 486] network    78   readable  
+[2014/06/19 14:16:53 486] sessinfo   342  perflog http resp  nil  0  udata(c821e488) 
+[2014/06/19 14:16:53 486] sessinfo   354  sessinfo body_decrypt success  
+[2014/06/19 14:16:53 487] sessinfo   361  sessinfo new decoder success  
+[2014/06/19 14:16:53 487] sessinfo   238  sessinfo uncompressed success  
+[2014/06/19 14:16:53 487] sessinfo   239  sessinfo after uncompressed size =   42  
+[2014/06/19 14:16:53 487] sessinfo   255  upload session info OK for this time!  
+[2014/06/19 14:16:53 488] sessinfo   207  send the sessinfo in the file  
+[2014/06/19 14:16:53 488] sessinfo   404  sessinfo new encoder success  
+[2014/06/19 14:16:53 489] sessinfo   383  sessinfo compress success  
+[2014/06/19 14:16:53 489] sessinfo   384  sessinfo after compressed size =   597  
+[2014/06/19 14:16:53 489] sessinfo   388  sessinfo data_encrypt is not nil  
+[2014/06/19 14:16:53 489] sessinfo   269  upload perflog  
+[2014/06/19 14:16:53 489] sessinfo   339  POST /scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid=asr20002768@gz46ae06fdcb9d461100 HTTP/1.1
+Host: scs.openspeech.cn
+Connection: Keep-Alive
+Content-Type: application/x-gzip;charset=utf-8
+Content-Length: 597
+User-Agent: iFLYCloud
+Cache-Control: no-cache
+Accept: */*
+
+}ô†ó⁄nﬁ5¬Ú¢8B∫f~	√ÛC¬œ[√- -ì÷ü ≥b\lø◊˙x⁄ñHÌ[ÛµD'Óq¢˛ŸxJ ©n#S8∂k^ÚÆkö\ÿ˙eê_b)ıâ¿’}Såíæ	T$1©ó√]7√U∆Dæ˛4u^ñß+'Oıp7√FúaÈZ+Áó¥†Kúå^Õ¸˘î∑¨ób˙˜íO⁄(@§≤^ß(∞Í„ÀçEêû  
+[2014/06/19 14:16:53 489] network    153  gethttpresp  http://scs.openspeech.cn:80/scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid=asr20002768@gz46ae06fdcb9d461100  
+[2014/06/19 14:16:53 532] network    22   dns resp  0  
+[2014/06/19 14:16:53 532] network    157  gethttpresp dns ok  220.248.245.151  
+[2014/06/19 14:16:53 532] network    47   gethttpresp2  220.248.245.151  80  
+[2014/06/19 14:16:53 755] network    72   connected  
+[2014/06/19 14:16:53 758] network    75   send ok  873  
+[2014/06/19 14:16:54 021] network    78   readable  
+[2014/06/19 14:16:54 021] sessinfo   342  perflog http resp  nil  0  udata(c81bd268) 
+[2014/06/19 14:16:54 021] sessinfo   354  sessinfo body_decrypt success  
+[2014/06/19 14:16:54 021] sessinfo   361  sessinfo new decoder success  
+[2014/06/19 14:16:54 022] sessinfo   238  sessinfo uncompressed success  
+[2014/06/19 14:16:54 022] sessinfo   239  sessinfo after uncompressed size =   42  
+[2014/06/19 14:16:54 023] sessinfo   255  upload session info OK for this time!  
+[2014/06/19 14:16:54 023] sessinfo   207  send the sessinfo in the file  
+[2014/06/19 14:16:54 023] sessinfo   404  sessinfo new encoder success  
+[2014/06/19 14:16:54 024] sessinfo   383  sessinfo compress success  
+[2014/06/19 14:16:54 024] sessinfo   384  sessinfo after compressed size =   492  
+[2014/06/19 14:16:54 024] sessinfo   388  sessinfo data_encrypt is not nil  
+[2014/06/19 14:16:54 024] sessinfo   269  upload perflog  
+[2014/06/19 14:16:54 024] sessinfo   339  POST /scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid= HTTP/1.1
+Host: scs.openspeech.cn
+Connection: Keep-Alive
+Content-Type: application/x-gzip;charset=utf-8
+Content-Length: 492
+User-Agent: iFLYCloud
+Cache-Control: no-cache
+Accept: */*
+
+}ôxWTnﬁ5€Jã!ŒsÈ◊íƒ](ﬁˇ5O5è rcãaqs”˜⁄r‚qË-©
+L;ÿxÚÿxr<4u©?4ÌÉg∆/c85À…·∆ÂŸªüÜé˝…îÌA∏'√5qìá¨Tﬂac+o4e#ﬁÄ‡à…™ßÿ∞…ÄùÅ¥ﬁñ£W*@ªë‡GÔO£Pø_°O¶M™¡@ßqóP./9^≤¢—ôºs˜Õ¸∑ºÆj2öÓ»„÷ßt‘D©`πBq&Æ°UWt„¬îYâ√^(#xHÛØ©)‘…ˆ2])∫‹ˇÊˇÛ¬“>™æZ™»Ú˛∏œˇ˚m÷”\jﬂø¥Ùﬁ„5Ëmær	í@DØÍ´!B√~…˙¬§_+®>!Ç’0´Ï∆añ√∂6bx}πB#7L‹äÃÎ§§ˆsƒrª°¡9¥¨Î»¡Ø'N4SûÏ23|Õ∞˘∫ZgN—¬Aÿ[œ£.OÁ≈¯.çnzUYcè¢∑·zv§=‡Ù6í≤1Ñ ˇ»Å¸∫•É&Ë˛£ˆ÷úÒq÷[
+“â—<ƒﬁL9'  
+[2014/06/19 14:16:54 024] network    153  gethttpresp  http://scs.openspeech.cn:80/scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid=  
+[2014/06/19 14:16:54 079] network    22   dns resp  0  
+[2014/06/19 14:16:54 079] network    157  gethttpresp dns ok  220.248.245.151  
+[2014/06/19 14:16:54 079] network    47   gethttpresp2  220.248.245.151  80  
+[2014/06/19 14:16:54 264] network    72   connected  
+[2014/06/19 14:16:54 264] network    75   send ok  736  
+[2014/06/19 14:16:54 418] network    78   readable  
+[2014/06/19 14:16:54 419] sessinfo   342  perflog http resp  nil  0  udata(c81b7b78) 
+[2014/06/19 14:16:54 419] sessinfo   354  sessinfo body_decrypt success  
+[2014/06/19 14:16:54 419] sessinfo   361  sessinfo new decoder success  
+[2014/06/19 14:16:54 419] sessinfo   238  sessinfo uncompressed success  
+[2014/06/19 14:16:54 419] sessinfo   239  sessinfo after uncompressed size =   42  
+[2014/06/19 14:16:54 420] sessinfo   255  upload session info OK for this time!  
+[2014/06/19 14:16:54 420] sessinfo   207  send the sessinfo in the file  
+[2014/06/19 14:16:54 421] sessinfo   404  sessinfo new encoder success  
+[2014/06/19 14:16:54 421] sessinfo   383  sessinfo compress success  
+[2014/06/19 14:16:54 421] sessinfo   384  sessinfo after compressed size =   368  
+[2014/06/19 14:16:54 421] sessinfo   388  sessinfo data_encrypt is not nil  
+[2014/06/19 14:16:54 421] sessinfo   269  upload perflog  
+[2014/06/19 14:16:54 421] sessinfo   339  POST /scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid= HTTP/1.1
+Host: scs.openspeech.cn
+Connection: Keep-Alive
+Content-Type: application/x-gzip;charset=utf-8
+Content-Length: 368
+User-Agent: iFLYCloud
+Cache-Control: no-cache
+Accept: */*
+
+}ôxî^N∆EÄ¯,`õFøû#T&ª¡ç(è  
+[2014/06/19 14:16:54 422] network    153  gethttpresp  http://scs.openspeech.cn:80/scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid=  
+[2014/06/19 14:16:54 425] network    22   dns resp  0  
+[2014/06/19 14:16:54 426] network    157  gethttpresp dns ok  220.248.245.151  
+[2014/06/19 14:16:54 426] network    47   gethttpresp2  220.248.245.151  80  
+[2014/06/19 14:16:54 567] network    72   connected  
+[2014/06/19 14:16:54 568] network    75   send ok  612  
+[2014/06/19 14:16:54 748] network    78   readable  
+[2014/06/19 14:16:54 749] sessinfo   342  perflog http resp  nil  0  udata(c81b79f8) 
+[2014/06/19 14:16:54 749] sessinfo   354  sessinfo body_decrypt success  
+[2014/06/19 14:16:54 749] sessinfo   361  sessinfo new decoder success  
+[2014/06/19 14:16:54 749] sessinfo   238  sessinfo uncompressed success  
+[2014/06/19 14:16:54 750] sessinfo   239  sessinfo after uncompressed size =   42  
+[2014/06/19 14:16:54 751] sessinfo   255  upload session info OK for this time!  
+[2014/06/19 14:16:54 751] sessinfo   210  the upload session info is completed!  
+[2014/06/19 14:16:54 751] sessinfo   211  ========================================  
+============================================================
+Time  2014/06/19 14:16:55 679 
+============================================================
+[2014/06/19 14:16:55 679] sessinfo   415  session info loaded!  
+[2014/06/19 14:16:55 680] sessinfo   424  SYS_MSG_SHUTDOWN  
+[2014/06/19 14:16:55 680] sessinfo   176  no receive upload success response  
+[2014/06/19 14:16:55 681] dkjson     781  dkjson:781: bad argument #2 to 'pegmatch' (string expected, got nil)  
+============================================================
+Time  2014/06/19 14:18:04 608 
+============================================================
+[2014/06/19 14:18:04 608] sessinfo   415  session info loaded!  
+[2014/06/19 14:18:04 608] sessinfo   434  SESSIONINFO_CMD  
+[2014/06/19 14:18:04 608] sessinfo   435  have_data_in_queue =   0  
+[2014/06/19 14:18:04 609] sessinfo   460  session info upload start  
+[2014/06/19 14:18:04 609] sessinfo   404  sessinfo new encoder success  
+[2014/06/19 14:18:04 610] sessinfo   383  sessinfo compress success  
+[2014/06/19 14:18:04 610] sessinfo   384  sessinfo after compressed size =   695  
+[2014/06/19 14:18:04 610] sessinfo   388  sessinfo data_encrypt is not nil  
+[2014/06/19 14:18:04 610] sessinfo   269  upload perflog  
+[2014/06/19 14:18:04 610] sessinfo   339  POST /scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid=iat0002a7ba@gz3c1d06fdcc75461100 HTTP/1.1
+Host: scs.openspeech.cn
+Connection: Keep-Alive
+Content-Type: application/x-gzip;charset=utf-8
+Content-Length: 695
+User-Agent: iFLYCloud
+Cache-Control: no-cache
+Accept: */*
+
+}ô»QHjﬁ5	ÿJyTZ≥6	©ÉòS@§œKo—∞6ŒÀﬂ¸Í~ëñß¢X≤FùBå°ÕÚ∫aÿµ>1f≥À-¢Ybá
+£‚xÜñ¬gf>Òh∫u¿[≥{ÃÁ—;wÖóaS◊®≠JcH¿ﬂQîf6`n,∑Ü™jÊ{ES\<˝{∫jna_ËêÙ”&±∫®~Ÿﬁ }Œ¥ƒ:æFíØ˝|é:“Ëµø!ÚdÒVˆîôë˘B3ô`/B'ûB·aÚ÷±Z™SpvÕ
+Fü’vòÇ{–Ûpˆë⁄Jäí‡$ÁªlõÂ–zØ±‚í◊5OÁtg£_TªΩˆös∫p•_øhGdà&OHÉÄfûŒŸ·!HÃiÀrN˜¨Ò$êC–µëhÏ^∏‹Yiª[X¸‚ :_º‹iªÇéX–x
+  
+[2014/06/19 14:18:04 610] network    153  gethttpresp  http://scs.openspeech.cn:80/scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid=iat0002a7ba@gz3c1d06fdcc75461100  
+[2014/06/19 14:18:04 672] network    22   dns resp  0  
+[2014/06/19 14:18:04 672] network    157  gethttpresp dns ok  120.193.118.6  
+[2014/06/19 14:18:04 672] network    47   gethttpresp2  120.193.118.6  80  
+[2014/06/19 14:18:04 734] network    72   connected  
+[2014/06/19 14:18:04 734] network    75   send ok  971  
+[2014/06/19 14:18:04 838] network    78   readable  
+[2014/06/19 14:18:04 838] sessinfo   342  perflog http resp  nil  0  udata(7801fb98) 
+[2014/06/19 14:18:04 838] sessinfo   354  sessinfo body_decrypt success  
+[2014/06/19 14:18:04 838] sessinfo   361  sessinfo new decoder success  
+[2014/06/19 14:18:04 839] sessinfo   238  sessinfo uncompressed success  
+[2014/06/19 14:18:04 839] sessinfo   239  sessinfo after uncompressed size =   42  
+[2014/06/19 14:18:04 840] sessinfo   255  upload session info OK for this time!  
+[2014/06/19 14:18:04 840] sessinfo   210  the upload session info is completed!  
+[2014/06/19 14:18:04 840] sessinfo   211  ========================================  
+============================================================
+Time  2014/06/19 14:18:07 180 
+============================================================
+[2014/06/19 14:18:07 180] sessinfo   415  session info loaded!  
+[2014/06/19 14:18:07 181] sessinfo   424  SYS_MSG_SHUTDOWN  
+[2014/06/19 14:18:07 181] sessinfo   176  no receive upload success response  
+[2014/06/19 14:18:07 182] dkjson     781  dkjson:781: bad argument #2 to 'pegmatch' (string expected, got nil)  
+============================================================
+Time  2014/06/19 14:25:24 209 
+============================================================
+[2014/06/19 14:25:24 210] sessinfo   415  session info loaded!  
+[2014/06/19 14:25:24 210] sessinfo   434  SESSIONINFO_CMD  
+[2014/06/19 14:25:24 210] sessinfo   435  have_data_in_queue =   0  
+[2014/06/19 14:25:24 212] sessinfo   460  session info upload start  
+[2014/06/19 14:25:24 212] sessinfo   404  sessinfo new encoder success  
+[2014/06/19 14:25:24 212] sessinfo   383  sessinfo compress success  
+[2014/06/19 14:25:24 212] sessinfo   384  sessinfo after compressed size =   615  
+[2014/06/19 14:25:24 213] sessinfo   388  sessinfo data_encrypt is not nil  
+[2014/06/19 14:25:24 213] sessinfo   269  upload perflog  
+[2014/06/19 14:25:24 213] sessinfo   339  POST /scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid=iat00037433@gz3c7c06fdce2f461100 HTTP/1.1
+Host: scs.openspeech.cn
+Connection: Keep-Alive
+Content-Type: application/x-gzip;charset=utf-8
+Content-Length: 615
+User-Agent: iFLYCloud
+Cache-Control: no-cache
+Accept: */*
+
+}ô†VHj—5‡¢Qªg`Ë˝&Ó%!—÷èÌÑáØo∞å÷Ciò1Kììo˙>jÁ+ßuM9j˜9j# iã{a‡6ûrh0∂Wt]–˘fg‡àÁ◊-´Å„ﬂmkt√u"	íÉ…ÃW√á#ı∑a®@ƒ†6  
+[2014/06/19 14:25:24 213] network    153  gethttpresp  http://scs.openspeech.cn:80/scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid=iat00037433@gz3c7c06fdce2f461100  
+[2014/06/19 14:25:24 309] sessinfo   424  SYS_MSG_SHUTDOWN  
+[2014/06/19 14:25:24 309] sessinfo   176  no receive upload success response  
+[2014/06/19 14:25:24 310] sessinfo   143  new session  
+[2014/06/19 14:25:24 310] sessinfo   144  csid =  cisr1PdHHBHMYYWpVP3THHlpU1OUB5nPq+  
+[2014/06/19 14:25:24 310] sessinfo   146  csid_t =  1403159121  
+============================================================
+Time  2014/06/19 14:26:41 047 
+============================================================
+[2014/06/19 14:26:41 047] sessinfo   415  session info loaded!  
+[2014/06/19 14:26:41 047] sessinfo   434  SESSIONINFO_CMD  
+[2014/06/19 14:26:41 047] sessinfo   435  have_data_in_queue =   0  
+[2014/06/19 14:26:41 050] sessinfo   460  session info upload start  
+[2014/06/19 14:26:41 050] sessinfo   404  sessinfo new encoder success  
+[2014/06/19 14:26:41 051] sessinfo   383  sessinfo compress success  
+[2014/06/19 14:26:41 051] sessinfo   384  sessinfo after compressed size =   583  
+[2014/06/19 14:26:41 051] sessinfo   388  sessinfo data_encrypt is not nil  
+[2014/06/19 14:26:41 051] sessinfo   269  upload perflog  
+[2014/06/19 14:26:41 051] sessinfo   339  POST /scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid=iat0002bfa3@ch3d0706fdce7d477600 HTTP/1.1
+Host: scs.openspeech.cn
+Connection: Keep-Alive
+Content-Type: application/x-gzip;charset=utf-8
+Content-Length: 583
+User-Agent: iFLYCloud
+Cache-Control: no-cache
+Accept: */*
+
+}ôàVHjﬁ5	ÿJ,q3Ãˇ∑8	sá§/’F•_wÊ–ê8NK¸Í&`¢ﬁh8]„&¿";W?î<Ωå—"7Í6ñüL/7cÎL®†TûGé˙ óˇõ`I∑â÷'∑Õ˘0˘.œ6C )  
+[2014/06/19 14:26:41 052] network    153  gethttpresp  http://scs.openspeech.cn:80/scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid=iat0002bfa3@ch3d0706fdce7d477600  
+[2014/06/19 14:26:41 147] sessinfo   424  SYS_MSG_SHUTDOWN  
+[2014/06/19 14:26:41 147] sessinfo   176  no receive upload success response  
+[2014/06/19 14:26:41 148] sessinfo   143  new session  
+[2014/06/19 14:26:41 148] sessinfo   144  csid =  cisr1PdHHBHMYY0ZVeFyHHtjhH1JPsVwk5  
+[2014/06/19 14:26:41 148] sessinfo   146  csid_t =  1403159199  
+[2014/06/19 14:26:41 149] sessinfo   120  perflog session  
+[2014/06/19 14:26:41 149] sessinfo   121  csid =  cisr1PdHHBHMYY0ZVeFyHHtjhH1JPsVwk5  
+[2014/06/19 14:26:41 149] sessinfo   123  csid_t =  1403159199  
+[2014/06/19 14:26:41 150] sessinfo   143  new session  
+[2014/06/19 14:26:41 150] sessinfo   144  csid =  cisr1PdHHBHMYYWpVP3THHlpU1OUB5nPq+  
+[2014/06/19 14:26:41 150] sessinfo   146  csid_t =  1403159121  
+============================================================
+Time  2014/06/19 14:27:08 302 
+============================================================
+[2014/06/19 14:27:08 302] sessinfo   415  session info loaded!  
+[2014/06/19 14:27:08 303] sessinfo   434  SESSIONINFO_CMD  
+[2014/06/19 14:27:08 303] sessinfo   435  have_data_in_queue =   0  
+[2014/06/19 14:27:08 306] sessinfo   460  session info upload start  
+[2014/06/19 14:27:08 306] sessinfo   404  sessinfo new encoder success  
+[2014/06/19 14:27:08 307] sessinfo   383  sessinfo compress success  
+[2014/06/19 14:27:08 307] sessinfo   384  sessinfo after compressed size =   590  
+[2014/06/19 14:27:08 307] sessinfo   388  sessinfo data_encrypt is not nil  
+[2014/06/19 14:27:08 307] sessinfo   269  upload perflog  
+[2014/06/19 14:27:08 307] sessinfo   339  POST /scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid=iat0002a3b8@gz3c1306fdce98461100 HTTP/1.1
+Host: scs.openspeech.cn
+Connection: Keep-Alive
+Content-Type: application/x-gzip;charset=utf-8
+Content-Length: 590
+User-Agent: iFLYCloud
+Cache-Control: no-cache
+Accept: */*
+
+}ôêVHä÷5‡¢©y≥Wäf>ÛQå@u$QP€¡ÿà3HGr∫—˙ÀâòÄ8$=1õb˛àb[⁄9∂ƒ(©{c∆€~¬oWt3Ò©S∑Ÿ&ˇî&ˇ¬⁄ãm2∂"Q@Å∏©fgOÍ™nÛÄ´Â<RΩïπ5óRß·%IÀD{wè±≠=XË≤ƒ1Ed6ù‡ú¿¸Ÿ†"ár(C‚Õù84gÙY√wˇ‹fYØ]’$*[eF¥WÅæ6b¯}∂9K->ˇ√>ÍætÌÉ∆Õ=&AØ3ª∆¢\÷¸ª±ﬁË‡Û÷ÚÍÁÏÓÇ‰ÊsæŸxﬁ3äí≤öä“ÚÕ¥‰ÖRhmætv  
+[2014/06/19 14:27:08 307] network    153  gethttpresp  http://scs.openspeech.cn:80/scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid=iat0002a3b8@gz3c1306fdce98461100  
+[2014/06/19 14:27:08 311] network    22   dns resp  0  
+[2014/06/19 14:27:08 311] network    157  gethttpresp dns ok  220.248.245.146  
+[2014/06/19 14:27:08 311] network    47   gethttpresp2  220.248.245.146  80  
+[2014/06/19 14:27:08 402] sessinfo   424  SYS_MSG_SHUTDOWN  
+[2014/06/19 14:27:08 402] sessinfo   176  no receive upload success response  
+[2014/06/19 14:27:08 403] sessinfo   143  new session  
+[2014/06/19 14:27:08 403] sessinfo   144  csid =  cisr1PdHHBHMYY0zVAnKHHtkWHcyBhOmbw  
+[2014/06/19 14:27:08 403] sessinfo   146  csid_t =  1403159226  
+[2014/06/19 14:27:08 404] sessinfo   120  perflog session  
+[2014/06/19 14:27:08 404] sessinfo   121  csid =  cisr1PdHHBHMYY0zVAnKHHtkWHcyBhOmbw  
+[2014/06/19 14:27:08 404] sessinfo   123  csid_t =  1403159226  
+[2014/06/19 14:27:08 404] sessinfo   143  new session  
+[2014/06/19 14:27:08 404] sessinfo   144  csid =  cisr1PdHHBHMYY0ZVeFyHHtjhH1JPsVwk5  
+[2014/06/19 14:27:08 405] sessinfo   146  csid_t =  1403159199  
+[2014/06/19 14:27:08 405] sessinfo   120  perflog session  
+[2014/06/19 14:27:08 405] sessinfo   121  csid =  cisr1PdHHBHMYY0zVAnKHHtkWHcyBhOmbw  
+[2014/06/19 14:27:08 406] sessinfo   123  csid_t =  1403159226  
+[2014/06/19 14:27:08 406] sessinfo   120  perflog session  
+[2014/06/19 14:27:08 406] sessinfo   121  csid =  cisr1PdHHBHMYY0ZVeFyHHtjhH1JPsVwk5  
+[2014/06/19 14:27:08 406] sessinfo   123  csid_t =  1403159199  
+[2014/06/19 14:27:08 407] sessinfo   143  new session  
+[2014/06/19 14:27:08 407] sessinfo   144  csid =  cisr1PdHHBHMYYWpVP3THHlpU1OUB5nPq+  
+[2014/06/19 14:27:08 407] sessinfo   146  csid_t =  1403159121  
+============================================================
+Time  2014/06/19 14:27:28 891 
+============================================================
+[2014/06/19 14:27:28 891] sessinfo   415  session info loaded!  
+[2014/06/19 14:27:28 891] sessinfo   434  SESSIONINFO_CMD  
+[2014/06/19 14:27:28 891] sessinfo   435  have_data_in_queue =   0  
+[2014/06/19 14:27:28 896] sessinfo   460  session info upload start  
+[2014/06/19 14:27:28 896] sessinfo   404  sessinfo new encoder success  
+[2014/06/19 14:27:28 896] sessinfo   383  sessinfo compress success  
+[2014/06/19 14:27:28 896] sessinfo   384  sessinfo after compressed size =   758  
+[2014/06/19 14:27:28 896] sessinfo   388  sessinfo data_encrypt is not nil  
+[2014/06/19 14:27:28 896] sessinfo   269  upload perflog  
+[2014/06/19 14:27:28 896] sessinfo   339  POST /scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid=iat000386a4@gz3c8506fdcea7461100 HTTP/1.1
+Host: scs.openspeech.cn
+Connection: Keep-Alive
+Content-Type: application/x-gzip;charset=utf-8
+Content-Length: 758
+User-Agent: iFLYCloud
+Cache-Control: no-cache
+Accept: */*
+
+}ôÿêX™÷CÉ˛V’[™ôò¯sØO(Ÿ·áOQê≠Gî¥òÜ@ãg>E¶ˆ⁄˛ªs'ΩÔ8Ya˘Àa:cbö¥™Ô=9IZJ®ﬂØ¬¥ﬁtÈÉªÓ
+Ü◊èõﬂ[–ºò—”mPZﬂ6√Ä«ªÊ6¬q"ÉO˝¨µªMﬁiÎÚHäºLÆN–Èﬁ?CÙ_PˆÊÆºÏÉ»Nå∫õÆ¨¯Hß4ô¿¥ãÆªôÌe‚ÔqÔÎÊ/ÓÆUtÊ¸8X0t≤ØtØˇ£?2≤Äﬂ`∑H≥âcàân!‚û˙Ï}<+ŒäŒÁ]lΩ.˙˛∆∫´Àƒ¡FV≤P˜TaLµúøBìœÙ2W;ä8≥Sõ`VgA∏´PrÊ\[0æÿˆÿöj€π˝‚`ªﬁ»"¸˝“ÓR÷⁄‰ˆ9«˙®#©ÎyCáÔ∆1ò≥ûH÷[èŒ’–hx„£≠~ë÷H˛†˝58/”ìÆà¢≥¯ßõ5|·pX–πz=ä-’ﬁ]O}Ç˝ªü:Ï~fÒ b∑äTû‡•Ç6ƒ∆¥Ïâ&œñ	˚YN≈óçìe∞6S~9&õ,=X¢¿Eç0[é5Ñ/W`±ë$mé4ﬂ_/jßÉÖLQœñ±ñÊ≠yÕﬂ@ñ≠OVo…7ﬂ^/B#W`ËŒ-?QµQ[©√5å/BÇÅ  
+[2014/06/19 14:27:28 896] network    153  gethttpresp  http://scs.openspeech.cn:80/scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid=iat000386a4@gz3c8506fdcea7461100  
+[2014/06/19 14:27:28 947] network    22   dns resp  0  
+[2014/06/19 14:27:28 947] network    157  gethttpresp dns ok  220.248.245.146  
+[2014/06/19 14:27:28 947] network    47   gethttpresp2  220.248.245.146  80  
+[2014/06/19 14:27:28 991] sessinfo   424  SYS_MSG_SHUTDOWN  
+[2014/06/19 14:27:28 991] sessinfo   176  no receive upload success response  
+[2014/06/19 14:27:28 992] sessinfo   143  new session  
+[2014/06/19 14:27:28 992] sessinfo   144  csid =  cisr1PdHHBHMYYCWVvtBHHup1kQVPtS5wA  
+[2014/06/19 14:27:28 992] sessinfo   146  csid_t =  1403159241  
+[2014/06/19 14:27:28 994] sessinfo   120  perflog session  
+[2014/06/19 14:27:28 994] sessinfo   121  csid =  cisr1PdHHBHMYYCWVvtBHHup1kQVPtS5wA  
+[2014/06/19 14:27:28 994] sessinfo   123  csid_t =  1403159241  
+[2014/06/19 14:27:28 995] sessinfo   143  new session  
+[2014/06/19 14:27:28 995] sessinfo   144  csid =  cisr1PdHHBHMYY0zVAnKHHtkWHcyBhOmbw  
+[2014/06/19 14:27:28 995] sessinfo   146  csid_t =  1403159226  
+[2014/06/19 14:27:28 996] sessinfo   120  perflog session  
+[2014/06/19 14:27:28 996] sessinfo   121  csid =  cisr1PdHHBHMYYCWVvtBHHup1kQVPtS5wA  
+[2014/06/19 14:27:28 996] sessinfo   123  csid_t =  1403159241  
+[2014/06/19 14:27:28 997] sessinfo   120  perflog session  
+[2014/06/19 14:27:28 997] sessinfo   121  csid =  cisr1PdHHBHMYY0zVAnKHHtkWHcyBhOmbw  
+[2014/06/19 14:27:28 997] sessinfo   123  csid_t =  1403159226  
+[2014/06/19 14:27:28 997] sessinfo   143  new session  
+[2014/06/19 14:27:28 998] sessinfo   144  csid =  cisr1PdHHBHMYY0ZVeFyHHtjhH1JPsVwk5  
+[2014/06/19 14:27:28 998] sessinfo   146  csid_t =  1403159199  
+[2014/06/19 14:27:28 999] sessinfo   120  perflog session  
+[2014/06/19 14:27:28 999] sessinfo   121  csid =  cisr1PdHHBHMYYCWVvtBHHup1kQVPtS5wA  
+[2014/06/19 14:27:28 999] sessinfo   123  csid_t =  1403159241  
+[2014/06/19 14:27:28 000] sessinfo   120  perflog session  
+[2014/06/19 14:27:28 000] sessinfo   121  csid =  cisr1PdHHBHMYY0zVAnKHHtkWHcyBhOmbw  
+[2014/06/19 14:27:28 000] sessinfo   123  csid_t =  1403159226  
+[2014/06/19 14:27:28 000] sessinfo   120  perflog session  
+[2014/06/19 14:27:28 001] sessinfo   121  csid =  cisr1PdHHBHMYY0ZVeFyHHtjhH1JPsVwk5  
+[2014/06/19 14:27:28 001] sessinfo   123  csid_t =  1403159199  
+[2014/06/19 14:27:28 001] sessinfo   143  new session  
+[2014/06/19 14:27:28 001] sessinfo   144  csid =  cisr1PdHHBHMYYWpVP3THHlpU1OUB5nPq+  
+[2014/06/19 14:27:28 001] sessinfo   146  csid_t =  1403159121  
+============================================================
+Time  2014/06/23 10:22:54 424 
+============================================================
+[2014/06/23 10:22:54 424] sessinfo   415  session info loaded!  
+[2014/06/23 10:22:54 444] sessinfo   434  SESSIONINFO_CMD  
+[2014/06/23 10:22:54 444] sessinfo   435  have_data_in_queue =   0  
+[2014/06/23 10:22:54 461] sessinfo   460  session info upload start  
+[2014/06/23 10:22:54 461] sessinfo   404  sessinfo new encoder success  
+[2014/06/23 10:22:54 462] sessinfo   383  sessinfo compress success  
+[2014/06/23 10:22:54 462] sessinfo   384  sessinfo after compressed size =   591  
+[2014/06/23 10:22:54 462] sessinfo   388  sessinfo data_encrypt is not nil  
+[2014/06/23 10:22:54 462] sessinfo   269  upload perflog  
+[2014/06/23 10:22:54 462] sessinfo   339  POST /scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid=iat0010c3f2@gz3c620702db45461100 HTTP/1.1
+Host: scs.openspeech.cn
+Connection: Keep-Alive
+Content-Type: application/x-gzip;charset=utf-8
+Content-Length: 591
+User-Agent: iFLYCloud
+Cache-Control: no-cache
+Accept: */*
+
+}ôàQHjﬁ5	ÿJ,q3T∑·äd≈”X)˛ErF∞È”]'~ìê°ˇ⁄B/À’3ÈeﬂÃ¬¬B b≥„¢¥`ﬁ˛√≤€ÚÜÓX2µÅõPb±∞z«*≥ÏX=¥‚ÅT@üF>‰ºO|ü†≈∂nIÌıÕﬁ
+ÆÌ“ñúﬁ2•<‚9^˛îe†ÂÑˇ¥ÛVÜ  
+[2014/06/23 10:22:54 462] network    153  gethttpresp  http://scs.openspeech.cn:80/scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid=iat0010c3f2@gz3c620702db45461100  
+[2014/06/23 10:22:54 524] sessinfo   424  SYS_MSG_SHUTDOWN  
+[2014/06/23 10:22:54 524] sessinfo   176  no receive upload success response  
+[2014/06/23 10:22:54 525] sessinfo   143  new session  
+[2014/06/23 10:22:54 525] sessinfo   144  csid =  cisr1PdHHBHMKLhSBwRmHHdOAuRouNwCLe  
+[2014/06/23 10:22:54 525] sessinfo   146  csid_t =  1403490171  
+[2014/06/23 10:22:54 526] sessinfo   120  perflog session  
+[2014/06/23 10:22:54 526] sessinfo   121  csid =  cisr1PdHHBHMKLhSBwRmHHdOAuRouNwCLe  
+[2014/06/23 10:22:54 526] sessinfo   123  csid_t =  1403490171  
+[2014/06/23 10:22:54 527] sessinfo   143  new session  
+[2014/06/23 10:22:54 527] sessinfo   144  csid =  cisr1PdHHBHMYYCWVvtBHHup1kQVPtS5wA  
+[2014/06/23 10:22:54 527] sessinfo   146  csid_t =  1403159241  
+[2014/06/23 10:22:54 528] sessinfo   120  perflog session  
+[2014/06/23 10:22:54 528] sessinfo   121  csid =  cisr1PdHHBHMKLhSBwRmHHdOAuRouNwCLe  
+[2014/06/23 10:22:54 528] sessinfo   123  csid_t =  1403490171  
+[2014/06/23 10:22:54 530] sessinfo   120  perflog session  
+[2014/06/23 10:22:54 530] sessinfo   121  csid =  cisr1PdHHBHMYYCWVvtBHHup1kQVPtS5wA  
+[2014/06/23 10:22:54 530] sessinfo   123  csid_t =  1403159241  
+[2014/06/23 10:22:54 530] sessinfo   143  new session  
+[2014/06/23 10:22:54 530] sessinfo   144  csid =  cisr1PdHHBHMYY0zVAnKHHtkWHcyBhOmbw  
+[2014/06/23 10:22:54 530] sessinfo   146  csid_t =  1403159226  
+[2014/06/23 10:22:54 531] sessinfo   120  perflog session  
+[2014/06/23 10:22:54 531] sessinfo   121  csid =  cisr1PdHHBHMKLhSBwRmHHdOAuRouNwCLe  
+[2014/06/23 10:22:54 531] sessinfo   123  csid_t =  1403490171  
+[2014/06/23 10:22:54 532] sessinfo   120  perflog session  
+[2014/06/23 10:22:54 533] sessinfo   121  csid =  cisr1PdHHBHMYYCWVvtBHHup1kQVPtS5wA  
+[2014/06/23 10:22:54 533] sessinfo   123  csid_t =  1403159241  
+[2014/06/23 10:22:54 533] sessinfo   120  perflog session  
+[2014/06/23 10:22:54 533] sessinfo   121  csid =  cisr1PdHHBHMYY0zVAnKHHtkWHcyBhOmbw  
+[2014/06/23 10:22:54 533] sessinfo   123  csid_t =  1403159226  
+[2014/06/23 10:22:54 534] sessinfo   143  new session  
+[2014/06/23 10:22:54 534] sessinfo   144  csid =  cisr1PdHHBHMYY0ZVeFyHHtjhH1JPsVwk5  
+[2014/06/23 10:22:54 534] sessinfo   146  csid_t =  1403159199  
+============================================================
+Time  2014/06/23 10:23:16 152 
+============================================================
+[2014/06/23 10:23:16 152] sessinfo   415  session info loaded!  
+[2014/06/23 10:23:16 152] sessinfo   434  SESSIONINFO_CMD  
+[2014/06/23 10:23:16 152] sessinfo   435  have_data_in_queue =   0  
+[2014/06/23 10:23:16 157] sessinfo   460  session info upload start  
+[2014/06/23 10:23:16 157] sessinfo   404  sessinfo new encoder success  
+[2014/06/23 10:23:16 158] sessinfo   383  sessinfo compress success  
+[2014/06/23 10:23:16 158] sessinfo   384  sessinfo after compressed size =   749  
+[2014/06/23 10:23:16 158] sessinfo   388  sessinfo data_encrypt is not nil  
+[2014/06/23 10:23:16 158] sessinfo   269  upload perflog  
+[2014/06/23 10:23:16 158] sessinfo   339  POST /scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid=iat000e5e01@gz3c5e0702db57461100 HTTP/1.1
+Host: scs.openspeech.cn
+Connection: Keep-Alive
+Content-Type: application/x-gzip;charset=utf-8
+Content-Length: 749
+User-Agent: iFLYCloud
+Cache-Control: no-cache
+Accept: */*
+
+}ôÿQHäﬁC	ËJ„9ï‚~CﬁYq8£]è!jÅ›óÆîôH˛⁄˛õi2ﬁNÀ@
+£0óä·ı\â\Q ïæ˘MŸÚ∆˜![°]w2Ùa‹Ë"¡7  
+[2014/06/23 10:23:16 158] network    153  gethttpresp  http://scs.openspeech.cn:80/scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid=iat000e5e01@gz3c5e0702db57461100  
+[2014/06/23 10:23:16 185] network    22   dns resp  0  
+[2014/06/23 10:23:16 185] network    157  gethttpresp dns ok  220.178.7.101  
+[2014/06/23 10:23:16 185] network    47   gethttpresp2  220.178.7.101  80  
+[2014/06/23 10:23:16 251] sessinfo   424  SYS_MSG_SHUTDOWN  
+[2014/06/23 10:23:16 251] sessinfo   176  no receive upload success response  
+[2014/06/23 10:23:16 252] sessinfo   143  new session  
+[2014/06/23 10:23:16 252] sessinfo   144  csid =  cisr1PdHHBHMKLRCBlmmHH0ZlkZ6mM7BDI  
+[2014/06/23 10:23:16 252] sessinfo   146  csid_t =  1403490187  
+[2014/06/23 10:23:16 254] sessinfo   120  perflog session  
+[2014/06/23 10:23:16 254] sessinfo   121  csid =  cisr1PdHHBHMKLRCBlmmHH0ZlkZ6mM7BDI  
+[2014/06/23 10:23:16 254] sessinfo   123  csid_t =  1403490187  
+[2014/06/23 10:23:16 255] sessinfo   143  new session  
+[2014/06/23 10:23:16 255] sessinfo   144  csid =  cisr1PdHHBHMKLhSBwRmHHdOAuRouNwCLe  
+[2014/06/23 10:23:16 255] sessinfo   146  csid_t =  1403490171  
+[2014/06/23 10:23:16 256] sessinfo   120  perflog session  
+[2014/06/23 10:23:16 256] sessinfo   121  csid =  cisr1PdHHBHMKLRCBlmmHH0ZlkZ6mM7BDI  
+[2014/06/23 10:23:16 256] sessinfo   123  csid_t =  1403490187  
+[2014/06/23 10:23:16 257] sessinfo   120  perflog session  
+[2014/06/23 10:23:16 257] sessinfo   121  csid =  cisr1PdHHBHMKLhSBwRmHHdOAuRouNwCLe  
+[2014/06/23 10:23:16 257] sessinfo   123  csid_t =  1403490171  
+[2014/06/23 10:23:16 258] sessinfo   143  new session  
+[2014/06/23 10:23:16 258] sessinfo   144  csid =  cisr1PdHHBHMYYCWVvtBHHup1kQVPtS5wA  
+[2014/06/23 10:23:16 258] sessinfo   146  csid_t =  1403159241  
+[2014/06/23 10:23:16 260] sessinfo   120  perflog session  
+[2014/06/23 10:23:16 260] sessinfo   121  csid =  cisr1PdHHBHMKLRCBlmmHH0ZlkZ6mM7BDI  
+[2014/06/23 10:23:16 260] sessinfo   123  csid_t =  1403490187  
+[2014/06/23 10:23:16 260] sessinfo   120  perflog session  
+[2014/06/23 10:23:16 260] sessinfo   121  csid =  cisr1PdHHBHMKLhSBwRmHHdOAuRouNwCLe  
+[2014/06/23 10:23:16 261] sessinfo   123  csid_t =  1403490171  
+[2014/06/23 10:23:16 262] sessinfo   120  perflog session  
+[2014/06/23 10:23:16 262] sessinfo   121  csid =  cisr1PdHHBHMYYCWVvtBHHup1kQVPtS5wA  
+[2014/06/23 10:23:16 262] sessinfo   123  csid_t =  1403159241  
+[2014/06/23 10:23:16 262] sessinfo   143  new session  
+[2014/06/23 10:23:16 262] sessinfo   144  csid =  cisr1PdHHBHMYY0zVAnKHHtkWHcyBhOmbw  
+[2014/06/23 10:23:16 262] sessinfo   146  csid_t =  1403159226  
+============================================================
+Time  2014/06/23 22:54:59 145 
+============================================================
+[2014/06/23 22:54:59 145] sessinfo   415  session info loaded!  
+[2014/06/23 22:54:59 174] sessinfo   434  SESSIONINFO_CMD  
+[2014/06/23 22:54:59 174] sessinfo   435  have_data_in_queue =   0  
+[2014/06/23 22:54:59 191] sessinfo   460  session info upload start  
+[2014/06/23 22:54:59 191] sessinfo   404  sessinfo new encoder success  
+[2014/06/23 22:54:59 192] sessinfo   383  sessinfo compress success  
+[2014/06/23 22:54:59 192] sessinfo   384  sessinfo after compressed size =   687  
+[2014/06/23 22:54:59 192] sessinfo   388  sessinfo data_encrypt is not nil  
+[2014/06/23 22:54:59 192] sessinfo   269  upload perflog  
+[2014/06/23 22:54:59 192] sessinfo   339  POST /scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid=iat00055664@gz3c9f07038b85460d00 HTTP/1.1
+Host: scs.openspeech.cn
+Connection: Keep-Alive
+Content-Type: application/x-gzip;charset=utf-8
+Content-Length: 687
+User-Agent: iFLYCloud
+Cache-Control: no-cache
+Accept: */*
+
+}ô»Qƒkﬁ5	ÿ¢;ã-O∑òd≈µFUÒµÉßuh¢0üﬂú`†Ëè˚˛‡Ë+ækEG:Ã'¸A;ˇ,ﬁà“Çkœ”‡ëv£∑’Äï®ö∑=Ëµ~6 ˛o–sÇ˘5ÛH“È√›„»µ+ØﬂÎ$∫úÍÂ0…6KÇºﬂo¥‘Åª¿K÷ÇåÀm∂¸±¸oÎ  Ó ˆ≤t∂<˛{ ?Ú`u{&<˛8Àø/"X·√„Açä¯?sp⁄p
+]HwmêÔÛ∑D◊?Xå∂!ÔÓ\nËôÚÛÊ*kØ®+1íR†∂[≤_ßíË*Ê}∫J[ãnfnRbN—∆[«'@>Úróﬂm∑.ËRÉJâ\>é⁄å¨˝}πN¬Ãúœlh®  
+[2014/06/23 22:54:59 192] network    153  gethttpresp  http://scs.openspeech.cn:80/scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid=iat00055664@gz3c9f07038b85460d00  
+[2014/06/23 22:54:59 288] sessinfo   424  SYS_MSG_SHUTDOWN  
+[2014/06/23 22:54:59 288] sessinfo   176  no receive upload success response  
+[2014/06/23 22:54:59 289] sessinfo   143  new session  
+[2014/06/23 22:54:59 289] sessinfo   144  csid =  cisr1P1HHBHM2wRRaCtVoHHPWbuPe5Fn56H  
+[2014/06/23 22:54:59 289] sessinfo   146  csid_t =  1403535294  
+[2014/06/23 22:54:59 290] sessinfo   120  perflog session  
+[2014/06/23 22:54:59 290] sessinfo   121  csid =  cisr1P1HHBHM2wRRaCtVoHHPWbuPe5Fn56H  
+[2014/06/23 22:54:59 290] sessinfo   123  csid_t =  1403535294  
+[2014/06/23 22:54:59 291] sessinfo   143  new session  
+[2014/06/23 22:54:59 291] sessinfo   144  csid =  cisr1PdHHBHMKLRCBlmmHH0ZlkZ6mM7BDI  
+[2014/06/23 22:54:59 291] sessinfo   146  csid_t =  1403490187  
+[2014/06/23 22:54:59 293] sessinfo   120  perflog session  
+[2014/06/23 22:54:59 293] sessinfo   121  csid =  cisr1P1HHBHM2wRRaCtVoHHPWbuPe5Fn56H  
+[2014/06/23 22:54:59 293] sessinfo   123  csid_t =  1403535294  
+[2014/06/23 22:54:59 294] sessinfo   120  perflog session  
+[2014/06/23 22:54:59 294] sessinfo   121  csid =  cisr1PdHHBHMKLRCBlmmHH0ZlkZ6mM7BDI  
+[2014/06/23 22:54:59 294] sessinfo   123  csid_t =  1403490187  
+[2014/06/23 22:54:59 294] sessinfo   143  new session  
+[2014/06/23 22:54:59 294] sessinfo   144  csid =  cisr1PdHHBHMKLhSBwRmHHdOAuRouNwCLe  
+[2014/06/23 22:54:59 294] sessinfo   146  csid_t =  1403490171  
+[2014/06/23 22:54:59 296] sessinfo   120  perflog session  
+[2014/06/23 22:54:59 296] sessinfo   121  csid =  cisr1P1HHBHM2wRRaCtVoHHPWbuPe5Fn56H  
+[2014/06/23 22:54:59 296] sessinfo   123  csid_t =  1403535294  
+[2014/06/23 22:54:59 297] sessinfo   120  perflog session  
+[2014/06/23 22:54:59 297] sessinfo   121  csid =  cisr1PdHHBHMKLRCBlmmHH0ZlkZ6mM7BDI  
+[2014/06/23 22:54:59 297] sessinfo   123  csid_t =  1403490187  
+[2014/06/23 22:54:59 297] sessinfo   120  perflog session  
+[2014/06/23 22:54:59 298] sessinfo   121  csid =  cisr1PdHHBHMKLhSBwRmHHdOAuRouNwCLe  
+[2014/06/23 22:54:59 298] sessinfo   123  csid_t =  1403490171  
+[2014/06/23 22:54:59 299] sessinfo   143  new session  
+[2014/06/23 22:54:59 299] sessinfo   144  csid =  cisr1PdHHBHMYYCWVvtBHHup1kQVPtS5wA  
+[2014/06/23 22:54:59 299] sessinfo   146  csid_t =  1403159241  
+============================================================
+Time  2014/06/23 22:56:51 598 
+============================================================
+[2014/06/23 22:56:51 598] sessinfo   415  session info loaded!  
+[2014/06/23 22:56:51 598] sessinfo   434  SESSIONINFO_CMD  
+[2014/06/23 22:56:51 598] sessinfo   435  have_data_in_queue =   0  
+[2014/06/23 22:56:51 603] sessinfo   460  session info upload start  
+[2014/06/23 22:56:51 603] sessinfo   404  sessinfo new encoder success  
+[2014/06/23 22:56:51 604] sessinfo   383  sessinfo compress success  
+[2014/06/23 22:56:51 604] sessinfo   384  sessinfo after compressed size =   705  
+[2014/06/23 22:56:51 604] sessinfo   388  sessinfo data_encrypt is not nil  
+[2014/06/23 22:56:51 604] sessinfo   269  upload perflog  
+[2014/06/23 22:56:51 604] sessinfo   339  POST /scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid=iat00155029@gz3c0c07038bf5460d00 HTTP/1.1
+Host: scs.openspeech.cn
+Connection: Keep-Alive
+Content-Type: application/x-gzip;charset=utf-8
+Content-Length: 705
+User-Agent: iFLYCloud
+Cache-Control: no-cache
+Accept: */*
+
+}ô»QŒkﬁ5È¢97íJL@Ñß
+≈ÇÌ†íÉ§Mw'QìYTwó˚ÚÀ◊K‘[h
+ßÉæŒ‡Î	Ãbﬁ@¸)Éh6Uïß_sß¡›qÊÔü˘Ó¨üﬁ2·êWGècÎÛ(Ÿ_îX,∫◊„OÓ◊¸◊ˇ.ÆAQÇF“%«úOﬁœP5¿Î≈É'&7h6R„ônLté”À\[|©üËÚ˚›éWƒ<‰*Î‚¸U´SH~…ãfR≤p:+HS
+MµÔÉ£x…Î‚8ÍµŸ'øÆcÂ?£πp"ˇIÓæ"ÿÈ:QÍ¬[™“˛‡nP8ÒZ‚äŒ` Êdâl ˆGaTèôVø}~Ú∆—ØSDú˘s‚©RHg$˚Ä  
+[2014/06/23 22:56:51 604] network    153  gethttpresp  http://scs.openspeech.cn:80/scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid=iat00155029@gz3c0c07038bf5460d00  
+[2014/06/23 22:56:51 650] network    22   dns resp  0  
+[2014/06/23 22:56:51 650] network    157  gethttpresp dns ok  220.178.7.101  
+[2014/06/23 22:56:51 650] network    47   gethttpresp2  220.178.7.101  80  
+[2014/06/23 22:56:51 697] sessinfo   424  SYS_MSG_SHUTDOWN  
+[2014/06/23 22:56:51 697] sessinfo   176  no receive upload success response  
+[2014/06/23 22:56:51 698] sessinfo   143  new session  
+[2014/06/23 22:56:51 698] sessinfo   144  csid =  cisr1P1HHBHM2dmDaCol2HHmuZaawlUxtEu  
+[2014/06/23 22:56:51 698] sessinfo   146  csid_t =  1403535406  
+[2014/06/23 22:56:51 699] sessinfo   120  perflog session  
+[2014/06/23 22:56:51 699] sessinfo   121  csid =  cisr1P1HHBHM2dmDaCol2HHmuZaawlUxtEu  
+[2014/06/23 22:56:51 700] sessinfo   123  csid_t =  1403535406  
+[2014/06/23 22:56:51 700] sessinfo   143  new session  
+[2014/06/23 22:56:51 700] sessinfo   144  csid =  cisr1P1HHBHM2wRRaCtVoHHPWbuPe5Fn56H  
+[2014/06/23 22:56:51 701] sessinfo   146  csid_t =  1403535294  
+[2014/06/23 22:56:51 702] sessinfo   120  perflog session  
+[2014/06/23 22:56:51 702] sessinfo   121  csid =  cisr1P1HHBHM2dmDaCol2HHmuZaawlUxtEu  
+[2014/06/23 22:56:51 702] sessinfo   123  csid_t =  1403535406  
+[2014/06/23 22:56:51 703] sessinfo   120  perflog session  
+[2014/06/23 22:56:51 703] sessinfo   121  csid =  cisr1P1HHBHM2wRRaCtVoHHPWbuPe5Fn56H  
+[2014/06/23 22:56:51 703] sessinfo   123  csid_t =  1403535294  
+[2014/06/23 22:56:51 704] sessinfo   143  new session  
+[2014/06/23 22:56:51 704] sessinfo   144  csid =  cisr1PdHHBHMKLRCBlmmHH0ZlkZ6mM7BDI  
+[2014/06/23 22:56:51 704] sessinfo   146  csid_t =  1403490187  
+[2014/06/23 22:56:51 705] sessinfo   120  perflog session  
+[2014/06/23 22:56:51 705] sessinfo   121  csid =  cisr1P1HHBHM2dmDaCol2HHmuZaawlUxtEu  
+[2014/06/23 22:56:51 706] sessinfo   123  csid_t =  1403535406  
+[2014/06/23 22:56:51 707] sessinfo   120  perflog session  
+[2014/06/23 22:56:51 707] sessinfo   121  csid =  cisr1P1HHBHM2wRRaCtVoHHPWbuPe5Fn56H  
+[2014/06/23 22:56:51 707] sessinfo   123  csid_t =  1403535294  
+[2014/06/23 22:56:51 708] sessinfo   120  perflog session  
+[2014/06/23 22:56:51 708] sessinfo   121  csid =  cisr1PdHHBHMKLRCBlmmHH0ZlkZ6mM7BDI  
+[2014/06/23 22:56:51 708] sessinfo   123  csid_t =  1403490187  
+[2014/06/23 22:56:51 708] sessinfo   143  new session  
+[2014/06/23 22:56:51 708] sessinfo   144  csid =  cisr1PdHHBHMKLhSBwRmHHdOAuRouNwCLe  
+[2014/06/23 22:56:51 708] sessinfo   146  csid_t =  1403490171  
+============================================================
+Time  2014/06/23 22:57:07 409 
+============================================================
+[2014/06/23 22:57:07 410] sessinfo   415  session info loaded!  
+[2014/06/23 22:57:07 410] sessinfo   434  SESSIONINFO_CMD  
+[2014/06/23 22:57:07 410] sessinfo   435  have_data_in_queue =   0  
+[2014/06/23 22:57:07 415] sessinfo   460  session info upload start  
+[2014/06/23 22:57:07 415] sessinfo   404  sessinfo new encoder success  
+[2014/06/23 22:57:07 416] sessinfo   383  sessinfo compress success  
+[2014/06/23 22:57:07 416] sessinfo   384  sessinfo after compressed size =   618  
+[2014/06/23 22:57:07 416] sessinfo   388  sessinfo data_encrypt is not nil  
+[2014/06/23 22:57:07 416] sessinfo   269  upload perflog  
+[2014/06/23 22:57:07 416] sessinfo   339  POST /scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid=iat0014daf4@gz3c6b07038c07460d00 HTTP/1.1
+Host: scs.openspeech.cn
+Connection: Keep-Alive
+Content-Type: application/x-gzip;charset=utf-8
+Content-Length: 618
+User-Agent: iFLYCloud
+Cache-Control: no-cache
+Accept: */*
+
+}ô†Q>jﬁ5ÎJ=∂˜Ù,‘@Ñ'\9!mÉ  
+[2014/06/23 22:57:07 416] network    153  gethttpresp  http://scs.openspeech.cn:80/scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid=iat0014daf4@gz3c6b07038c07460d00  
+[2014/06/23 22:57:07 432] network    22   dns resp  0  
+[2014/06/23 22:57:07 432] network    157  gethttpresp dns ok  220.178.7.101  
+[2014/06/23 22:57:07 432] network    47   gethttpresp2  220.178.7.101  80  
+[2014/06/23 22:57:07 509] sessinfo   424  SYS_MSG_SHUTDOWN  
+[2014/06/23 22:57:07 509] sessinfo   176  no receive upload success response  
+[2014/06/23 22:57:07 509] sessinfo   143  new session  
+[2014/06/23 22:57:07 510] sessinfo   144  csid =  cisr1P1HHBHM2dHmaCOxBHHCXT1xnPM3t-w  
+[2014/06/23 22:57:07 510] sessinfo   146  csid_t =  1403535424  
+[2014/06/23 22:57:07 511] sessinfo   120  perflog session  
+[2014/06/23 22:57:07 511] sessinfo   121  csid =  cisr1P1HHBHM2dHmaCOxBHHCXT1xnPM3t-w  
+[2014/06/23 22:57:07 511] sessinfo   123  csid_t =  1403535424  
+[2014/06/23 22:57:07 512] sessinfo   143  new session  
+[2014/06/23 22:57:07 512] sessinfo   144  csid =  cisr1P1HHBHM2dmDaCol2HHmuZaawlUxtEu  
+[2014/06/23 22:57:07 512] sessinfo   146  csid_t =  1403535406  
+[2014/06/23 22:57:07 513] sessinfo   120  perflog session  
+[2014/06/23 22:57:07 513] sessinfo   121  csid =  cisr1P1HHBHM2dHmaCOxBHHCXT1xnPM3t-w  
+[2014/06/23 22:57:07 513] sessinfo   123  csid_t =  1403535424  
+[2014/06/23 22:57:07 514] sessinfo   120  perflog session  
+[2014/06/23 22:57:07 514] sessinfo   121  csid =  cisr1P1HHBHM2dmDaCol2HHmuZaawlUxtEu  
+[2014/06/23 22:57:07 514] sessinfo   123  csid_t =  1403535406  
+[2014/06/23 22:57:07 515] sessinfo   143  new session  
+[2014/06/23 22:57:07 515] sessinfo   144  csid =  cisr1P1HHBHM2wRRaCtVoHHPWbuPe5Fn56H  
+[2014/06/23 22:57:07 515] sessinfo   146  csid_t =  1403535294  
+[2014/06/23 22:57:07 516] sessinfo   120  perflog session  
+[2014/06/23 22:57:07 516] sessinfo   121  csid =  cisr1P1HHBHM2dHmaCOxBHHCXT1xnPM3t-w  
+[2014/06/23 22:57:07 516] sessinfo   123  csid_t =  1403535424  
+[2014/06/23 22:57:07 517] sessinfo   120  perflog session  
+[2014/06/23 22:57:07 517] sessinfo   121  csid =  cisr1P1HHBHM2dmDaCol2HHmuZaawlUxtEu  
+[2014/06/23 22:57:07 517] sessinfo   123  csid_t =  1403535406  
+[2014/06/23 22:57:07 518] sessinfo   120  perflog session  
+[2014/06/23 22:57:07 518] sessinfo   121  csid =  cisr1P1HHBHM2wRRaCtVoHHPWbuPe5Fn56H  
+[2014/06/23 22:57:07 518] sessinfo   123  csid_t =  1403535294  
+[2014/06/23 22:57:07 519] sessinfo   143  new session  
+[2014/06/23 22:57:07 519] sessinfo   144  csid =  cisr1PdHHBHMKLRCBlmmHH0ZlkZ6mM7BDI  
+[2014/06/23 22:57:07 519] sessinfo   146  csid_t =  1403490187  
+============================================================
+Time  2014/06/23 22:59:14 713 
+============================================================
+[2014/06/23 22:59:14 713] sessinfo   415  session info loaded!  
+[2014/06/23 22:59:14 713] sessinfo   434  SESSIONINFO_CMD  
+[2014/06/23 22:59:14 714] sessinfo   435  have_data_in_queue =   0  
+[2014/06/23 22:59:14 718] sessinfo   460  session info upload start  
+[2014/06/23 22:59:14 719] sessinfo   404  sessinfo new encoder success  
+[2014/06/23 22:59:14 719] sessinfo   383  sessinfo compress success  
+[2014/06/23 22:59:14 719] sessinfo   384  sessinfo after compressed size =   797  
+[2014/06/23 22:59:14 719] sessinfo   388  sessinfo data_encrypt is not nil  
+[2014/06/23 22:59:14 719] sessinfo   269  upload perflog  
+[2014/06/23 22:59:14 719] sessinfo   339  POST /scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid=iat00150be3@gz3c7407038c81460d00 HTTP/1.1
+Host: scs.openspeech.cn
+Connection: Keep-Alive
+Content-Type: application/x-gzip;charset=utf-8
+Content-Length: 797
+User-Agent: iFLYCloud
+Cache-Control: no-cache
+Accept: */*
+
+}ô‡êHjŸ3É˛V[∆o<˘W<Ë$	UÉ'ÃãÂ∞±†à∆˙8ÍUû'ºÒ±Ç∏˘õ|cÕxS÷µØ„\H≤ÚNÉˇ>w·àÛXæ¨ÉG◊˛›fY_wÇ$TË…+∫ÕR¯˝ê=vQn+	˜˘ÖU(é;(%∞ ˇ≠b∂ö˛a(’ós#lo»£”⁄üâ#∆5ìMñfù%è@ ∑üo≥Ü5ìò≥õe~h&ƒ!-b•åw±ˆ	∆¡ﬂ@É¨§πÑ˜SëÊÉ@ Tã`àµ•9ƒ´pçñ]√-ÛIüò0üxÅdNüfÅ¨§ßƒm±”ÔÌ'I•ˇc
+‡Ep5†?ø|éb∞‡§*∞V?©yÅ€N\vóüéƒü®Kˆ¯`]Q¶≠ßœ,(N,–ËöWHëµiægBNRÈA<AËÇÇb[“˝óÂâ	yÖLßo-N#yÖÙMòÕ§àß∑‚	◊·5KëB'€},-Ö"Jõ9}.Â®Ö≤€}"ÂòÖr€}tè º)Ã`L+èCóŒóŸ-ÃàóŸ-ÃàóŸ-Ã∂vôÎ@+"~&L˘Zv∂
+‚ió˜Ÿ´ˇ_D∫πsﬁ ™≈s®UCÄÀ\œtÀ≤¸.ë2KﬁñGzwº±¯h;Œ)ôî2πoiRQw~;äΩ  
+[2014/06/23 22:59:14 719] network    153  gethttpresp  http://scs.openspeech.cn:80/scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid=iat00150be3@gz3c7407038c81460d00  
+[2014/06/23 22:59:14 735] network    22   dns resp  0  
+[2014/06/23 22:59:14 735] network    157  gethttpresp dns ok  60.166.12.146  
+[2014/06/23 22:59:14 735] network    47   gethttpresp2  60.166.12.146  80  
+[2014/06/23 22:59:14 796] network    72   connected  
+[2014/06/23 22:59:14 796] network    75   send ok  1073  
+[2014/06/23 22:59:14 813] sessinfo   424  SYS_MSG_SHUTDOWN  
+[2014/06/23 22:59:14 813] sessinfo   176  no receive upload success response  
+[2014/06/23 22:59:14 814] sessinfo   143  new session  
+[2014/06/23 22:59:14 814] sessinfo   144  csid =  cisr1P1HHBHM2dazaB1-7HHaXqk7uH5+wxa  
+[2014/06/23 22:59:14 814] sessinfo   146  csid_t =  1403535546  
+[2014/06/23 22:59:14 816] sessinfo   120  perflog session  
+[2014/06/23 22:59:14 816] sessinfo   121  csid =  cisr1P1HHBHM2dazaB1-7HHaXqk7uH5+wxa  
+[2014/06/23 22:59:14 816] sessinfo   123  csid_t =  1403535546  
+[2014/06/23 22:59:14 817] sessinfo   143  new session  
+[2014/06/23 22:59:14 817] sessinfo   144  csid =  cisr1P1HHBHM2dHmaCOxBHHCXT1xnPM3t-w  
+[2014/06/23 22:59:14 817] sessinfo   146  csid_t =  1403535424  
+[2014/06/23 22:59:14 818] sessinfo   120  perflog session  
+[2014/06/23 22:59:14 818] sessinfo   121  csid =  cisr1P1HHBHM2dazaB1-7HHaXqk7uH5+wxa  
+[2014/06/23 22:59:14 818] sessinfo   123  csid_t =  1403535546  
+[2014/06/23 22:59:14 819] sessinfo   120  perflog session  
+[2014/06/23 22:59:14 819] sessinfo   121  csid =  cisr1P1HHBHM2dHmaCOxBHHCXT1xnPM3t-w  
+[2014/06/23 22:59:14 819] sessinfo   123  csid_t =  1403535424  
+[2014/06/23 22:59:14 820] sessinfo   143  new session  
+[2014/06/23 22:59:14 820] sessinfo   144  csid =  cisr1P1HHBHM2dmDaCol2HHmuZaawlUxtEu  
+[2014/06/23 22:59:14 820] sessinfo   146  csid_t =  1403535406  
+[2014/06/23 22:59:14 822] sessinfo   120  perflog session  
+[2014/06/23 22:59:14 822] sessinfo   121  csid =  cisr1P1HHBHM2dazaB1-7HHaXqk7uH5+wxa  
+[2014/06/23 22:59:14 822] sessinfo   123  csid_t =  1403535546  
+[2014/06/23 22:59:14 822] sessinfo   120  perflog session  
+[2014/06/23 22:59:14 822] sessinfo   121  csid =  cisr1P1HHBHM2dHmaCOxBHHCXT1xnPM3t-w  
+[2014/06/23 22:59:14 822] sessinfo   123  csid_t =  1403535424  
+[2014/06/23 22:59:14 823] sessinfo   120  perflog session  
+[2014/06/23 22:59:14 823] sessinfo   121  csid =  cisr1P1HHBHM2dmDaCol2HHmuZaawlUxtEu  
+[2014/06/23 22:59:14 823] sessinfo   123  csid_t =  1403535406  
+[2014/06/23 22:59:14 824] sessinfo   143  new session  
+[2014/06/23 22:59:14 824] sessinfo   144  csid =  cisr1P1HHBHM2wRRaCtVoHHPWbuPe5Fn56H  
+[2014/06/23 22:59:14 824] sessinfo   146  csid_t =  1403535294  
+============================================================
+Time  2014/06/23 23:02:23 870 
+============================================================
+[2014/06/23 23:02:23 870] sessinfo   415  session info loaded!  
+[2014/06/23 23:02:23 870] sessinfo   434  SESSIONINFO_CMD  
+[2014/06/23 23:02:23 870] sessinfo   435  have_data_in_queue =   0  
+[2014/06/23 23:02:23 875] sessinfo   460  session info upload start  
+[2014/06/23 23:02:23 875] sessinfo   404  sessinfo new encoder success  
+[2014/06/23 23:02:23 876] sessinfo   383  sessinfo compress success  
+[2014/06/23 23:02:23 876] sessinfo   384  sessinfo after compressed size =   674  
+[2014/06/23 23:02:23 876] sessinfo   388  sessinfo data_encrypt is not nil  
+[2014/06/23 23:02:23 876] sessinfo   269  upload perflog  
+[2014/06/23 23:02:23 876] sessinfo   339  POST /scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid=iat0000e9e3@gz3c9e07038d42460d00 HTTP/1.1
+Host: scs.openspeech.cn
+Connection: Keep-Alive
+Content-Type: application/x-gzip;charset=utf-8
+Content-Length: 674
+User-Agent: iFLYCloud
+Cache-Control: no-cache
+Accept: */*
+
+}ô¿QNj—5„¢Q;B\äZ|%!—ﬂFîèÂÉØ/à∏h¡3t∑(Q¯ÍyÊ°á[=«O>ú¥∫|›6ööAcT:å˚ˇsè’ª¨éÆ	sâ2ß”¡Ô^T"•&EAs∆T@lÍ›)u≠SÊ≈‹'ÏVt‹m%c∞=,∞)6fŒ…Ã/.iêP˝óÅGèaCﬂD]"‚%O”/Ωd∂…ëw/VÉ%)9Q§`£O¢ë%ª_ñÃ±tã∞«$`TΩâ.KÇlÇ†9ås˝≥9(Âæ¡Â§9"—Ùd˝?qÄ˝˙Â™±º_÷ß/Pº›œ;bgçŸ¬$[¬’¡@“*äÓ4¡±vo˘ÚÊO(s=ómæ=‘ ËÚ‚˛äœ÷‚„π˝wº⁄:Ω«z?∫i¶˙E‚J›@‰7êá»îôÀcgÁÙD≈0[“…∫U  
+[2014/06/23 23:02:23 876] network    153  gethttpresp  http://scs.openspeech.cn:80/scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid=iat0000e9e3@gz3c9e07038d42460d00  
+[2014/06/23 23:02:23 892] network    22   dns resp  0  
+[2014/06/23 23:02:23 893] network    157  gethttpresp dns ok  220.178.7.102  
+[2014/06/23 23:02:23 893] network    47   gethttpresp2  220.178.7.102  80  
+[2014/06/23 23:02:23 953] network    72   connected  
+[2014/06/23 23:02:23 954] network    75   send ok  950  
+[2014/06/23 23:02:23 969] sessinfo   424  SYS_MSG_SHUTDOWN  
+[2014/06/23 23:02:23 969] sessinfo   176  no receive upload success response  
+[2014/06/23 23:02:23 970] sessinfo   143  new session  
+[2014/06/23 23:02:23 970] sessinfo   144  csid =  cisr1P1HHBHM2d1SaB7TPHHw67dQBPcsdF1  
+[2014/06/23 23:02:23 970] sessinfo   146  csid_t =  1403535739  
+[2014/06/23 23:02:23 971] sessinfo   120  perflog session  
+[2014/06/23 23:02:23 971] sessinfo   121  csid =  cisr1P1HHBHM2d1SaB7TPHHw67dQBPcsdF1  
+[2014/06/23 23:02:23 971] sessinfo   123  csid_t =  1403535739  
+[2014/06/23 23:02:23 973] sessinfo   143  new session  
+[2014/06/23 23:02:23 973] sessinfo   144  csid =  cisr1P1HHBHM2dazaB1-7HHaXqk7uH5+wxa  
+[2014/06/23 23:02:23 973] sessinfo   146  csid_t =  1403535546  
+[2014/06/23 23:02:23 974] sessinfo   120  perflog session  
+[2014/06/23 23:02:23 974] sessinfo   121  csid =  cisr1P1HHBHM2d1SaB7TPHHw67dQBPcsdF1  
+[2014/06/23 23:02:23 974] sessinfo   123  csid_t =  1403535739  
+[2014/06/23 23:02:23 975] sessinfo   120  perflog session  
+[2014/06/23 23:02:23 975] sessinfo   121  csid =  cisr1P1HHBHM2dazaB1-7HHaXqk7uH5+wxa  
+[2014/06/23 23:02:23 975] sessinfo   123  csid_t =  1403535546  
+[2014/06/23 23:02:23 976] sessinfo   143  new session  
+[2014/06/23 23:02:23 976] sessinfo   144  csid =  cisr1P1HHBHM2dHmaCOxBHHCXT1xnPM3t-w  
+[2014/06/23 23:02:23 976] sessinfo   146  csid_t =  1403535424  
+[2014/06/23 23:02:23 977] sessinfo   120  perflog session  
+[2014/06/23 23:02:23 977] sessinfo   121  csid =  cisr1P1HHBHM2d1SaB7TPHHw67dQBPcsdF1  
+[2014/06/23 23:02:23 977] sessinfo   123  csid_t =  1403535739  
+[2014/06/23 23:02:23 978] sessinfo   120  perflog session  
+[2014/06/23 23:02:23 978] sessinfo   121  csid =  cisr1P1HHBHM2dazaB1-7HHaXqk7uH5+wxa  
+[2014/06/23 23:02:23 978] sessinfo   123  csid_t =  1403535546  
+[2014/06/23 23:02:23 979] sessinfo   120  perflog session  
+[2014/06/23 23:02:23 979] sessinfo   121  csid =  cisr1P1HHBHM2dHmaCOxBHHCXT1xnPM3t-w  
+[2014/06/23 23:02:23 979] sessinfo   123  csid_t =  1403535424  
+[2014/06/23 23:02:23 980] sessinfo   143  new session  
+[2014/06/23 23:02:23 980] sessinfo   144  csid =  cisr1P1HHBHM2dmDaCol2HHmuZaawlUxtEu  
+[2014/06/23 23:02:23 980] sessinfo   146  csid_t =  1403535406  
+============================================================
+Time  2014/06/23 23:02:41 022 
+============================================================
+[2014/06/23 23:02:41 022] sessinfo   415  session info loaded!  
+[2014/06/23 23:02:41 022] sessinfo   434  SESSIONINFO_CMD  
+[2014/06/23 23:02:41 022] sessinfo   435  have_data_in_queue =   0  
+[2014/06/23 23:02:41 024] sessinfo   460  session info upload start  
+[2014/06/23 23:02:41 024] sessinfo   404  sessinfo new encoder success  
+[2014/06/23 23:02:41 024] sessinfo   383  sessinfo compress success  
+[2014/06/23 23:02:41 024] sessinfo   384  sessinfo after compressed size =   668  
+[2014/06/23 23:02:41 024] sessinfo   388  sessinfo data_encrypt is not nil  
+[2014/06/23 23:02:41 024] sessinfo   269  upload perflog  
+[2014/06/23 23:02:41 024] sessinfo   339  POST /scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid=iat0014d9fb@gz3c7a07038d53460d00 HTTP/1.1
+Host: scs.openspeech.cn
+Connection: Keep-Alive
+Content-Type: application/x-gzip;charset=utf-8
+Content-Length: 668
+User-Agent: iFLYCloud
+Cache-Control: no-cache
+Accept: */*
+
+}ô¿QHä÷5‡¢©y≥Wä∫˜Ñï’õèQ°∏)ØπLﬂà≥HOôëXS¯ÍπLWãuÌ·‹õäÚcÈªè4”∏-[¿Ω8ÒTSñó]¡]fd9Ù'â⁄
+ß˝Á®W˜z'WúQZ;˝mLÀM¶â±˝``Ô©…Ù   
+[2014/06/23 23:02:41 024] network    153  gethttpresp  http://scs.openspeech.cn:80/scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid=iat0014d9fb@gz3c7a07038d53460d00  
+[2014/06/23 23:02:41 028] network    22   dns resp  0  
+[2014/06/23 23:02:41 029] network    157  gethttpresp dns ok  220.178.7.102  
+[2014/06/23 23:02:41 029] network    47   gethttpresp2  220.178.7.102  80  
+[2014/06/23 23:02:41 089] network    72   connected  
+[2014/06/23 23:02:41 090] network    75   send ok  944  
+[2014/06/23 23:02:41 121] sessinfo   424  SYS_MSG_SHUTDOWN  
+[2014/06/23 23:02:41 121] sessinfo   176  no receive upload success response  
+[2014/06/23 23:02:41 122] sessinfo   143  new session  
+[2014/06/23 23:02:41 122] sessinfo   144  csid =  cisr1P1HHBHM2dPBaBLIiHHHUV0fUWLkmd5  
+[2014/06/23 23:02:41 122] sessinfo   146  csid_t =  1403535756  
+[2014/06/23 23:02:41 123] sessinfo   120  perflog session  
+[2014/06/23 23:02:41 123] sessinfo   121  csid =  cisr1P1HHBHM2dPBaBLIiHHHUV0fUWLkmd5  
+[2014/06/23 23:02:41 123] sessinfo   123  csid_t =  1403535756  
+[2014/06/23 23:02:41 124] sessinfo   143  new session  
+[2014/06/23 23:02:41 124] sessinfo   144  csid =  cisr1P1HHBHM2d1SaB7TPHHw67dQBPcsdF1  
+[2014/06/23 23:02:41 124] sessinfo   146  csid_t =  1403535739  
+[2014/06/23 23:02:41 125] sessinfo   120  perflog session  
+[2014/06/23 23:02:41 125] sessinfo   121  csid =  cisr1P1HHBHM2dPBaBLIiHHHUV0fUWLkmd5  
+[2014/06/23 23:02:41 125] sessinfo   123  csid_t =  1403535756  
+[2014/06/23 23:02:41 126] sessinfo   120  perflog session  
+[2014/06/23 23:02:41 126] sessinfo   121  csid =  cisr1P1HHBHM2d1SaB7TPHHw67dQBPcsdF1  
+[2014/06/23 23:02:41 126] sessinfo   123  csid_t =  1403535739  
+[2014/06/23 23:02:41 127] sessinfo   143  new session  
+[2014/06/23 23:02:41 127] sessinfo   144  csid =  cisr1P1HHBHM2dazaB1-7HHaXqk7uH5+wxa  
+[2014/06/23 23:02:41 127] sessinfo   146  csid_t =  1403535546  
+[2014/06/23 23:02:41 129] sessinfo   120  perflog session  
+[2014/06/23 23:02:41 129] sessinfo   121  csid =  cisr1P1HHBHM2dPBaBLIiHHHUV0fUWLkmd5  
+[2014/06/23 23:02:41 129] sessinfo   123  csid_t =  1403535756  
+[2014/06/23 23:02:41 129] sessinfo   120  perflog session  
+[2014/06/23 23:02:41 130] sessinfo   121  csid =  cisr1P1HHBHM2d1SaB7TPHHw67dQBPcsdF1  
+[2014/06/23 23:02:41 130] sessinfo   123  csid_t =  1403535739  
+[2014/06/23 23:02:41 131] sessinfo   120  perflog session  
+[2014/06/23 23:02:41 131] sessinfo   121  csid =  cisr1P1HHBHM2dazaB1-7HHaXqk7uH5+wxa  
+[2014/06/23 23:02:41 131] sessinfo   123  csid_t =  1403535546  
+[2014/06/23 23:02:41 131] sessinfo   143  new session  
+[2014/06/23 23:02:41 131] sessinfo   144  csid =  cisr1P1HHBHM2dHmaCOxBHHCXT1xnPM3t-w  
+[2014/06/23 23:02:41 131] sessinfo   146  csid_t =  1403535424  
+============================================================
+Time  2014/06/23 23:09:36 729 
+============================================================
+[2014/06/23 23:09:36 729] sessinfo   415  session info loaded!  
+[2014/06/23 23:09:36 729] sessinfo   434  SESSIONINFO_CMD  
+[2014/06/23 23:09:36 729] sessinfo   435  have_data_in_queue =   0  
+[2014/06/23 23:09:36 735] sessinfo   460  session info upload start  
+[2014/06/23 23:09:36 735] sessinfo   404  sessinfo new encoder success  
+[2014/06/23 23:09:36 735] sessinfo   383  sessinfo compress success  
+[2014/06/23 23:09:36 736] sessinfo   384  sessinfo after compressed size =   627  
+[2014/06/23 23:09:36 736] sessinfo   388  sessinfo data_encrypt is not nil  
+[2014/06/23 23:09:36 736] sessinfo   269  upload perflog  
+[2014/06/23 23:09:36 736] sessinfo   339  POST /scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid=iat00094a7e@gz3c6107038ef4460d00 HTTP/1.1
+Host: scs.openspeech.cn
+Connection: Keep-Alive
+Content-Type: application/x-gzip;charset=utf-8
+Content-Length: 627
+User-Agent: iFLYCloud
+Cache-Control: no-cache
+Accept: */*
+
+}ô®QŒkﬁ5È¢?∂7⁄ßY-y¨°@K@Ñ%5]åsÅ=ó&O´V&˙€\OÎÊ◊N~ıóæYÎ…R;bX…ìb›Hy√+ækﬂÙë∏µi⁄ËÉ‚FEÌ4S4¡›qh÷kæâ`·‘†su⁄”ª™tÂ
+Ç£CÕ-*∞2§Ôè·9“ºÂﬂ$”kÔ  
+[2014/06/23 23:09:36 736] network    153  gethttpresp  http://scs.openspeech.cn:80/scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid=iat00094a7e@gz3c6107038ef4460d00  
+[2014/06/23 23:09:36 755] network    22   dns resp  0  
+[2014/06/23 23:09:36 755] network    157  gethttpresp dns ok  60.166.12.146  
+[2014/06/23 23:09:36 755] network    47   gethttpresp2  60.166.12.146  80  
+[2014/06/23 23:09:36 828] sessinfo   424  SYS_MSG_SHUTDOWN  
+[2014/06/23 23:09:36 829] sessinfo   176  no receive upload success response  
+[2014/06/23 23:09:36 829] sessinfo   143  new session  
+[2014/06/23 23:09:36 829] sessinfo   144  csid =  cisr1P1HHBHM2dBVakxX-HH0Hi1IgBq7PNG  
+[2014/06/23 23:09:36 830] sessinfo   146  csid_t =  1403536173  
+[2014/06/23 23:09:36 831] sessinfo   120  perflog session  
+[2014/06/23 23:09:36 831] sessinfo   121  csid =  cisr1P1HHBHM2dBVakxX-HH0Hi1IgBq7PNG  
+[2014/06/23 23:09:36 831] sessinfo   123  csid_t =  1403536173  
+[2014/06/23 23:09:36 832] sessinfo   143  new session  
+[2014/06/23 23:09:36 832] sessinfo   144  csid =  cisr1P1HHBHM2dPBaBLIiHHHUV0fUWLkmd5  
+[2014/06/23 23:09:36 832] sessinfo   146  csid_t =  1403535756  
+[2014/06/23 23:09:36 833] sessinfo   120  perflog session  
+[2014/06/23 23:09:36 833] sessinfo   121  csid =  cisr1P1HHBHM2dBVakxX-HH0Hi1IgBq7PNG  
+[2014/06/23 23:09:36 833] sessinfo   123  csid_t =  1403536173  
+[2014/06/23 23:09:36 834] sessinfo   120  perflog session  
+[2014/06/23 23:09:36 834] sessinfo   121  csid =  cisr1P1HHBHM2dPBaBLIiHHHUV0fUWLkmd5  
+[2014/06/23 23:09:36 834] sessinfo   123  csid_t =  1403535756  
+[2014/06/23 23:09:36 835] sessinfo   143  new session  
+[2014/06/23 23:09:36 835] sessinfo   144  csid =  cisr1P1HHBHM2d1SaB7TPHHw67dQBPcsdF1  
+[2014/06/23 23:09:36 835] sessinfo   146  csid_t =  1403535739  
+[2014/06/23 23:09:36 835] sessinfo   120  perflog session  
+[2014/06/23 23:09:36 835] sessinfo   121  csid =  cisr1P1HHBHM2dBVakxX-HH0Hi1IgBq7PNG  
+[2014/06/23 23:09:36 835] sessinfo   123  csid_t =  1403536173  
+[2014/06/23 23:09:36 835] sessinfo   120  perflog session  
+[2014/06/23 23:09:36 835] sessinfo   121  csid =  cisr1P1HHBHM2dPBaBLIiHHHUV0fUWLkmd5  
+[2014/06/23 23:09:36 835] sessinfo   123  csid_t =  1403535756  
+[2014/06/23 23:09:36 835] sessinfo   120  perflog session  
+[2014/06/23 23:09:36 835] sessinfo   121  csid =  cisr1P1HHBHM2d1SaB7TPHHw67dQBPcsdF1  
+[2014/06/23 23:09:36 835] sessinfo   123  csid_t =  1403535739  
+[2014/06/23 23:09:36 836] sessinfo   143  new session  
+[2014/06/23 23:09:36 836] sessinfo   144  csid =  cisr1P1HHBHM2dazaB1-7HHaXqk7uH5+wxa  
+[2014/06/23 23:09:36 836] sessinfo   146  csid_t =  1403535546  
+============================================================
+Time  2014/06/23 23:11:03 244 
+============================================================
+[2014/06/23 23:11:03 244] sessinfo   415  session info loaded!  
+[2014/06/23 23:11:03 245] sessinfo   434  SESSIONINFO_CMD  
+[2014/06/23 23:11:03 245] sessinfo   435  have_data_in_queue =   0  
+[2014/06/23 23:11:03 249] sessinfo   460  session info upload start  
+[2014/06/23 23:11:03 249] sessinfo   404  sessinfo new encoder success  
+[2014/06/23 23:11:03 250] sessinfo   383  sessinfo compress success  
+[2014/06/23 23:11:03 250] sessinfo   384  sessinfo after compressed size =   626  
+[2014/06/23 23:11:03 250] sessinfo   388  sessinfo data_encrypt is not nil  
+[2014/06/23 23:11:03 250] sessinfo   269  upload perflog  
+[2014/06/23 23:11:03 250] sessinfo   339  POST /scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid=asr20000965@gz468c07038f49460d00 HTTP/1.1
+Host: scs.openspeech.cn
+Connection: Keep-Alive
+Content-Type: application/x-gzip;charset=utf-8
+Content-Length: 626
+User-Agent: iFLYCloud
+Cache-Control: no-cache
+Accept: */*
+
+}ô®QﬁoﬁEË¢Åx[·ú∏ÏW†Ä”
+,ëWÌF5D–¿t!PÆpô˙~bSHZˇ◊π~cRv„…§∂=	˛f6åGeáåW˝√~Tô¿¥©jäÊEa	√œ_"@∞°›ñ%ùâ˜œtÈo;—†7†(¿óÊu9Aè¨úÊ€⁄”8dK1;cQòöı6k≤Í≥öQxZìÚ({Ÿk‰¥˙Û†Ä™¢ÚˆÇê©å7†	(Ã†ö’*rÛË˚¢t\  
+[2014/06/23 23:11:03 251] network    153  gethttpresp  http://scs.openspeech.cn:80/scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid=asr20000965@gz468c07038f49460d00  
+[2014/06/23 23:11:03 264] network    22   dns resp  0  
+[2014/06/23 23:11:03 265] network    157  gethttpresp dns ok  60.166.12.146  
+[2014/06/23 23:11:03 265] network    47   gethttpresp2  60.166.12.146  80  
+[2014/06/23 23:11:03 326] network    72   connected  
+[2014/06/23 23:11:03 326] network    75   send ok  902  
+[2014/06/23 23:11:03 344] sessinfo   424  SYS_MSG_SHUTDOWN  
+[2014/06/23 23:11:03 344] sessinfo   176  no receive upload success response  
+[2014/06/23 23:11:03 345] sessinfo   143  new session  
+[2014/06/23 23:11:03 345] sessinfo   144  csid =  cisr1P1HHBHM2dkaakf1GHH0wnWRf0TxCtF  
+[2014/06/23 23:11:03 345] sessinfo   146  csid_t =  1403536258  
+[2014/06/23 23:11:03 346] sessinfo   120  perflog session  
+[2014/06/23 23:11:03 346] sessinfo   121  csid =  cisr1P1HHBHM2dkaakf1GHH0wnWRf0TxCtF  
+[2014/06/23 23:11:03 346] sessinfo   123  csid_t =  1403536258  
+[2014/06/23 23:11:03 347] sessinfo   143  new session  
+[2014/06/23 23:11:03 347] sessinfo   144  csid =  cisr1P1HHBHM2dBVakxX-HH0Hi1IgBq7PNG  
+[2014/06/23 23:11:03 347] sessinfo   146  csid_t =  1403536173  
+[2014/06/23 23:11:03 348] sessinfo   120  perflog session  
+[2014/06/23 23:11:03 348] sessinfo   121  csid =  cisr1P1HHBHM2dkaakf1GHH0wnWRf0TxCtF  
+[2014/06/23 23:11:03 348] sessinfo   123  csid_t =  1403536258  
+[2014/06/23 23:11:03 349] sessinfo   120  perflog session  
+[2014/06/23 23:11:03 349] sessinfo   121  csid =  cisr1P1HHBHM2dBVakxX-HH0Hi1IgBq7PNG  
+[2014/06/23 23:11:03 349] sessinfo   123  csid_t =  1403536173  
+[2014/06/23 23:11:03 350] sessinfo   143  new session  
+[2014/06/23 23:11:03 350] sessinfo   144  csid =  cisr1P1HHBHM2dPBaBLIiHHHUV0fUWLkmd5  
+[2014/06/23 23:11:03 350] sessinfo   146  csid_t =  1403535756  
+[2014/06/23 23:11:03 351] sessinfo   120  perflog session  
+[2014/06/23 23:11:03 351] sessinfo   121  csid =  cisr1P1HHBHM2dkaakf1GHH0wnWRf0TxCtF  
+[2014/06/23 23:11:03 351] sessinfo   123  csid_t =  1403536258  
+[2014/06/23 23:11:03 352] sessinfo   120  perflog session  
+[2014/06/23 23:11:03 352] sessinfo   121  csid =  cisr1P1HHBHM2dBVakxX-HH0Hi1IgBq7PNG  
+[2014/06/23 23:11:03 352] sessinfo   123  csid_t =  1403536173  
+[2014/06/23 23:11:03 352] sessinfo   120  perflog session  
+[2014/06/23 23:11:03 353] sessinfo   121  csid =  cisr1P1HHBHM2dPBaBLIiHHHUV0fUWLkmd5  
+[2014/06/23 23:11:03 353] sessinfo   123  csid_t =  1403535756  
+[2014/06/23 23:11:03 353] sessinfo   143  new session  
+[2014/06/23 23:11:03 353] sessinfo   144  csid =  cisr1P1HHBHM2d1SaB7TPHHw67dQBPcsdF1  
+[2014/06/23 23:11:03 353] sessinfo   146  csid_t =  1403535739  
+============================================================
+Time  2014/06/23 23:49:08 803 
+============================================================
+[2014/06/23 23:49:08 803] sessinfo   415  session info loaded!  
+[2014/06/23 23:49:08 803] sessinfo   434  SESSIONINFO_CMD  
+[2014/06/23 23:49:08 803] sessinfo   435  have_data_in_queue =   0  
+[2014/06/23 23:49:08 808] sessinfo   460  session info upload start  
+[2014/06/23 23:49:08 808] sessinfo   404  sessinfo new encoder success  
+[2014/06/23 23:49:08 809] sessinfo   383  sessinfo compress success  
+[2014/06/23 23:49:08 809] sessinfo   384  sessinfo after compressed size =   648  
+[2014/06/23 23:49:08 809] sessinfo   388  sessinfo data_encrypt is not nil  
+[2014/06/23 23:49:08 809] sessinfo   269  upload perflog  
+[2014/06/23 23:49:08 809] sessinfo   339  POST /scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid=iat001538ff@gz3c8807039837460d00 HTTP/1.1
+Host: scs.openspeech.cn
+Connection: Keep-Alive
+Content-Type: application/x-gzip;charset=utf-8
+Content-Length: 648
+User-Agent: iFLYCloud
+Cache-Control: no-cache
+Accept: */*
+
+}ô∞QŒkﬁ5È¢πìï¸ëM  
+[2014/06/23 23:49:08 809] network    153  gethttpresp  http://scs.openspeech.cn:80/scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid=iat001538ff@gz3c8807039837460d00  
+[2014/06/23 23:49:08 834] network    22   dns resp  0  
+[2014/06/23 23:49:08 834] network    157  gethttpresp dns ok  220.178.7.102  
+[2014/06/23 23:49:08 834] network    47   gethttpresp2  220.178.7.102  80  
+[2014/06/23 23:49:08 902] sessinfo   424  SYS_MSG_SHUTDOWN  
+[2014/06/23 23:49:08 903] sessinfo   176  no receive upload success response  
+[2014/06/23 23:49:08 903] sessinfo   143  new session  
+[2014/06/23 23:49:08 904] sessinfo   144  csid =  cisr1P1HHBHM2d33ayJNIHHlrpCx+kOT14A  
+[2014/06/23 23:49:08 904] sessinfo   146  csid_t =  1403538545  
+[2014/06/23 23:49:08 905] sessinfo   120  perflog session  
+[2014/06/23 23:49:08 905] sessinfo   121  csid =  cisr1P1HHBHM2d33ayJNIHHlrpCx+kOT14A  
+[2014/06/23 23:49:08 905] sessinfo   123  csid_t =  1403538545  
+[2014/06/23 23:49:08 906] sessinfo   143  new session  
+[2014/06/23 23:49:08 906] sessinfo   144  csid =  cisr1P1HHBHM2dkaakf1GHH0wnWRf0TxCtF  
+[2014/06/23 23:49:08 906] sessinfo   146  csid_t =  1403536258  
+[2014/06/23 23:49:08 907] sessinfo   120  perflog session  
+[2014/06/23 23:49:08 907] sessinfo   121  csid =  cisr1P1HHBHM2d33ayJNIHHlrpCx+kOT14A  
+[2014/06/23 23:49:08 907] sessinfo   123  csid_t =  1403538545  
+[2014/06/23 23:49:08 908] sessinfo   120  perflog session  
+[2014/06/23 23:49:08 908] sessinfo   121  csid =  cisr1P1HHBHM2dkaakf1GHH0wnWRf0TxCtF  
+[2014/06/23 23:49:08 908] sessinfo   123  csid_t =  1403536258  
+[2014/06/23 23:49:08 908] sessinfo   143  new session  
+[2014/06/23 23:49:08 908] sessinfo   144  csid =  cisr1P1HHBHM2dBVakxX-HH0Hi1IgBq7PNG  
+[2014/06/23 23:49:08 908] sessinfo   146  csid_t =  1403536173  
+[2014/06/23 23:49:08 910] sessinfo   120  perflog session  
+[2014/06/23 23:49:08 910] sessinfo   121  csid =  cisr1P1HHBHM2d33ayJNIHHlrpCx+kOT14A  
+[2014/06/23 23:49:08 910] sessinfo   123  csid_t =  1403538545  
+[2014/06/23 23:49:08 910] sessinfo   120  perflog session  
+[2014/06/23 23:49:08 910] sessinfo   121  csid =  cisr1P1HHBHM2dkaakf1GHH0wnWRf0TxCtF  
+[2014/06/23 23:49:08 911] sessinfo   123  csid_t =  1403536258  
+[2014/06/23 23:49:08 911] sessinfo   120  perflog session  
+[2014/06/23 23:49:08 911] sessinfo   121  csid =  cisr1P1HHBHM2dBVakxX-HH0Hi1IgBq7PNG  
+[2014/06/23 23:49:08 911] sessinfo   123  csid_t =  1403536173  
+[2014/06/23 23:49:08 912] sessinfo   143  new session  
+[2014/06/23 23:49:08 912] sessinfo   144  csid =  cisr1P1HHBHM2dPBaBLIiHHHUV0fUWLkmd5  
+[2014/06/23 23:49:08 912] sessinfo   146  csid_t =  1403535756  
+============================================================
+Time  2014/06/24 00:01:41 981 
+============================================================
+[2014/06/24 00:01:41 981] sessinfo   415  session info loaded!  
+[2014/06/24 00:01:41 981] sessinfo   434  SESSIONINFO_CMD  
+[2014/06/24 00:01:41 981] sessinfo   435  have_data_in_queue =   0  
+[2014/06/24 00:01:41 986] sessinfo   460  session info upload start  
+[2014/06/24 00:01:41 986] sessinfo   404  sessinfo new encoder success  
+[2014/06/24 00:01:41 987] sessinfo   383  sessinfo compress success  
+[2014/06/24 00:01:41 987] sessinfo   384  sessinfo after compressed size =   668  
+[2014/06/24 00:01:41 987] sessinfo   388  sessinfo data_encrypt is not nil  
+[2014/06/24 00:01:41 987] sessinfo   269  upload perflog  
+[2014/06/24 00:01:41 987] sessinfo   339  POST /scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid=iat00015e1b@gz3c1d07039b28460d00 HTTP/1.1
+Host: scs.openspeech.cn
+Connection: Keep-Alive
+Content-Type: application/x-gzip;charset=utf-8
+Content-Length: 668
+User-Agent: iFLYCloud
+Cache-Control: no-cache
+Accept: */*
+
+}ô¿QHnŸ5ËJø”}bÒ‡äW-8Ë$ÄG§1dtijg∑¥≤ì∏ÿ1·∫Úàπ$h§¬◊Ü¬jC◊Ìl„Läo2ŸﬂTêèVKàOQ⁄KØyQ¯c^»Øaí&±¨„_êﬂÜED$±Ø1ú"tsfÖÊI¥âY∆‘Œœò/ÛKôÌP|¸≠Áö0Ç≥å•Îaƒ÷ê…ø-Yñåay'‘ æ)Ã∑‹√`WŸ„æ	ûáózt‰´K^HîLõœé∫¬:v@WUî5µc)5áô%ä't+≠ıômc(Õ∑K±ˆ5ú•Ÿ!  
+[2014/06/24 00:01:41 987] network    153  gethttpresp  http://scs.openspeech.cn:80/scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid=iat00015e1b@gz3c1d07039b28460d00  
+[2014/06/24 00:01:42 006] network    22   dns resp  0  
+[2014/06/24 00:01:42 006] network    157  gethttpresp dns ok  60.166.12.146  
+[2014/06/24 00:01:42 006] network    47   gethttpresp2  60.166.12.146  80  
+[2014/06/24 00:01:42 081] sessinfo   424  SYS_MSG_SHUTDOWN  
+[2014/06/24 00:01:42 081] sessinfo   176  no receive upload success response  
+[2014/06/24 00:01:42 082] sessinfo   143  new session  
+[2014/06/24 00:01:42 082] sessinfo   144  csid =  cisr1P1HHBHM2dh4aXek+HHlVS1xY09Z1fY  
+[2014/06/24 00:01:42 082] sessinfo   146  csid_t =  1403539298  
+[2014/06/24 00:01:42 083] sessinfo   120  perflog session  
+[2014/06/24 00:01:42 083] sessinfo   121  csid =  cisr1P1HHBHM2dh4aXek+HHlVS1xY09Z1fY  
+[2014/06/24 00:01:42 083] sessinfo   123  csid_t =  1403539298  
+[2014/06/24 00:01:42 084] sessinfo   143  new session  
+[2014/06/24 00:01:42 084] sessinfo   144  csid =  cisr1P1HHBHM2d33ayJNIHHlrpCx+kOT14A  
+[2014/06/24 00:01:42 084] sessinfo   146  csid_t =  1403538545  
+[2014/06/24 00:01:42 085] sessinfo   120  perflog session  
+[2014/06/24 00:01:42 085] sessinfo   121  csid =  cisr1P1HHBHM2dh4aXek+HHlVS1xY09Z1fY  
+[2014/06/24 00:01:42 085] sessinfo   123  csid_t =  1403539298  
+[2014/06/24 00:01:42 086] sessinfo   120  perflog session  
+[2014/06/24 00:01:42 086] sessinfo   121  csid =  cisr1P1HHBHM2d33ayJNIHHlrpCx+kOT14A  
+[2014/06/24 00:01:42 086] sessinfo   123  csid_t =  1403538545  
+[2014/06/24 00:01:42 087] sessinfo   143  new session  
+[2014/06/24 00:01:42 087] sessinfo   144  csid =  cisr1P1HHBHM2dkaakf1GHH0wnWRf0TxCtF  
+[2014/06/24 00:01:42 087] sessinfo   146  csid_t =  1403536258  
+[2014/06/24 00:01:42 088] sessinfo   120  perflog session  
+[2014/06/24 00:01:42 088] sessinfo   121  csid =  cisr1P1HHBHM2dh4aXek+HHlVS1xY09Z1fY  
+[2014/06/24 00:01:42 088] sessinfo   123  csid_t =  1403539298  
+[2014/06/24 00:01:42 089] sessinfo   120  perflog session  
+[2014/06/24 00:01:42 089] sessinfo   121  csid =  cisr1P1HHBHM2d33ayJNIHHlrpCx+kOT14A  
+[2014/06/24 00:01:42 089] sessinfo   123  csid_t =  1403538545  
+[2014/06/24 00:01:42 090] sessinfo   120  perflog session  
+[2014/06/24 00:01:42 090] sessinfo   121  csid =  cisr1P1HHBHM2dkaakf1GHH0wnWRf0TxCtF  
+[2014/06/24 00:01:42 090] sessinfo   123  csid_t =  1403536258  
+[2014/06/24 00:01:42 091] sessinfo   143  new session  
+[2014/06/24 00:01:42 091] sessinfo   144  csid =  cisr1P1HHBHM2dBVakxX-HH0Hi1IgBq7PNG  
+[2014/06/24 00:01:42 091] sessinfo   146  csid_t =  1403536173  
+============================================================
+Time  2014/06/24 11:41:00 535 
+============================================================
+[2014/06/24 11:41:00 535] sessinfo   415  session info loaded!  
+[2014/06/24 11:41:00 562] sessinfo   434  SESSIONINFO_CMD  
+[2014/06/24 11:41:00 562] sessinfo   435  have_data_in_queue =   0  
+[2014/06/24 11:41:00 595] sessinfo   460  session info upload start  
+[2014/06/24 11:41:00 595] sessinfo   404  sessinfo new encoder success  
+[2014/06/24 11:41:00 596] sessinfo   383  sessinfo compress success  
+[2014/06/24 11:41:00 596] sessinfo   384  sessinfo after compressed size =   665  
+[2014/06/24 11:41:00 596] sessinfo   388  sessinfo data_encrypt is not nil  
+[2014/06/24 11:41:00 596] sessinfo   269  upload perflog  
+[2014/06/24 11:41:00 596] sessinfo   339  POST /scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid=iat00030a7c@ch3d1e07043f0c477600 HTTP/1.1
+Host: scs.openspeech.cn
+Connection: Keep-Alive
+Content-Type: application/x-gzip;charset=utf-8
+Content-Length: 665
+User-Agent: iFLYCloud
+Cache-Control: no-cache
+Accept: */*
+
+}ô¿ñHjﬁ5	ÉÚVòB—≤8	sœ§  
+[2014/06/24 11:41:00 596] network    153  gethttpresp  http://scs.openspeech.cn:80/scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid=iat00030a7c@ch3d1e07043f0c477600  
+[2014/06/24 11:41:00 659] network    22   dns resp  0  
+[2014/06/24 11:41:00 659] network    157  gethttpresp dns ok  120.193.118.6  
+[2014/06/24 11:41:00 659] network    47   gethttpresp2  120.193.118.6  80  
+[2014/06/24 11:41:00 676] sessinfo   424  SYS_MSG_SHUTDOWN  
+[2014/06/24 11:41:00 676] sessinfo   176  no receive upload success response  
+[2014/06/24 11:41:00 677] sessinfo   143  new session  
+[2014/06/24 11:41:00 678] sessinfo   144  csid =  cisr1PdHHBHM25ulrMb7HH58RwvrHec1tx  
+[2014/06/24 11:41:00 678] sessinfo   146  csid_t =  1403581256  
+[2014/06/24 11:41:00 679] sessinfo   120  perflog session  
+[2014/06/24 11:41:00 679] sessinfo   121  csid =  cisr1PdHHBHM25ulrMb7HH58RwvrHec1tx  
+[2014/06/24 11:41:00 679] sessinfo   123  csid_t =  1403581256  
+[2014/06/24 11:41:00 680] sessinfo   143  new session  
+[2014/06/24 11:41:00 680] sessinfo   144  csid =  cisr1P1HHBHM2dh4aXek+HHlVS1xY09Z1fY  
+[2014/06/24 11:41:00 680] sessinfo   146  csid_t =  1403539298  
+[2014/06/24 11:41:00 681] sessinfo   120  perflog session  
+[2014/06/24 11:41:00 681] sessinfo   121  csid =  cisr1PdHHBHM25ulrMb7HH58RwvrHec1tx  
+[2014/06/24 11:41:00 681] sessinfo   123  csid_t =  1403581256  
+[2014/06/24 11:41:00 682] sessinfo   120  perflog session  
+[2014/06/24 11:41:00 682] sessinfo   121  csid =  cisr1P1HHBHM2dh4aXek+HHlVS1xY09Z1fY  
+[2014/06/24 11:41:00 682] sessinfo   123  csid_t =  1403539298  
+[2014/06/24 11:41:00 683] sessinfo   143  new session  
+[2014/06/24 11:41:00 683] sessinfo   144  csid =  cisr1P1HHBHM2d33ayJNIHHlrpCx+kOT14A  
+[2014/06/24 11:41:00 683] sessinfo   146  csid_t =  1403538545  
+[2014/06/24 11:41:00 684] sessinfo   120  perflog session  
+[2014/06/24 11:41:00 684] sessinfo   121  csid =  cisr1PdHHBHM25ulrMb7HH58RwvrHec1tx  
+[2014/06/24 11:41:00 684] sessinfo   123  csid_t =  1403581256  
+[2014/06/24 11:41:00 685] sessinfo   120  perflog session  
+[2014/06/24 11:41:00 685] sessinfo   121  csid =  cisr1P1HHBHM2dh4aXek+HHlVS1xY09Z1fY  
+[2014/06/24 11:41:00 685] sessinfo   123  csid_t =  1403539298  
+[2014/06/24 11:41:00 685] sessinfo   120  perflog session  
+[2014/06/24 11:41:00 685] sessinfo   121  csid =  cisr1P1HHBHM2d33ayJNIHHlrpCx+kOT14A  
+[2014/06/24 11:41:00 685] sessinfo   123  csid_t =  1403538545  
+[2014/06/24 11:41:00 685] sessinfo   143  new session  
+[2014/06/24 11:41:00 685] sessinfo   144  csid =  cisr1P1HHBHM2dkaakf1GHH0wnWRf0TxCtF  
+[2014/06/24 11:41:00 685] sessinfo   146  csid_t =  1403536258  
+============================================================
+Time  2014/06/24 11:42:36 816 
+============================================================
+[2014/06/24 11:42:36 816] sessinfo   415  session info loaded!  
+[2014/06/24 11:42:36 816] sessinfo   434  SESSIONINFO_CMD  
+[2014/06/24 11:42:36 816] sessinfo   435  have_data_in_queue =   0  
+[2014/06/24 11:42:36 821] sessinfo   460  session info upload start  
+[2014/06/24 11:42:36 821] sessinfo   404  sessinfo new encoder success  
+[2014/06/24 11:42:36 822] sessinfo   383  sessinfo compress success  
+[2014/06/24 11:42:36 822] sessinfo   384  sessinfo after compressed size =   668  
+[2014/06/24 11:42:36 822] sessinfo   388  sessinfo data_encrypt is not nil  
+[2014/06/24 11:42:36 822] sessinfo   269  upload perflog  
+[2014/06/24 11:42:36 822] sessinfo   339  POST /scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid=iat00169cbc@gz3c0e07043f6e461100 HTTP/1.1
+Host: scs.openspeech.cn
+Connection: Keep-Alive
+Content-Type: application/x-gzip;charset=utf-8
+Content-Length: 668
+User-Agent: iFLYCloud
+Cache-Control: no-cache
+Accept: */*
+
+}ô¿Qﬁk÷E‡VØx[ô‹Æ*$@ß•ªRT·ﬂKn0¥Ü“,P˙ò6n÷«J9,æ6Ê∂∂v‹6Jg»%è"4hÚ‡!Ê,í©	‰Pº«-è≠úaﬁÉà>É.ìœl
+Ã{ˇàw¨I÷§Ñ∂—¬ æ¿v3¯ÀõêQKNF__ÈõâIòî<s@ë#.êt]N€<¨7«óF◊≈M®òíﬂ¬WœWÉ	√⁄øù∆jå%ã“^Å˙∫ﬂ9NüΩdi
+-ù’°Èè˘Oﬁ†Æf+Õ„GèV\j∫ËJ ÷(≈h<ÁF¯“¶ˇ'Œ‡Ù›”E=Vo^ø£uE°y[ÿSÎ{ùèOÃüòj©Rè≈Ô¡j@ΩÅû-∑iÿç'·∑ÆŒ§Édè€#†©7üﬁøF_OÊÎåf¬£<*L18:ÓwãÁÕªv=K˙ØÕmÑÄ&Ê)ﬂCÈ`e<–h∫øW˚ÿUã»˛˝˘Ò,ßlSsÙ!gö∂©ﬂ5≠Ó∏ªYz‘Î‰ˆ•™√¯lÚu|Ω;z¯˝˝KÉcy<⁄Ab\Ô¸ÔlEÃ¿¯=é–ØkKÃ¨jÆ£ﬂÚVòQÁX∞Xÿôñ˛Ù%’’xz2RI /4Ys˘ÅóQxÇ"Ú¡ÈÆ&éß$Î
+›L˛‚í+APl∆œ*Ó†t°b¡.≤ø?‰96"b„·…)Kùôœ]œ∏vëg„°eNÀn5òvEá„·eNŸ Yh3ŒHIh)Lñ˙˛I€)<˚49=ƒﬁº'©…6œŒœ/TÌmã6  
+[2014/06/24 11:42:36 822] network    153  gethttpresp  http://scs.openspeech.cn:80/scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid=iat00169cbc@gz3c0e07043f6e461100  
+[2014/06/24 11:42:36 873] network    22   dns resp  0  
+[2014/06/24 11:42:36 873] network    157  gethttpresp dns ok  120.193.118.6  
+[2014/06/24 11:42:36 873] network    47   gethttpresp2  120.193.118.6  80  
+[2014/06/24 11:42:36 915] sessinfo   424  SYS_MSG_SHUTDOWN  
+[2014/06/24 11:42:36 915] sessinfo   176  no receive upload success response  
+[2014/06/24 11:42:36 916] sessinfo   143  new session  
+[2014/06/24 11:42:36 917] sessinfo   144  csid =  cisr1PdHHBHM25kKr2LtHHHEfkBmPxNCy-  
+[2014/06/24 11:42:36 917] sessinfo   146  csid_t =  1403581353  
+[2014/06/24 11:42:36 918] sessinfo   120  perflog session  
+[2014/06/24 11:42:36 918] sessinfo   121  csid =  cisr1PdHHBHM25kKr2LtHHHEfkBmPxNCy-  
+[2014/06/24 11:42:36 918] sessinfo   123  csid_t =  1403581353  
+[2014/06/24 11:42:36 919] sessinfo   143  new session  
+[2014/06/24 11:42:36 919] sessinfo   144  csid =  cisr1PdHHBHM25ulrMb7HH58RwvrHec1tx  
+[2014/06/24 11:42:36 919] sessinfo   146  csid_t =  1403581256  
+[2014/06/24 11:42:36 920] sessinfo   120  perflog session  
+[2014/06/24 11:42:36 920] sessinfo   121  csid =  cisr1PdHHBHM25kKr2LtHHHEfkBmPxNCy-  
+[2014/06/24 11:42:36 920] sessinfo   123  csid_t =  1403581353  
+[2014/06/24 11:42:36 921] sessinfo   120  perflog session  
+[2014/06/24 11:42:36 921] sessinfo   121  csid =  cisr1PdHHBHM25ulrMb7HH58RwvrHec1tx  
+[2014/06/24 11:42:36 921] sessinfo   123  csid_t =  1403581256  
+[2014/06/24 11:42:36 922] sessinfo   143  new session  
+[2014/06/24 11:42:36 922] sessinfo   144  csid =  cisr1P1HHBHM2dh4aXek+HHlVS1xY09Z1fY  
+[2014/06/24 11:42:36 922] sessinfo   146  csid_t =  1403539298  
+[2014/06/24 11:42:36 923] sessinfo   120  perflog session  
+[2014/06/24 11:42:36 923] sessinfo   121  csid =  cisr1PdHHBHM25kKr2LtHHHEfkBmPxNCy-  
+[2014/06/24 11:42:36 923] sessinfo   123  csid_t =  1403581353  
+[2014/06/24 11:42:36 924] sessinfo   120  perflog session  
+[2014/06/24 11:42:36 924] sessinfo   121  csid =  cisr1PdHHBHM25ulrMb7HH58RwvrHec1tx  
+[2014/06/24 11:42:36 924] sessinfo   123  csid_t =  1403581256  
+[2014/06/24 11:42:36 925] sessinfo   120  perflog session  
+[2014/06/24 11:42:36 925] sessinfo   121  csid =  cisr1P1HHBHM2dh4aXek+HHlVS1xY09Z1fY  
+[2014/06/24 11:42:36 925] sessinfo   123  csid_t =  1403539298  
+[2014/06/24 11:42:36 926] sessinfo   143  new session  
+[2014/06/24 11:42:36 926] sessinfo   144  csid =  cisr1P1HHBHM2d33ayJNIHHlrpCx+kOT14A  
+[2014/06/24 11:42:36 926] sessinfo   146  csid_t =  1403538545  
+============================================================
+Time  2014/06/27 10:29:13 371 
+============================================================
+[2014/06/27 10:29:13 371] sessinfo   415  session info loaded!  
+[2014/06/27 10:29:13 391] sessinfo   424  SYS_MSG_SHUTDOWN  
+[2014/06/27 10:29:13 391] sessinfo   176  no receive upload success response  
+[2014/06/27 10:29:13 403] sessinfo   120  perflog session  
+[2014/06/27 10:29:13 403] sessinfo   121  csid =  cisr1PdHHBHM25kKr2LtHHHEfkBmPxNCy-  
+[2014/06/27 10:29:13 403] sessinfo   123  csid_t =  1403581353  
+[2014/06/27 10:29:13 404] sessinfo   120  perflog session  
+[2014/06/27 10:29:13 404] sessinfo   121  csid =  cisr1PdHHBHM25ulrMb7HH58RwvrHec1tx  
+[2014/06/27 10:29:13 404] sessinfo   123  csid_t =  1403581256  
+[2014/06/27 10:29:13 404] sessinfo   120  perflog session  
+[2014/06/27 10:29:13 404] sessinfo   121  csid =  cisr1P1HHBHM2dh4aXek+HHlVS1xY09Z1fY  
+[2014/06/27 10:29:13 404] sessinfo   123  csid_t =  1403539298  
+[2014/06/27 10:29:13 404] dkjson     781  dkjson:781: bad argument #2 to 'pegmatch' (string expected, got nil)  
+============================================================
+Time  2014/06/27 10:29:28 243 
+============================================================
+[2014/06/27 10:29:28 243] sessinfo   415  session info loaded!  
+[2014/06/27 10:29:28 244] sessinfo   424  SYS_MSG_SHUTDOWN  
+[2014/06/27 10:29:28 244] sessinfo   176  no receive upload success response  
+[2014/06/27 10:29:28 246] dkjson     781  dkjson:781: bad argument #2 to 'pegmatch' (string expected, got nil)  
+============================================================
+Time  2014/06/27 10:29:38 682 
+============================================================
+[2014/06/27 10:29:38 682] sessinfo   415  session info loaded!  
+[2014/06/27 10:29:38 683] sessinfo   424  SYS_MSG_SHUTDOWN  
+[2014/06/27 10:29:38 683] sessinfo   176  no receive upload success response  
+[2014/06/27 10:29:38 684] dkjson     781  dkjson:781: bad argument #2 to 'pegmatch' (string expected, got nil)  
+============================================================
+Time  2014/06/27 10:30:12 650 
+============================================================
+[2014/06/27 10:30:12 650] sessinfo   415  session info loaded!  
+[2014/06/27 10:30:12 651] sessinfo   434  SESSIONINFO_CMD  
+[2014/06/27 10:30:12 651] sessinfo   435  have_data_in_queue =   0  
+[2014/06/27 10:30:12 652] sessinfo   460  session info upload start  
+[2014/06/27 10:30:12 653] sessinfo   404  sessinfo new encoder success  
+[2014/06/27 10:30:12 653] sessinfo   383  sessinfo compress success  
+[2014/06/27 10:30:12 653] sessinfo   384  sessinfo after compressed size =   659  
+[2014/06/27 10:30:12 653] sessinfo   388  sessinfo data_encrypt is not nil  
+[2014/06/27 10:30:12 653] sessinfo   269  upload perflog  
+[2014/06/27 10:30:12 654] sessinfo   339  POST /scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid=iat000205d7@ch3d74070822e5477600 HTTP/1.1
+Host: scs.openspeech.cn
+Connection: Keep-Alive
+Content-Type: application/x-gzip;charset=utf-8
+Content-Length: 659
+User-Agent: iFLYCloud
+Cache-Control: no-cache
+Accept: */*
+
+}ô¿VXé—5¢)|òy"®''&ÈáçÂÜ)Fh>>¿k^ûsŸ`ú˙ÎºlR¡Bte◊vñ~ñvÀHõ›ûåJi<¢ÕË±‚øw¸ëŒäãZôá˙™DŸñfß†€HîMLÓºÚ≤»6]ìDtà™ƒ“l»x’9¬R¨ÏeΩ±Ü&‡EOoŒê	$NÕn¬Pãn° $HÕŒñN1!Xw‘ÇµtIâW„3üÂ(ò≈ä«·?Y=Óûú‘:N(•&EBÂ±(7L`Ïµ°&"EÑ„˜YEqÖΩ$avF◊«≈$úñHÅ©ñÂ”˙dozùg¿∞®hgUÍôLŒÆYA˘ó«ñÈëNb“%ÿ%g˙Áä# 3 R]®iª∑« ]8Kzg–ıhòOqàgV¶í∞ü+\K¿ëL3!˜aDü[ö  
+[2014/06/27 10:30:12 654] network    153  gethttpresp  http://scs.openspeech.cn:80/scs?cmd=mscsessioninfo&logver=1.1.3&ver=1&sid=iat000205d7@ch3d74070822e5477600  
+[2014/06/27 10:30:12 716] network    22   dns resp  0  
+[2014/06/27 10:30:12 716] network    157  gethttpresp dns ok  60.166.12.146  
+[2014/06/27 10:30:12 716] network    47   gethttpresp2  60.166.12.146  80  
+[2014/06/27 10:30:12 749] sessinfo   424  SYS_MSG_SHUTDOWN  
+[2014/06/27 10:30:12 749] sessinfo   176  no receive upload success response  
+[2014/06/27 10:30:12 751] sessinfo   143  new session  
+[2014/06/27 10:30:12 751] sessinfo   144  csid =  cisr1PdHHBHMFuTitMIMHHW805DRl7c5h1  
+[2014/06/27 10:30:12 751] sessinfo   146  csid_t =  1403836208  
+============================================================
+Time  2014/06/27 10:32:10 637 
+============================================================
+[2014/06/27 10:32:10 638] sessinfo   415  session info loaded!  
+[2014/06/27 10:32:10 638] sessinfo   424  SYS_MSG_SHUTDOWN  
+[2014/06/27 10:32:10 638] sessinfo   176  no receive upload success response  
+[2014/06/27 10:32:10 640] sessinfo   120  perflog session  
+[2014/06/27 10:32:10 640] sessinfo   121  csid =  cisr1PdHHBHMFuTitMIMHHW805DRl7c5h1  
+[2014/06/27 10:32:10 640] sessinfo   123  csid_t =  1403836208  
+[2014/06/27 10:32:10 640] dkjson     781  dkjson:781: bad argument #2 to 'pegmatch' (string expected, got nil)  
+============================================================
+Time  2014/06/27 10:32:48 161 
+============================================================
+[2014/06/27 10:32:48 162] sessinfo   415  session info loaded!  
+[2014/06/27 10:32:48 162] sessinfo   424  SYS_MSG_SHUTDOWN  
+[2014/06/27 10:32:48 162] sessinfo   176  no receive upload success response  
+[2014/06/27 10:32:48 164] dkjson     781  dkjson:781: bad argument #2 to 'pegmatch' (string expected, got nil)  
+============================================================
+Time  2014/06/27 10:33:28 778 
+============================================================
+[2014/06/27 10:33:28 778] sessinfo   415  session info loaded!  
+[2014/06/27 10:33:28 779] sessinfo   424  SYS_MSG_SHUTDOWN  
+[2014/06/27 10:33:28 779] sessinfo   176  no receive upload success response  
+[2014/06/27 10:33:28 781] dkjson     781  dkjson:781: bad argument #2 to 'pegmatch' (string expected, got nil)  
+============================================================
+Time  2014/06/27 10:34:01 281 
+============================================================
+[2014/06/27 10:34:01 281] sessinfo   415  session info loaded!  
+[2014/06/27 10:34:01 281] sessinfo   424  SYS_MSG_SHUTDOWN  
+[2014/06/27 10:34:01 281] sessinfo   176  no receive upload success response  
+[2014/06/27 10:34:01 283] dkjson     781  dkjson:781: bad argument #2 to 'pegmatch' (string expected, got nil)  
+============================================================
+Time  2014/06/27 10:34:17 847 
+============================================================
+[2014/06/27 10:34:17 847] sessinfo   415  session info loaded!  
+[2014/06/27 10:34:17 847] sessinfo   424  SYS_MSG_SHUTDOWN  
+[2014/06/27 10:34:17 848] sessinfo   176  no receive upload success response  
+[2014/06/27 10:34:17 849] dkjson     781  dkjson:781: bad argument #2 to 'pegmatch' (string expected, got nil)  
+============================================================
+Time  2014/06/27 10:34:56 487 
+============================================================
+[2014/06/27 10:34:56 487] sessinfo   415  session info loaded!  
+[2014/06/27 10:34:56 488] sessinfo   424  SYS_MSG_SHUTDOWN  
+[2014/06/27 10:34:56 488] sessinfo   176  no receive upload success response  
+[2014/06/27 10:34:56 489] dkjson     781  dkjson:781: bad argument #2 to 'pegmatch' (string expected, got nil)  
+============================================================
+Time  2014/06/27 10:35:01 744 
+============================================================
+[2014/06/27 10:35:01 744] sessinfo   415  session info loaded!  
+[2014/06/27 10:35:01 744] sessinfo   424  SYS_MSG_SHUTDOWN  
+[2014/06/27 10:35:01 744] sessinfo   176  no receive upload success response  
+[2014/06/27 10:35:01 746] dkjson     781  dkjson:781: bad argument #2 to 'pegmatch' (string expected, got nil)  
+============================================================
+Time  2014/06/27 10:35:03 514 
+============================================================
+[2014/06/27 10:35:03 515] sessinfo   415  session info loaded!  
+[2014/06/27 10:35:03 515] sessinfo   424  SYS_MSG_SHUTDOWN  
+[2014/06/27 10:35:03 515] sessinfo   176  no receive upload success response  
+[2014/06/27 10:35:03 517] dkjson     781  dkjson:781: bad argument #2 to 'pegmatch' (string expected, got nil)  
+============================================================
+Time  2014/06/27 10:36:16 242 
+============================================================
+[2014/06/27 10:36:16 242] sessinfo   415  session info loaded!  
+[2014/06/27 10:36:16 243] sessinfo   424  SYS_MSG_SHUTDOWN  
+[2014/06/27 10:36:16 243] sessinfo   176  no receive upload success response  
+[2014/06/27 10:36:16 244] dkjson     781  dkjson:781: bad argument #2 to 'pegmatch' (string expected, got nil)  
+============================================================
+Time  2014/06/27 10:36:45 994 
+============================================================
+[2014/06/27 10:36:45 994] sessinfo   415  session info loaded!  
+[2014/06/27 10:36:45 995] sessinfo   424  SYS_MSG_SHUTDOWN  
+[2014/06/27 10:36:45 995] sessinfo   176  no receive upload success response  
+[2014/06/27 10:36:45 995] dkjson     781  dkjson:781: bad argument #2 to 'pegmatch' (string expected, got nil)  
+============================================================
+Time  2014/06/27 10:38:13 709 
+============================================================
+[2014/06/27 10:38:13 709] sessinfo   415  session info loaded!  
+[2014/06/27 10:38:13 710] sessinfo   424  SYS_MSG_SHUTDOWN  
+[2014/06/27 10:38:13 710] sessinfo   176  no receive upload success response  
+[2014/06/27 10:38:13 711] dkjson     781  dkjson:781: bad argument #2 to 'pegmatch' (string expected, got nil)  
+============================================================
+Time  2014/06/27 10:41:39 067 
+============================================================
+[2014/06/27 10:41:39 067] sessinfo   415  session info loaded!  
+[2014/06/27 10:41:39 067] sessinfo   424  SYS_MSG_SHUTDOWN  
+[2014/06/27 10:41:39 067] sessinfo   176  no receive upload success response  
+[2014/06/27 10:41:39 069] dkjson     781  dkjson:781: bad argument #2 to 'pegmatch' (string expected, got nil)  
+============================================================
+Time  2014/06/27 10:43:39 844 
+============================================================
+[2014/06/27 10:43:39 844] sessinfo   415  session info loaded!  
+[2014/06/27 10:43:39 844] sessinfo   424  SYS_MSG_SHUTDOWN  
+[2014/06/27 10:43:39 844] sessinfo   176  no receive upload success response  
+[2014/06/27 10:43:39 845] dkjson     781  dkjson:781: bad argument #2 to 'pegmatch' (string expected, got nil)  
+============================================================
+Time  2014/06/27 10:45:11 721 
+============================================================
+[2014/06/27 10:45:11 721] sessinfo   415  session info loaded!  
+[2014/06/27 10:45:11 721] sessinfo   424  SYS_MSG_SHUTDOWN  
+[2014/06/27 10:45:11 721] sessinfo   176  no receive upload success response  
+[2014/06/27 10:45:11 723] dkjson     781  dkjson:781: bad argument #2 to 'pegmatch' (string expected, got nil)  
+============================================================
+Time  2014/06/27 11:00:17 674 
+============================================================
+[2014/06/27 11:00:17 674] sessinfo   415  session info loaded!  
+[2014/06/27 11:00:17 674] sessinfo   424  SYS_MSG_SHUTDOWN  
+[2014/06/27 11:00:17 674] sessinfo   176  no receive upload success response  
+[2014/06/27 11:00:17 676] dkjson     781  dkjson:781: bad argument #2 to 'pegmatch' (string expected, got nil)  
+============================================================
+Time  2014/06/27 11:04:08 855 
+============================================================
+[2014/06/27 11:04:08 855] sessinfo   415  session info loaded!  
+[2014/06/27 11:04:08 856] sessinfo   424  SYS_MSG_SHUTDOWN  
+[2014/06/27 11:04:08 856] sessinfo   176  no receive upload success response  
+[2014/06/27 11:04:08 858] dkjson     781  dkjson:781: bad argument #2 to 'pegmatch' (string expected, got nil)  
+============================================================
+Time  2014/06/27 11:07:25 352 
+============================================================
+[2014/06/27 11:07:25 352] sessinfo   415  session info loaded!  
+[2014/06/27 11:07:25 353] sessinfo   424  SYS_MSG_SHUTDOWN  
+[2014/06/27 11:07:25 353] sessinfo   176  no receive upload success response  
+[2014/06/27 11:07:25 354] dkjson     781  dkjson:781: bad argument #2 to 'pegmatch' (string expected, got nil)  
+============================================================
+Time  2014/06/27 11:07:29 251 
+============================================================
+[2014/06/27 11:07:29 251] sessinfo   415  session info loaded!  
+[2014/06/27 11:07:29 252] sessinfo   424  SYS_MSG_SHUTDOWN  
+[2014/06/27 11:07:29 252] sessinfo   176  no receive upload success response  
+[2014/06/27 11:07:29 254] dkjson     781  dkjson:781: bad argument #2 to 'pegmatch' (string expected, got nil)  
+============================================================
+Time  2014/06/27 11:07:32 343 
+============================================================
+[2014/06/27 11:07:32 343] sessinfo   415  session info loaded!  
+[2014/06/27 11:07:32 344] sessinfo   424  SYS_MSG_SHUTDOWN  
+[2014/06/27 11:07:32 344] sessinfo   176  no receive upload success response  
+[2014/06/27 11:07:32 346] dkjson     781  dkjson:781: bad argument #2 to 'pegmatch' (string expected, got nil)  
+============================================================
+Time  2014/06/27 11:25:17 602 
+============================================================
+[2014/06/27 11:25:17 602] sessinfo   415  session info loaded!  
+[2014/06/27 11:25:17 602] sessinfo   424  SYS_MSG_SHUTDOWN  
+[2014/06/27 11:25:17 603] sessinfo   176  no receive upload success response  
+[2014/06/27 11:25:17 604] dkjson     781  dkjson:781: bad argument #2 to 'pegmatch' (string expected, got nil)  
+============================================================
+Time  2014/06/27 11:26:36 677 
+============================================================
+[2014/06/27 11:26:36 677] sessinfo   415  session info loaded!  
+[2014/06/27 11:26:36 677] sessinfo   424  SYS_MSG_SHUTDOWN  
+[2014/06/27 11:26:36 678] sessinfo   176  no receive upload success response  
+[2014/06/27 11:26:36 679] dkjson     781  dkjson:781: bad argument #2 to 'pegmatch' (string expected, got nil)  
+============================================================
+Time  2014/06/27 11:26:53 614 
+============================================================
+[2014/06/27 11:26:53 615] sessinfo   415  session info loaded!  
+[2014/06/27 11:26:53 615] sessinfo   424  SYS_MSG_SHUTDOWN  
+[2014/06/27 11:26:53 615] sessinfo   176  no receive upload success response  
+[2014/06/27 11:26:53 617] dkjson     781  dkjson:781: bad argument #2 to 'pegmatch' (string expected, got nil)  
+============================================================
+Time  2014/06/27 11:27:28 759 
+============================================================
+[2014/06/27 11:27:28 759] sessinfo   415  session info loaded!  
+[2014/06/27 11:27:28 760] sessinfo   424  SYS_MSG_SHUTDOWN  
+[2014/06/27 11:27:28 760] sessinfo   176  no receive upload success response  
+[2014/06/27 11:27:28 761] dkjson     781  dkjson:781: bad argument #2 to 'pegmatch' (string expected, got nil)  
+============================================================
+Time  2014/06/27 11:27:39 888 
+============================================================
+[2014/06/27 11:27:39 888] sessinfo   415  session info loaded!  
+[2014/06/27 11:27:39 889] sessinfo   424  SYS_MSG_SHUTDOWN  
+[2014/06/27 11:27:39 889] sessinfo   176  no receive upload success response  
+[2014/06/27 11:27:39 890] dkjson     781  dkjson:781: bad argument #2 to 'pegmatch' (string expected, got nil)  
+============================================================
+Time  2014/06/27 11:29:07 891 
+============================================================
+[2014/06/27 11:29:07 891] sessinfo   415  session info loaded!  
+[2014/06/27 11:29:07 892] sessinfo   424  SYS_MSG_SHUTDOWN  
+[2014/06/27 11:29:07 892] sessinfo   176  no receive upload success response  
+[2014/06/27 11:29:07 892] dkjson     781  dkjson:781: bad argument #2 to 'pegmatch' (string expected, got nil)  
+============================================================
+Time  2014/06/29 13:11:11 212 
+============================================================
+[2014/06/29 13:11:11 212] sessinfo   415  session info loaded!  
+[2014/06/29 13:11:11 245] sessinfo   434  SESSIONINFO_CMD  
+[2014/06/29 13:11:11 246] sessinfo   435  have_data_in_queue =   0  
+[2014/06/29 13:11:11 248] sessinfo   460  session info upload start  
+[2014/06/29 13:11:11 248] sessinfo   404  sessinfo new encoder success  
+[2014/06/29 13:11:11 249] sessinfo   424  SYS_MSG_SHUTDOWN  
+[2014/06/29 13:11:11 249] sessinfo   176  no receive upload success response  
+[2014/06/29 13:11:11 249] sessinfo   143  new session  
+[2014/06/29 13:11:11 249] sessinfo   144  csid =  cisr1PwHHBHMFg6FJqRHH1peu9ZmRyHhY  
+[2014/06/29 13:11:11 249] sessinfo   146  csid_t =  1404018667  
+============================================================
+Time  2014/06/29 13:15:51 521 
+============================================================
+[2014/06/29 13:15:51 522] sessinfo   415  session info loaded!  
+[2014/06/29 13:15:51 522] sessinfo   424  SYS_MSG_SHUTDOWN  
+[2014/06/29 13:15:51 522] sessinfo   176  no receive upload success response  
+[2014/06/29 13:15:51 525] sessinfo   120  perflog session  
+[2014/06/29 13:15:51 525] sessinfo   121  csid =  cisr1PwHHBHMFg6FJqRHH1peu9ZmRyHhY  
+[2014/06/29 13:15:51 525] sessinfo   123  csid_t =  1404018667  
+[2014/06/29 13:15:51 525] dkjson     781  dkjson:781: bad argument #2 to 'pegmatch' (string expected, got nil)  
+============================================================
+Time  2014/06/29 13:17:48 581 
+============================================================
+[2014/06/29 13:17:48 581] sessinfo   415  session info loaded!  
+[2014/06/29 13:17:48 582] sessinfo   424  SYS_MSG_SHUTDOWN  
+[2014/06/29 13:17:48 582] sessinfo   176  no receive upload success response  
+[2014/06/29 13:17:48 584] dkjson     781  dkjson:781: bad argument #2 to 'pegmatch' (string expected, got nil)  
+============================================================
+Time  2014/06/29 13:17:55 170 
+============================================================
+[2014/06/29 13:17:55 170] sessinfo   415  session info loaded!  
+[2014/06/29 13:17:55 171] sessinfo   424  SYS_MSG_SHUTDOWN  
+[2014/06/29 13:17:55 171] sessinfo   176  no receive upload success response  
+[2014/06/29 13:17:55 172] dkjson     781  dkjson:781: bad argument #2 to 'pegmatch' (string expected, got nil)  
+============================================================
+Time  2014/06/29 13:23:30 063 
+============================================================
+[2014/06/29 13:23:30 063] sessinfo   415  session info loaded!  
+[2014/06/29 13:23:30 064] sessinfo   424  SYS_MSG_SHUTDOWN  
+[2014/06/29 13:23:30 064] sessinfo   176  no receive upload success response  
+[2014/06/29 13:23:30 065] dkjson     781  dkjson:781: bad argument #2 to 'pegmatch' (string expected, got nil)  
